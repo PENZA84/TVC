@@ -106,13 +106,12 @@ https://github.com/3yed-61
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "❔XX | 🟢 | vless | 3YED | 1",
                 "🇩🇪DE | 🟢 | vless | 3YED | 0",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇸🇪SE | 🟢 | vless | 3YED | 69",
-                "🇳🇱NL | 🟢 | vless | 3YED | 6",
-                "🇯🇵JP | 🟢 | vless | 3YED | 10",
-                "❔XX | 🟢 | vless | 3YED | 4",
+                "🇵🇪PE | 🟢 | vless | 3YED | 4",
+                "🇳🇱NL | 🟢 | vless | 3YED | 5",
+                "❔XX | 🟢 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🟢 | vless | 3YED | 8",
@@ -131,13 +130,12 @@ https://github.com/3yed-61
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "❔XX | 🟢 | vless | 3YED | 1",
                 "🇩🇪DE | 🟢 | vless | 3YED | 0",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇸🇪SE | 🟢 | vless | 3YED | 69",
-                "🇳🇱NL | 🟢 | vless | 3YED | 6",
-                "🇯🇵JP | 🟢 | vless | 3YED | 10",
-                "❔XX | 🟢 | vless | 3YED | 4",
+                "🇵🇪PE | 🟢 | vless | 3YED | 4",
+                "🇳🇱NL | 🟢 | vless | 3YED | 5",
+                "❔XX | 🟢 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🟢 | vless | 3YED | 8",
@@ -170,35 +168,6 @@ https://github.com/3yed-61
         {
             "tag": "dns-out",
             "type": "dns"
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | 3YED | 1",
-            "type": "vless",
-            "server": "ip",
-            "server_port": 443,
-            "uuid": "Telegram-Parsashonam",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "domian",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "rd71EGp4BCn3x_hIoaYi5R6GaqF9TIA4F6t5WyOPaXc",
-                    "short_id": "83dc602558"
-                }
-            }
         },
         {
             "tag": "🇩🇪DE | 🟢 | vless | 3YED | 0",
@@ -288,11 +257,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | 3YED | 6",
+            "tag": "🇵🇪PE | 🟢 | vless | 3YED | 4",
             "type": "vless",
-            "server": "104.238.31.71",
-            "server_port": 443,
-            "uuid": "b783c6d6-3a0f-4c13-bbd1-86bf1ec4d94d",
+            "server": "45.194.10.83",
+            "server_port": 8443,
+            "uuid": "3e7cede4-721a-4807-b0a2-5fe6586af907",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -302,7 +271,7 @@ https://github.com/3yed-61
             },
             "tls": {
                 "enabled": true,
-                "server_name": "unitbook.net",
+                "server_name": "storage.yandex.net",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -311,42 +280,13 @@ https://github.com/3yed-61
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
-                    "short_id": "6ba85179e30d4fc2"
+                    "public_key": "L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA",
+                    "short_id": "2cfb5a0ae8ab0cb0"
                 }
             }
         },
         {
-            "tag": "🇯🇵JP | 🟢 | vless | 3YED | 10",
-            "type": "vless",
-            "server": "89.125.20.104",
-            "server_port": 443,
-            "uuid": "546d7622-cdf6-4d39-af34-9060c5720f57",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "auto.malina24.xyz",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": null
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ",
-                    "short_id": "abcd"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | 3YED | 4",
+            "tag": "🇳🇱NL | 🟢 | vless | 3YED | 5",
             "type": "vless",
             "server": "195.254.165.243",
             "server_port": 443,
@@ -371,6 +311,35 @@ https://github.com/3yed-61
                     "enabled": true,
                     "public_key": "zSjG6wndmLAzE8ykCBXpAm2eh0viWVSy3gt2juXF4EE",
                     "short_id": "eaa8"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | 3YED | 10",
+            "type": "vless",
+            "server": "89.125.20.104",
+            "server_port": 443,
+            "uuid": "546d7622-cdf6-4d39-af34-9060c5720f57",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "auto.malina24.xyz",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": null
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ",
+                    "short_id": "abcd"
                 }
             }
         },

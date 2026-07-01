@@ -2,9 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/3yed-61
-trojan://telegram-id-privatevpns@63.186.80.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 9
-trojan://telegram-id-privatevpns@52.59.13.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 10
-trojan://telegram-id-directvpn@63.186.80.111:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 9
-trojan://telegram-id-directvpn@52.59.13.5:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 10
-trojan://afbcd89a-5a90-4a44-a42a-be08f444aa3f@blog.webex.com:443?host=unnes.ac.id.yxls.eu.cc&path=/br-orcl&sni=unnes.ac.id.yxls.eu.cc&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 7
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443#🇩🇪DE | 🔴 | trojan | 3YED | 8
+trojan://telegram-id-privatevpns@63.186.80.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 10
+trojan://telegram-id-privatevpns@52.59.13.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 11
+trojan://telegram-id-directvpn@63.186.80.111:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 10
+trojan://telegram-id-directvpn@52.59.13.5:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 11
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?path=/&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 7
+trojan://afbcd89a-5a90-4a44-a42a-be08f444aa3f@blog.webex.com:443?host=unnes.ac.id.yxls.eu.cc&path=/br-orcl&sni=unnes.ac.id.yxls.eu.cc&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 8
