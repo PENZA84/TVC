@@ -2,9 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/3yed-61
-trojan://telegram-id-privatevpns@13.38.152.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 10
-trojan://telegram-id-privatevpns@13.38.237.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 11
-trojan://telegram-id-directvpn@13.38.152.198:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 10
-trojan://telegram-id-directvpn@13.38.237.81:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 11
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.18.153.10:443?host=space.byu.id.yxls.eu.cc&path=/au-do&sni=space.byu.id.yxls.eu.cc&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 7
-trojan://humanity@104.17.121.43:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 8
+trojan://telegram-id-privatevpns@13.36.137.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 16
+trojan://telegram-id-privatevpns@63.186.80.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 17
+trojan://telegram-id-directvpn@13.36.137.47:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | 3YED | 16
+trojan://telegram-id-directvpn@63.186.80.111:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 17
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.18.153.10:443?host=space.byu.id.yxls.eu.cc&path=/au-do&sni=space.byu.id.yxls.eu.cc&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 9
+trojan://humanity@104.17.121.43:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 10
