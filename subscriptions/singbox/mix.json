@@ -142,8 +142,8 @@
                 "🇺🇸US | 🔴 | vless | 3YED | 13",
                 "🇺🇸US | 🔴 | vless | 3YED | 14",
                 "🇺🇸US | 🔴 | vless | 3YED | 15",
-                "🇧🇪BE | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 1",
+                "❔XX | 🔴 | vless | 3YED | 0",
+                "🇺🇸US | 🔴 | vless | 3YED | 1",
                 "🚩CF | 🔴 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 4",
                 "❔XX | 🔴 | vless | 3YED | 5",
@@ -222,15 +222,14 @@
                 "❔XX | 🟢 | vmess | 3YED | 15",
                 "❔XX | 🟢 | vmess | 3YED | 16",
                 "❔XX | 🔴 | trojan | 3YED | 0",
-                "🚩CF | 🔴 | trojan | 3YED | 1",
-                "❔XX | 🔴 | trojan | 3YED | 2",
+                "❔XX | 🔴 | trojan | 3YED | 1",
+                "🚩CF | 🔴 | trojan | 3YED | 2",
                 "❔XX | 🔴 | trojan | 3YED | 3",
-                "❔XX | 🟢 | vmess | 3YED | 4",
-                "❔XX | 🔴 | trojan | 3YED | 5",
-                "❔XX | 🔴 | trojan | 3YED | 7",
-                "🚩CF | 🔴 | trojan | 3YED | 8",
+                "❔XX | 🔴 | trojan | 3YED | 4",
+                "❔XX | 🟢 | vmess | 3YED | 5",
+                "❔XX | 🔴 | trojan | 3YED | 6",
+                "❔XX | 🔴 | trojan | 3YED | 8",
                 "🚩CF | 🔴 | trojan | 3YED | 9",
-                "🚩CF | 🔴 | trojan | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "🚩CF | 🔴 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 2",
@@ -336,6 +335,7 @@
                 "❔XX | 🟢 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 6",
                 "❔XX | 🟢 | vless | 3YED | 7",
+                "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 5",
                 "🚩CF | 🔴 | vless | 3YED | 6",
@@ -430,12 +430,13 @@
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "🚩CF | 🔴 | vless | 3YED | 9",
                 "🚩CF | 🔴 | vless | 3YED | 10",
-                "❔XX | 🔴 | vless | 3YED | 1",
+                "🚩CF | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 2",
-                "❔XX | 🔴 | vless | 3YED | 5",
-                "❔XX | 🔴 | vless | 3YED | 8",
-                "❔XX | 🟢 | vless | 3YED | 9",
-                "❔XX | 🔴 | vless | 3YED | 11",
+                "❔XX | 🔴 | vless | 3YED | 3",
+                "❔XX | 🔴 | vless | 3YED | 6",
+                "❔XX | 🔴 | vless | 3YED | 9",
+                "❔XX | 🟢 | vless | 3YED | 10",
+                "❔XX | 🔴 | vless | 3YED | 12",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "🚩CF | 🔴 | vless | 3YED | 1",
                 "🚩CF | 🔴 | vless | 3YED | 6",
@@ -466,16 +467,16 @@
                 "❔XX | 🔴 | vless | 3YED | 59",
                 "❔XX | 🟢 | vless | 3YED | 61",
                 "❔XX | 🔴 | vless | 3YED | 62",
-                "🇷🇺RU | 🟢 | vless | 3YED | 63",
-                "🇷🇺RU | 🔴 | vless | 3YED | 64",
-                "🇩🇪DE | 🔴 | vless | 3YED | 65",
-                "🇫🇷FR | 🔴 | vless | 3YED | 66",
-                "🇫🇮FI | 🟢 | vless | 3YED | 67",
+                "❔XX | 🟢 | vless | 3YED | 63",
+                "❔XX | 🔴 | vless | 3YED | 64",
+                "❔XX | 🔴 | vless | 3YED | 65",
+                "❔XX | 🔴 | vless | 3YED | 66",
+                "❔XX | 🟢 | vless | 3YED | 67",
                 "❔XX | 🔴 | vless | 3YED | 68",
-                "🇮🇷IR | 🔴 | vless | 3YED | 69",
-                "🇮🇷IR | 🔴 | vless | 3YED | 70",
-                "🇮🇷IR | 🔴 | vless | 3YED | 71",
-                "🇮🇷IR | 🔴 | vless | 3YED | 72",
+                "❔XX | 🔴 | vless | 3YED | 69",
+                "❔XX | 🔴 | vless | 3YED | 70",
+                "❔XX | 🔴 | vless | 3YED | 71",
+                "❔XX | 🔴 | vless | 3YED | 72",
                 "🇵🇱PL | 🔴 | vless | 3YED | 73",
                 "🇮🇷IR | 🔴 | vless | 3YED | 74",
                 "🇮🇷IR | 🔴 | vless | 3YED | 75",
@@ -489,14 +490,14 @@
                 "🇺🇸US | 🔴 | vless | 3YED | 83",
                 "🇺🇸US | 🔴 | vless | 3YED | 84",
                 "🇸🇪SE | 🔴 | vless | 3YED | 1",
-                "❔XX | 🟢 | vless | 3YED | 6",
-                "❔XX | 🟢 | vless | 3YED | 8",
-                "❔XX | 🔴 | vless | 3YED | 10",
-                "❔XX | 🟢 | vless | 3YED | 11",
-                "❔XX | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 1",
-                "❔XX | 🔴 | vless | 3YED | 2",
-                "❔XX | 🔴 | vless | 3YED | 3",
+                "🇷🇺RU | 🟢 | vless | 3YED | 6",
+                "🇳🇱NL | 🟢 | vless | 3YED | 8",
+                "🇺🇸US | 🔴 | vless | 3YED | 10",
+                "🇮🇷IR | 🟢 | vless | 3YED | 11",
+                "🇺🇸US | 🔴 | vless | 3YED | 0",
+                "🇳🇱NL | 🔴 | vless | 3YED | 1",
+                "🇩🇪DE | 🔴 | vless | 3YED | 2",
+                "🇫🇮FI | 🔴 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 4",
                 "❔XX | 🔴 | vless | 3YED | 5",
                 "🚩CF | 🔴 | vless | 3YED | 6",
@@ -570,8 +571,8 @@
                 "🇺🇸US | 🔴 | vless | 3YED | 13",
                 "🇺🇸US | 🔴 | vless | 3YED | 14",
                 "🇺🇸US | 🔴 | vless | 3YED | 15",
-                "🇧🇪BE | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 1",
+                "❔XX | 🔴 | vless | 3YED | 0",
+                "🇺🇸US | 🔴 | vless | 3YED | 1",
                 "🚩CF | 🔴 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 4",
                 "❔XX | 🔴 | vless | 3YED | 5",
@@ -650,15 +651,14 @@
                 "❔XX | 🟢 | vmess | 3YED | 15",
                 "❔XX | 🟢 | vmess | 3YED | 16",
                 "❔XX | 🔴 | trojan | 3YED | 0",
-                "🚩CF | 🔴 | trojan | 3YED | 1",
-                "❔XX | 🔴 | trojan | 3YED | 2",
+                "❔XX | 🔴 | trojan | 3YED | 1",
+                "🚩CF | 🔴 | trojan | 3YED | 2",
                 "❔XX | 🔴 | trojan | 3YED | 3",
-                "❔XX | 🟢 | vmess | 3YED | 4",
-                "❔XX | 🔴 | trojan | 3YED | 5",
-                "❔XX | 🔴 | trojan | 3YED | 7",
-                "🚩CF | 🔴 | trojan | 3YED | 8",
+                "❔XX | 🔴 | trojan | 3YED | 4",
+                "❔XX | 🟢 | vmess | 3YED | 5",
+                "❔XX | 🔴 | trojan | 3YED | 6",
+                "❔XX | 🔴 | trojan | 3YED | 8",
                 "🚩CF | 🔴 | trojan | 3YED | 9",
-                "🚩CF | 🔴 | trojan | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "🚩CF | 🔴 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 2",
@@ -764,6 +764,7 @@
                 "❔XX | 🟢 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 6",
                 "❔XX | 🟢 | vless | 3YED | 7",
+                "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 5",
                 "🚩CF | 🔴 | vless | 3YED | 6",
@@ -858,12 +859,13 @@
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "🚩CF | 🔴 | vless | 3YED | 9",
                 "🚩CF | 🔴 | vless | 3YED | 10",
-                "❔XX | 🔴 | vless | 3YED | 1",
+                "🚩CF | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 2",
-                "❔XX | 🔴 | vless | 3YED | 5",
-                "❔XX | 🔴 | vless | 3YED | 8",
-                "❔XX | 🟢 | vless | 3YED | 9",
-                "❔XX | 🔴 | vless | 3YED | 11",
+                "❔XX | 🔴 | vless | 3YED | 3",
+                "❔XX | 🔴 | vless | 3YED | 6",
+                "❔XX | 🔴 | vless | 3YED | 9",
+                "❔XX | 🟢 | vless | 3YED | 10",
+                "❔XX | 🔴 | vless | 3YED | 12",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "🚩CF | 🔴 | vless | 3YED | 1",
                 "🚩CF | 🔴 | vless | 3YED | 6",
@@ -894,16 +896,16 @@
                 "❔XX | 🔴 | vless | 3YED | 59",
                 "❔XX | 🟢 | vless | 3YED | 61",
                 "❔XX | 🔴 | vless | 3YED | 62",
-                "🇷🇺RU | 🟢 | vless | 3YED | 63",
-                "🇷🇺RU | 🔴 | vless | 3YED | 64",
-                "🇩🇪DE | 🔴 | vless | 3YED | 65",
-                "🇫🇷FR | 🔴 | vless | 3YED | 66",
-                "🇫🇮FI | 🟢 | vless | 3YED | 67",
+                "❔XX | 🟢 | vless | 3YED | 63",
+                "❔XX | 🔴 | vless | 3YED | 64",
+                "❔XX | 🔴 | vless | 3YED | 65",
+                "❔XX | 🔴 | vless | 3YED | 66",
+                "❔XX | 🟢 | vless | 3YED | 67",
                 "❔XX | 🔴 | vless | 3YED | 68",
-                "🇮🇷IR | 🔴 | vless | 3YED | 69",
-                "🇮🇷IR | 🔴 | vless | 3YED | 70",
-                "🇮🇷IR | 🔴 | vless | 3YED | 71",
-                "🇮🇷IR | 🔴 | vless | 3YED | 72",
+                "❔XX | 🔴 | vless | 3YED | 69",
+                "❔XX | 🔴 | vless | 3YED | 70",
+                "❔XX | 🔴 | vless | 3YED | 71",
+                "❔XX | 🔴 | vless | 3YED | 72",
                 "🇵🇱PL | 🔴 | vless | 3YED | 73",
                 "🇮🇷IR | 🔴 | vless | 3YED | 74",
                 "🇮🇷IR | 🔴 | vless | 3YED | 75",
@@ -917,14 +919,14 @@
                 "🇺🇸US | 🔴 | vless | 3YED | 83",
                 "🇺🇸US | 🔴 | vless | 3YED | 84",
                 "🇸🇪SE | 🔴 | vless | 3YED | 1",
-                "❔XX | 🟢 | vless | 3YED | 6",
-                "❔XX | 🟢 | vless | 3YED | 8",
-                "❔XX | 🔴 | vless | 3YED | 10",
-                "❔XX | 🟢 | vless | 3YED | 11",
-                "❔XX | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 1",
-                "❔XX | 🔴 | vless | 3YED | 2",
-                "❔XX | 🔴 | vless | 3YED | 3",
+                "🇷🇺RU | 🟢 | vless | 3YED | 6",
+                "🇳🇱NL | 🟢 | vless | 3YED | 8",
+                "🇺🇸US | 🔴 | vless | 3YED | 10",
+                "🇮🇷IR | 🟢 | vless | 3YED | 11",
+                "🇺🇸US | 🔴 | vless | 3YED | 0",
+                "🇳🇱NL | 🔴 | vless | 3YED | 1",
+                "🇩🇪DE | 🔴 | vless | 3YED | 2",
+                "🇫🇮FI | 🔴 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 4",
                 "❔XX | 🔴 | vless | 3YED | 5",
                 "🚩CF | 🔴 | vless | 3YED | 6",
@@ -1878,7 +1880,7 @@
             }
         },
         {
-            "tag": "🇧🇪BE | 🔴 | vless | 3YED | 0",
+            "tag": "❔XX | 🔴 | vless | 3YED | 0",
             "type": "vless",
             "server": "185.158.133.158",
             "server_port": 2096,
@@ -1909,7 +1911,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 1",
+            "tag": "🇺🇸US | 🔴 | vless | 3YED | 1",
             "type": "vless",
             "server": "rf4.sernett.ir",
             "server_port": 80,
@@ -3674,6 +3676,25 @@
         {
             "tag": "❔XX | 🔴 | trojan | 3YED | 0",
             "type": "trojan",
+            "server": "199.181.197.169",
+            "server_port": 443,
+            "password": "humanity",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/assignment",
+                "headers": {
+                    "Host": "www.calmloud.com"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | trojan | 3YED | 1",
+            "type": "trojan",
             "server": "45.130.125.160",
             "server_port": 443,
             "password": "humanity",
@@ -3691,7 +3712,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | trojan | 3YED | 1",
+            "tag": "🚩CF | 🔴 | trojan | 3YED | 2",
             "type": "trojan",
             "server": "104.18.152.97",
             "server_port": 443,
@@ -3710,7 +3731,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | trojan | 3YED | 2",
+            "tag": "❔XX | 🔴 | trojan | 3YED | 3",
             "type": "trojan",
             "server": "pumped-eft.rooster465.autos",
             "server_port": 443,
@@ -3722,7 +3743,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | trojan | 3YED | 3",
+            "tag": "❔XX | 🔴 | trojan | 3YED | 4",
             "type": "trojan",
             "server": "185.137.157.149",
             "server_port": 443,
@@ -3734,7 +3755,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 4",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 5",
             "type": "vmess",
             "server": null,
             "server_port": 0,
@@ -3751,7 +3772,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | trojan | 3YED | 5",
+            "tag": "❔XX | 🔴 | trojan | 3YED | 6",
             "type": "trojan",
             "server": "199.181.197.176",
             "server_port": 443,
@@ -3770,7 +3791,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | trojan | 3YED | 7",
+            "tag": "❔XX | 🔴 | trojan | 3YED | 8",
             "type": "trojan",
             "server": "45.131.4.115",
             "server_port": 443,
@@ -3789,7 +3810,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | trojan | 3YED | 8",
+            "tag": "🚩CF | 🔴 | trojan | 3YED | 9",
             "type": "trojan",
             "server": "172.66.47.69",
             "server_port": 443,
@@ -3804,44 +3825,6 @@
                 "path": "\/assignment",
                 "headers": {
                     "Host": "www.multiplydose.com"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🔴 | trojan | 3YED | 9",
-            "type": "trojan",
-            "server": "104.18.153.10",
-            "server_port": 443,
-            "password": "86957ec0-b213-433b-a43b-51f2175e0ec3",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/au-do",
-                "headers": {
-                    "Host": "space.byu.id.yxls.eu.cc"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🔴 | trojan | 3YED | 10",
-            "type": "trojan",
-            "server": "104.17.121.43",
-            "server_port": 443,
-            "password": "humanity",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/assignment",
-                "headers": {
-                    "Host": "www.calmlunch.com"
                 }
             }
         },
@@ -6722,6 +6705,37 @@
             }
         },
         {
+            "tag": "❔XX | 🔴 | vless | 3YED | 8",
+            "type": "vless",
+            "server": "192.71.82.2",
+            "server_port": 443,
+            "uuid": "a5c05c1e-aa68-443f-8598-09800244bd4b",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "kingcloud.biack.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/LiL",
+                "headers": {
+                    "Host": "kingcloud.biack.ir"
+                }
+            }
+        },
+        {
             "tag": "❔XX | 🔴 | vless | 3YED | 3",
             "type": "vless",
             "server": "206.71.158.10",
@@ -9352,7 +9366,31 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 1",
+            "tag": "🚩CF | 🔴 | vless | 3YED | 0",
+            "type": "vless",
+            "server": "198.41.208.172",
+            "server_port": 2083,
+            "uuid": "1deea0b5-7ea7-4b40-ae73-81a9d59824a0",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "GGMMDDE2.FOLLOWERARZON1.COM",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | 3YED | 2",
             "type": "vless",
             "server": "d-a.lorqina.ir",
             "server_port": 2082,
@@ -9373,7 +9411,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 2",
+            "tag": "❔XX | 🔴 | vless | 3YED | 3",
             "type": "vless",
             "server": "gbw40.moyvpns.com",
             "server_port": 443,
@@ -9404,7 +9442,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 5",
+            "tag": "❔XX | 🔴 | vless | 3YED | 6",
             "type": "vless",
             "server": "52.222.136.195",
             "server_port": 443,
@@ -9435,7 +9473,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 8",
+            "tag": "❔XX | 🔴 | vless | 3YED | 9",
             "type": "vless",
             "server": "89.106.64.15",
             "server_port": 7000,
@@ -9449,7 +9487,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 9",
+            "tag": "❔XX | 🟢 | vless | 3YED | 10",
             "type": "vless",
             "server": "176.119.141.136",
             "server_port": 8443,
@@ -9478,7 +9516,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 11",
+            "tag": "❔XX | 🔴 | vless | 3YED | 12",
             "type": "vless",
             "server": "192.71.82.2",
             "server_port": 443,
@@ -10200,7 +10238,7 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vless | 3YED | 63",
+            "tag": "❔XX | 🟢 | vless | 3YED | 63",
             "type": "vless",
             "server": "176.124.214.188",
             "server_port": 443,
@@ -10229,7 +10267,7 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🔴 | vless | 3YED | 64",
+            "tag": "❔XX | 🔴 | vless | 3YED | 64",
             "type": "vless",
             "server": "82.202.159.119",
             "server_port": 443,
@@ -10258,7 +10296,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 65",
+            "tag": "❔XX | 🔴 | vless | 3YED | 65",
             "type": "vless",
             "server": "18.199.182.165",
             "server_port": 22224,
@@ -10289,7 +10327,7 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | 3YED | 66",
+            "tag": "❔XX | 🔴 | vless | 3YED | 66",
             "type": "vless",
             "server": "15.224.0.245",
             "server_port": 22224,
@@ -10320,7 +10358,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🟢 | vless | 3YED | 67",
+            "tag": "❔XX | 🟢 | vless | 3YED | 67",
             "type": "vless",
             "server": "mail.tomandjery.eu",
             "server_port": 1001,
@@ -10363,7 +10401,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 69",
+            "tag": "❔XX | 🔴 | vless | 3YED | 69",
             "type": "vless",
             "server": "tunn.vpsino.com",
             "server_port": 2096,
@@ -10377,7 +10415,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 70",
+            "tag": "❔XX | 🔴 | vless | 3YED | 70",
             "type": "vless",
             "server": "tunn.vpsino.com",
             "server_port": 2092,
@@ -10391,7 +10429,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 71",
+            "tag": "❔XX | 🔴 | vless | 3YED | 71",
             "type": "vless",
             "server": "tunn.vpsino.com",
             "server_port": 2087,
@@ -10405,7 +10443,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 72",
+            "tag": "❔XX | 🔴 | vless | 3YED | 72",
             "type": "vless",
             "server": "tunn.vpsino.com",
             "server_port": 2087,
@@ -10693,7 +10731,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 6",
+            "tag": "🇷🇺RU | 🟢 | vless | 3YED | 6",
             "type": "vless",
             "server": "94.242.55.42",
             "server_port": 443,
@@ -10722,7 +10760,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 8",
+            "tag": "🇳🇱NL | 🟢 | vless | 3YED | 8",
             "type": "vless",
             "server": "72.56.65.210",
             "server_port": 40443,
@@ -10751,7 +10789,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 10",
+            "tag": "🇺🇸US | 🔴 | vless | 3YED | 10",
             "type": "vless",
             "server": "199.232.78.159",
             "server_port": 443,
@@ -10782,7 +10820,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 11",
+            "tag": "🇮🇷IR | 🟢 | vless | 3YED | 11",
             "type": "vless",
             "server": "194.146.68.70",
             "server_port": 8088,
@@ -10811,7 +10849,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 0",
+            "tag": "🇺🇸US | 🔴 | vless | 3YED | 0",
             "type": "vless",
             "server": "fsxhh.fastshop1.com",
             "server_port": 443,
@@ -10835,7 +10873,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 1",
+            "tag": "🇳🇱NL | 🔴 | vless | 3YED | 1",
             "type": "vless",
             "server": "it.fifapes.monster",
             "server_port": 29148,
@@ -10849,7 +10887,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 2",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 2",
             "type": "vless",
             "server": "135.125.168.83",
             "server_port": 719,
@@ -10870,7 +10908,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 3",
+            "tag": "🇫🇮FI | 🔴 | vless | 3YED | 3",
             "type": "vless",
             "server": "65.109.180.151",
             "server_port": 443,
