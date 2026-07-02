@@ -112,7 +112,8 @@
                 "❔XX | 🟢 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🟢 | vless | 3YED | 4",
-                "❔XX | 🔴 | vless | 3YED | 2",
+                "❔XX | 🟢 | vless | 3YED | 0",
+                "❔XX | 🔴 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 6",
                 "❔XX | 🟢 | vless | 3YED | 8",
                 "❔XX | 🟢 | vless | 3YED | 17",
@@ -171,21 +172,21 @@
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 3",
-                "❔XX | 🟢 | vless | 3YED | 8",
+                "❔XX | 🟢 | vless | 3YED | 9",
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "❔XX | 🟢 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 7",
-                "🇩🇪DE | 🟢 | vless | 3YED | 48",
-                "🇮🇷IR | 🔴 | vless | 3YED | 52",
-                "🇫🇮FI | 🟢 | vless | 3YED | 53",
+                "❔XX | 🟢 | vless | 3YED | 48",
+                "❔XX | 🔴 | vless | 3YED | 52",
+                "❔XX | 🟢 | vless | 3YED | 53",
                 "❔XX | 🟢 | vless | 3YED | 54",
                 "❔XX | 🟢 | vless | 3YED | 61",
                 "🇷🇺RU | 🟢 | vless | 3YED | 63",
                 "🇷🇺RU | 🔴 | vless | 3YED | 64",
                 "🇫🇮FI | 🟢 | vless | 3YED | 67",
-                "❔XX | 🔴 | vless | 3YED | 83",
-                "❔XX | 🔴 | vless | 3YED | 84",
+                "🇺🇸US | 🔴 | vless | 3YED | 83",
+                "🇺🇸US | 🔴 | vless | 3YED | 84",
                 "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🟢 | vless | 3YED | 8",
                 "❔XX | 🟢 | vless | 3YED | 11",
@@ -219,7 +220,8 @@
                 "❔XX | 🟢 | vless | 3YED | 7",
                 "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🟢 | vless | 3YED | 4",
-                "❔XX | 🔴 | vless | 3YED | 2",
+                "❔XX | 🟢 | vless | 3YED | 0",
+                "❔XX | 🔴 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 6",
                 "❔XX | 🟢 | vless | 3YED | 8",
                 "❔XX | 🟢 | vless | 3YED | 17",
@@ -278,21 +280,21 @@
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 3",
-                "❔XX | 🟢 | vless | 3YED | 8",
+                "❔XX | 🟢 | vless | 3YED | 9",
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "❔XX | 🟢 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 7",
-                "🇩🇪DE | 🟢 | vless | 3YED | 48",
-                "🇮🇷IR | 🔴 | vless | 3YED | 52",
-                "🇫🇮FI | 🟢 | vless | 3YED | 53",
+                "❔XX | 🟢 | vless | 3YED | 48",
+                "❔XX | 🔴 | vless | 3YED | 52",
+                "❔XX | 🟢 | vless | 3YED | 53",
                 "❔XX | 🟢 | vless | 3YED | 54",
                 "❔XX | 🟢 | vless | 3YED | 61",
                 "🇷🇺RU | 🟢 | vless | 3YED | 63",
                 "🇷🇺RU | 🔴 | vless | 3YED | 64",
                 "🇫🇮FI | 🟢 | vless | 3YED | 67",
-                "❔XX | 🔴 | vless | 3YED | 83",
-                "❔XX | 🔴 | vless | 3YED | 84",
+                "🇺🇸US | 🔴 | vless | 3YED | 83",
+                "🇺🇸US | 🔴 | vless | 3YED | 84",
                 "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🟢 | vless | 3YED | 8",
                 "❔XX | 🟢 | vless | 3YED | 11",
@@ -545,7 +547,36 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 2",
+            "tag": "❔XX | 🟢 | vless | 3YED | 0",
+            "type": "vless",
+            "server": "178.83.45.135",
+            "server_port": 80,
+            "uuid": "8978c513-8ada-432f-8683-f9d0db366963",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "au2-images.shop.samsung.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "NvmxDEBRwIFf8EuszUyzUsnXD52lJ6HBW6t7Z1iK8mI",
+                    "short_id": "cd7b"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | 3YED | 3",
             "type": "vless",
             "server": "45.86.228.237",
             "server_port": 443,
@@ -2298,7 +2329,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 8",
+            "tag": "❔XX | 🟢 | vless | 3YED | 9",
             "type": "vless",
             "server": "176.119.141.136",
             "server_port": 8443,
@@ -2443,7 +2474,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 48",
+            "tag": "❔XX | 🟢 | vless | 3YED | 48",
             "type": "vless",
             "server": "57.129.53.181",
             "server_port": 23576,
@@ -2472,7 +2503,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🔴 | vless | 3YED | 52",
+            "tag": "❔XX | 🔴 | vless | 3YED | 52",
             "type": "vless",
             "server": "185.218.139.138",
             "server_port": 443,
@@ -2508,7 +2539,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🟢 | vless | 3YED | 53",
+            "tag": "❔XX | 🟢 | vless | 3YED | 53",
             "type": "vless",
             "server": "92.60.78.221",
             "server_port": 443,
@@ -2682,7 +2713,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 83",
+            "tag": "🇺🇸US | 🔴 | vless | 3YED | 83",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
@@ -2718,7 +2749,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 84",
+            "tag": "🇺🇸US | 🔴 | vless | 3YED | 84",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
