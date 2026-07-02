@@ -110,7 +110,7 @@
                 "❔XX | 🟢 | vmess | 3YED | 1",
                 "❔XX | 🟢 | vmess | 3YED | 2",
                 "❔XX | 🟢 | vmess | 3YED | 3",
-                "❔XX | 🟢 | vmess | 3YED | 4",
+                "🇨🇳CN | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
                 "❔XX | 🟢 | vmess | 3YED | 6",
                 "❔XX | 🟢 | vmess | 3YED | 10",
@@ -128,7 +128,7 @@
                 "❔XX | 🟢 | vmess | 3YED | 0",
                 "❔XX | 🟢 | vmess | 3YED | 1",
                 "❔XX | 🟢 | vmess | 3YED | 2",
-                "❔XX | 🟢 | vmess | 3YED | 3",
+                "🇫🇷FR | 🟢 | vmess | 3YED | 3",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
                 "🚩CF | 🟢 | vmess | 3YED | 6",
@@ -147,7 +147,7 @@
                 "❔XX | 🟢 | vmess | 3YED | 1",
                 "❔XX | 🟢 | vmess | 3YED | 2",
                 "❔XX | 🟢 | vmess | 3YED | 3",
-                "❔XX | 🟢 | vmess | 3YED | 4",
+                "🇨🇳CN | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
                 "❔XX | 🟢 | vmess | 3YED | 6",
                 "❔XX | 🟢 | vmess | 3YED | 10",
@@ -165,7 +165,7 @@
                 "❔XX | 🟢 | vmess | 3YED | 0",
                 "❔XX | 🟢 | vmess | 3YED | 1",
                 "❔XX | 🟢 | vmess | 3YED | 2",
-                "❔XX | 🟢 | vmess | 3YED | 3",
+                "🇫🇷FR | 🟢 | vmess | 3YED | 3",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
                 "🚩CF | 🟢 | vmess | 3YED | 6",
@@ -280,7 +280,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 4",
+            "tag": "🇨🇳CN | 🟢 | vmess | 3YED | 4",
             "type": "vmess",
             "server": "183.236.51.23",
             "server_port": 48109,
@@ -702,7 +702,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 3",
+            "tag": "🇫🇷FR | 🟢 | vmess | 3YED | 3",
             "type": "vmess",
             "server": "51.83.97.167",
             "server_port": 80,
