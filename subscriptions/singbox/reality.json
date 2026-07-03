@@ -185,12 +185,12 @@
                 "❔XX | 🟢 | vless | 3YED | 63",
                 "❔XX | 🔴 | vless | 3YED | 64",
                 "❔XX | 🟢 | vless | 3YED | 67",
-                "🇺🇸US | 🔴 | vless | 3YED | 83",
-                "🇺🇸US | 🔴 | vless | 3YED | 84",
-                "🇷🇺RU | 🟢 | vless | 3YED | 6",
-                "🇳🇱NL | 🟢 | vless | 3YED | 8",
-                "🇮🇷IR | 🟢 | vless | 3YED | 11",
-                "🇫🇮FI | 🔴 | vless | 3YED | 3",
+                "❔XX | 🔴 | vless | 3YED | 83",
+                "❔XX | 🔴 | vless | 3YED | 84",
+                "❔XX | 🟢 | vless | 3YED | 6",
+                "❔XX | 🟢 | vless | 3YED | 8",
+                "❔XX | 🟢 | vless | 3YED | 11",
+                "❔XX | 🔴 | vless | 3YED | 3",
                 "❔XX | 🟢 | vless | 3YED | 9",
                 "❔XX | 🟢 | vless | 3YED | 12",
                 "❔XX | 🟢 | vless | 3YED | 14",
@@ -293,12 +293,12 @@
                 "❔XX | 🟢 | vless | 3YED | 63",
                 "❔XX | 🔴 | vless | 3YED | 64",
                 "❔XX | 🟢 | vless | 3YED | 67",
-                "🇺🇸US | 🔴 | vless | 3YED | 83",
-                "🇺🇸US | 🔴 | vless | 3YED | 84",
-                "🇷🇺RU | 🟢 | vless | 3YED | 6",
-                "🇳🇱NL | 🟢 | vless | 3YED | 8",
-                "🇮🇷IR | 🟢 | vless | 3YED | 11",
-                "🇫🇮FI | 🔴 | vless | 3YED | 3",
+                "❔XX | 🔴 | vless | 3YED | 83",
+                "❔XX | 🔴 | vless | 3YED | 84",
+                "❔XX | 🟢 | vless | 3YED | 6",
+                "❔XX | 🟢 | vless | 3YED | 8",
+                "❔XX | 🟢 | vless | 3YED | 11",
+                "❔XX | 🔴 | vless | 3YED | 3",
                 "❔XX | 🟢 | vless | 3YED | 9",
                 "❔XX | 🟢 | vless | 3YED | 12",
                 "❔XX | 🟢 | vless | 3YED | 14",
@@ -2713,7 +2713,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | 3YED | 83",
+            "tag": "❔XX | 🔴 | vless | 3YED | 83",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
@@ -2749,7 +2749,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | 3YED | 84",
+            "tag": "❔XX | 🔴 | vless | 3YED | 84",
             "type": "vless",
             "server": "partners.dissertationhelpspecialist.com",
             "server_port": 8443,
@@ -2785,7 +2785,7 @@
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vless | 3YED | 6",
+            "tag": "❔XX | 🟢 | vless | 3YED | 6",
             "type": "vless",
             "server": "94.242.55.42",
             "server_port": 443,
@@ -2814,7 +2814,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | 3YED | 8",
+            "tag": "❔XX | 🟢 | vless | 3YED | 8",
             "type": "vless",
             "server": "72.56.65.210",
             "server_port": 40443,
@@ -2843,7 +2843,7 @@
             }
         },
         {
-            "tag": "🇮🇷IR | 🟢 | vless | 3YED | 11",
+            "tag": "❔XX | 🟢 | vless | 3YED | 11",
             "type": "vless",
             "server": "194.146.68.70",
             "server_port": 8088,
@@ -2872,7 +2872,7 @@
             }
         },
         {
-            "tag": "🇫🇮FI | 🔴 | vless | 3YED | 3",
+            "tag": "❔XX | 🔴 | vless | 3YED | 3",
             "type": "vless",
             "server": "65.109.180.151",
             "server_port": 443,
