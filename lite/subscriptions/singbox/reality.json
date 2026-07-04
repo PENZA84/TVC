@@ -109,9 +109,9 @@ https://github.com/3yed-61
                 "🇩🇪DE | 🟢 | vless | 3YED | 0",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇫🇮FI | 🔴 | vless | 3YED | 0",
-                "🇩🇪DE | 🔴 | vless | 3YED | 3",
+                "🇩🇪DE | 🔴 | vless | 3YED | 4",
                 "🇩🇪DE | 🟢 | vless | 3YED | 3",
-                "❔XX | 🟢 | vless | 3YED | 11",
+                "🇯🇵JP | 🟢 | vless | 3YED | 11",
                 "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -131,9 +131,9 @@ https://github.com/3yed-61
                 "🇩🇪DE | 🟢 | vless | 3YED | 0",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇫🇮FI | 🔴 | vless | 3YED | 0",
-                "🇩🇪DE | 🔴 | vless | 3YED | 3",
+                "🇩🇪DE | 🔴 | vless | 3YED | 4",
                 "🇩🇪DE | 🟢 | vless | 3YED | 3",
-                "❔XX | 🟢 | vless | 3YED | 11",
+                "🇯🇵JP | 🟢 | vless | 3YED | 11",
                 "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -253,7 +253,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 3",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 4",
             "type": "vless",
             "server": "depl.krepost.app",
             "server_port": 8443,
@@ -311,7 +311,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 11",
+            "tag": "🇯🇵JP | 🟢 | vless | 3YED | 11",
             "type": "vless",
             "server": "89.125.20.104",
             "server_port": 443,
