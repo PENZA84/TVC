@@ -108,12 +108,11 @@ https://github.com/3yed-61
                 "URL-TEST",
                 "🇩🇪DE | 🟢 | vless | 3YED | 0",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇩🇰DK | 🟢 | vless | 3YED | 3",
+                "🇩🇰DK | 🟢 | vless | 3YED | 4",
                 "🇫🇷FR | 🟢 | vless | 3YED | 8",
-                "❔XX | 🟢 | vless | 3YED | 9",
+                "❔XX | 🟢 | vless | 3YED | 7",
                 "🇯🇵JP | 🟢 | vless | 3YED | 11",
                 "❔XX | 🟢 | vless | 3YED | 6",
-                "❔XX | 🟢 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🟢 | vless | 3YED | 0",
@@ -132,12 +131,11 @@ https://github.com/3yed-61
             "outbounds": [
                 "🇩🇪DE | 🟢 | vless | 3YED | 0",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇩🇰DK | 🟢 | vless | 3YED | 3",
+                "🇩🇰DK | 🟢 | vless | 3YED | 4",
                 "🇫🇷FR | 🟢 | vless | 3YED | 8",
-                "❔XX | 🟢 | vless | 3YED | 9",
+                "❔XX | 🟢 | vless | 3YED | 7",
                 "🇯🇵JP | 🟢 | vless | 3YED | 11",
                 "❔XX | 🟢 | vless | 3YED | 6",
-                "❔XX | 🟢 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🟢 | vless | 3YED | 0",
@@ -228,7 +226,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇰DK | 🟢 | vless | 3YED | 3",
+            "tag": "🇩🇰DK | 🟢 | vless | 3YED | 4",
             "type": "vless",
             "server": "178.83.45.135",
             "server_port": 80,
@@ -286,11 +284,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 9",
+            "tag": "❔XX | 🟢 | vless | 3YED | 7",
             "type": "vless",
-            "server": "speedtest-chekhost-fastly.amuseftdomainroyal.com",
-            "server_port": 42841,
-            "uuid": "EarnMoneyarz-ZoRo",
+            "server": "scj.foot8all.ir",
+            "server_port": 11332,
+            "uuid": "681314c5-b3ee-41f1-a959-fa42841f5383",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -300,17 +298,17 @@ https://github.com/3yed-61
             },
             "tls": {
                 "enabled": true,
-                "server_name": "www.yahoo.com",
+                "server_name": "play.google.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "dzQmB-5PshfbZ228GO154TnSIcKV1HvG8sAhzlLn_zo",
-                    "short_id": "20ba44b6e3"
+                    "public_key": "Yozi8V5IYT7TzszTYwxnxMO-RZ93qCRFpgzZYehbqiM",
+                    "short_id": "7252845aadae02bb"
                 }
             }
         },
@@ -369,35 +367,6 @@ https://github.com/3yed-61
                     "enabled": true,
                     "public_key": "V-fTxzejwmP5x9rjQR5i1IE7WrSn-syZq9Qp41jukFE",
                     "short_id": "a7"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | 3YED | 7",
-            "type": "vless",
-            "server": "scj.foot8all.ir",
-            "server_port": 11332,
-            "uuid": "681314c5-b3ee-41f1-a959-fa42841f5383",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "play.google.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Yozi8V5IYT7TzszTYwxnxMO-RZ93qCRFpgzZYehbqiM",
-                    "short_id": "7252845aadae02bb"
                 }
             }
         },
