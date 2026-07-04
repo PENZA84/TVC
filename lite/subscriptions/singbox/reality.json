@@ -111,12 +111,11 @@ https://github.com/3yed-61
                 "🇩🇰DK | 🟢 | vless | 3YED | 3",
                 "🇫🇷FR | 🟢 | vless | 3YED | 73",
                 "🇫🇷FR | 🟢 | vless | 3YED | 8",
-                "🇵🇪PE | 🟢 | vless | 3YED | 11",
                 "❔XX | 🟢 | vless | 3YED | 11",
+                "🇯🇵JP | 🟢 | vless | 3YED | 11",
                 "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
-                "❔XX | 🟢 | vless | 3YED | 13",
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 83",
@@ -136,12 +135,11 @@ https://github.com/3yed-61
                 "🇩🇰DK | 🟢 | vless | 3YED | 3",
                 "🇫🇷FR | 🟢 | vless | 3YED | 73",
                 "🇫🇷FR | 🟢 | vless | 3YED | 8",
-                "🇵🇪PE | 🟢 | vless | 3YED | 11",
                 "❔XX | 🟢 | vless | 3YED | 11",
+                "🇯🇵JP | 🟢 | vless | 3YED | 11",
                 "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
-                "❔XX | 🟢 | vless | 3YED | 13",
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 83",
@@ -317,7 +315,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇵🇪PE | 🟢 | vless | 3YED | 11",
+            "tag": "❔XX | 🟢 | vless | 3YED | 11",
             "type": "vless",
             "server": "45.194.10.83",
             "server_port": 8443,
@@ -346,7 +344,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 11",
+            "tag": "🇯🇵JP | 🟢 | vless | 3YED | 11",
             "type": "vless",
             "server": "89.125.20.104",
             "server_port": 443,
@@ -458,35 +456,6 @@ https://github.com/3yed-61
                     "enabled": true,
                     "public_key": "fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs",
                     "short_id": "6f9deca7"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | 3YED | 13",
-            "type": "vless",
-            "server": "176.119.141.136",
-            "server_port": 8443,
-            "uuid": "0828a0bc-8acf-422c-9fac-8ad885a0dbaf",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.nvidia.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Zfr2SDTLuLNtbRR4hGX0oE3z1wbK3XvwzrvUfPQNugE",
-                    "short_id": "205f8d"
                 }
             }
         },
