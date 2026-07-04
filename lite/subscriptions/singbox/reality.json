@@ -116,7 +116,7 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
-                "❔XX | 🟢 | vless | 3YED | 14",
+                "❔XX | 🟢 | vless | 3YED | 13",
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 83",
@@ -141,7 +141,7 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
-                "❔XX | 🟢 | vless | 3YED | 14",
+                "❔XX | 🟢 | vless | 3YED | 13",
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 83",
@@ -462,11 +462,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 14",
+            "tag": "❔XX | 🟢 | vless | 3YED | 13",
             "type": "vless",
-            "server": "84.32.223.22",
-            "server_port": 443,
-            "uuid": "63d34c62-c655-498f-81e1-1bdd964a2611",
+            "server": "176.119.141.136",
+            "server_port": 8443,
+            "uuid": "0828a0bc-8acf-422c-9fac-8ad885a0dbaf",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -476,17 +476,17 @@ https://github.com/3yed-61
             },
             "tls": {
                 "enabled": true,
-                "server_name": "cherry-de1.t1n2.com",
+                "server_name": "www.nvidia.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": null
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "A0oiMHyUXzvKw3vlEtfUulJ3ba8fjOKbSXg8PoRCgG8",
-                    "short_id": "ecf7a3c57ca42895"
+                    "public_key": "Zfr2SDTLuLNtbRR4hGX0oE3z1wbK3XvwzrvUfPQNugE",
+                    "short_id": "205f8d"
                 }
             }
         },
