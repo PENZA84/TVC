@@ -137,9 +137,9 @@ https://github.com/3yed-61
                 "🇳🇱NL | 🔴 | vless | 3YED | 8",
                 "❔XX | 🟢 | vless | 3YED | 9",
                 "🇺🇸US | 🔴 | vless | 3YED | 18",
-                "🇺🇸US | 🔴 | vless | 3YED | 19",
+                "❔XX | 🔴 | vless | 3YED | 19",
                 "🇩🇪DE | 🔴 | vless | 3YED | 10",
-                "🇯🇵JP | 🟢 | vless | 3YED | 11",
+                "❔XX | 🟢 | vless | 3YED | 11",
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 5",
                 "❔XX | 🟢 | vless | 3YED | 6",
@@ -157,7 +157,7 @@ https://github.com/3yed-61
                 "❔XX | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 12",
                 "❔XX | 🔴 | vless | 3YED | 28",
-                "🇩🇪DE | 🟢 | vless | 3YED | 29",
+                "❔XX | 🟢 | vless | 3YED | 29",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19",
                 "❔XX | 🔴 | vless | 3YED | 2",
@@ -200,9 +200,9 @@ https://github.com/3yed-61
                 "🇳🇱NL | 🔴 | vless | 3YED | 8",
                 "❔XX | 🟢 | vless | 3YED | 9",
                 "🇺🇸US | 🔴 | vless | 3YED | 18",
-                "🇺🇸US | 🔴 | vless | 3YED | 19",
+                "❔XX | 🔴 | vless | 3YED | 19",
                 "🇩🇪DE | 🔴 | vless | 3YED | 10",
-                "🇯🇵JP | 🟢 | vless | 3YED | 11",
+                "❔XX | 🟢 | vless | 3YED | 11",
                 "❔XX | 🔴 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 5",
                 "❔XX | 🟢 | vless | 3YED | 6",
@@ -220,7 +220,7 @@ https://github.com/3yed-61
                 "❔XX | 🔴 | vless | 3YED | 84",
                 "❔XX | 🔴 | vless | 3YED | 12",
                 "❔XX | 🔴 | vless | 3YED | 28",
-                "🇩🇪DE | 🟢 | vless | 3YED | 29",
+                "❔XX | 🟢 | vless | 3YED | 29",
                 "❔XX | 🔴 | vless | 3YED | 18",
                 "❔XX | 🔴 | vless | 3YED | 19",
                 "❔XX | 🔴 | vless | 3YED | 2",
@@ -1039,7 +1039,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | 3YED | 19",
+            "tag": "❔XX | 🔴 | vless | 3YED | 19",
             "type": "vless",
             "server": "104.16.85.3",
             "server_port": 8880,
@@ -1074,7 +1074,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇯🇵JP | 🟢 | vless | 3YED | 11",
+            "tag": "❔XX | 🟢 | vless | 3YED | 11",
             "type": "vless",
             "server": "89.125.20.104",
             "server_port": 443,
@@ -1572,7 +1572,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 29",
+            "tag": "❔XX | 🟢 | vless | 3YED | 29",
             "type": "vless",
             "server": "18.194.240.61",
             "server_port": 8443,
