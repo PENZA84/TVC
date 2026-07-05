@@ -194,11 +194,11 @@
                 "❔XX | 🟢 | vless | 3YED | 10",
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
-                "❔XX | 🟢 | vless | 3YED | 7",
-                "❔XX | 🟢 | vless | 3YED | 9",
-                "❔XX | 🟢 | vless | 3YED | 10",
-                "❔XX | 🔴 | vless | 3YED | 11",
-                "❔XX | 🔴 | vless | 3YED | 20",
+                "🇺🇸US | 🟢 | vless | 3YED | 7",
+                "🇭🇰HK | 🟢 | vless | 3YED | 9",
+                "🇫🇮FI | 🟢 | vless | 3YED | 10",
+                "🇩🇪DE | 🔴 | vless | 3YED | 11",
+                "🇫🇮FI | 🔴 | vless | 3YED | 20",
                 "❔XX | 🟢 | vless | 3YED | 29",
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 8",
@@ -308,11 +308,11 @@
                 "❔XX | 🟢 | vless | 3YED | 10",
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
-                "❔XX | 🟢 | vless | 3YED | 7",
-                "❔XX | 🟢 | vless | 3YED | 9",
-                "❔XX | 🟢 | vless | 3YED | 10",
-                "❔XX | 🔴 | vless | 3YED | 11",
-                "❔XX | 🔴 | vless | 3YED | 20",
+                "🇺🇸US | 🟢 | vless | 3YED | 7",
+                "🇭🇰HK | 🟢 | vless | 3YED | 9",
+                "🇫🇮FI | 🟢 | vless | 3YED | 10",
+                "🇩🇪DE | 🔴 | vless | 3YED | 11",
+                "🇫🇮FI | 🔴 | vless | 3YED | 20",
                 "❔XX | 🟢 | vless | 3YED | 29",
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 8",
@@ -3000,7 +3000,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 7",
+            "tag": "🇺🇸US | 🟢 | vless | 3YED | 7",
             "type": "vless",
             "server": "tr.iranfastspeed.com.tr",
             "server_port": 59492,
@@ -3029,7 +3029,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 9",
+            "tag": "🇭🇰HK | 🟢 | vless | 3YED | 9",
             "type": "vless",
             "server": "sisi.sannest.ir",
             "server_port": 8443,
@@ -3058,7 +3058,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 10",
+            "tag": "🇫🇮FI | 🟢 | vless | 3YED | 10",
             "type": "vless",
             "server": "fn4.sannest.ir",
             "server_port": 8443,
@@ -3087,7 +3087,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 11",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 11",
             "type": "vless",
             "server": "bestinclass.soft98ver2.com",
             "server_port": 2082,
@@ -3116,7 +3116,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 20",
+            "tag": "🇫🇮FI | 🔴 | vless | 3YED | 20",
             "type": "vless",
             "server": "65.109.180.151",
             "server_port": 443,
