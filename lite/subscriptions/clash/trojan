@@ -125,7 +125,7 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 5","type":"trojan","server":"141.193.213.21","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
   - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 6","type":"trojan","server":"104.16.72.101","port":443,"udp":false,"password":"f922fa0f-3311-4368-85ff-cf65e727c854","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"space.byu.id.yxls.eu.cc"}
   - {"name":"🇳🇿NZ | 🔴 | trojan | 3YED | 0","type":"trojan","server":"202.37.33.80","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.creationlong.org"}
-  - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 2","type":"trojan","server":"172.67.74.47","port":443,"udp":false,"password":"MiTiVPN","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"F-ll.App-Cloud.ir"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 2","type":"trojan","server":"172.67.74.47","port":443,"udp":false,"password":"MiTiVPN","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"F-ll.App-Cloud.ir"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -139,7 +139,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | trojan | 3YED | 5'
       - '🇺🇸US | 🔴 | trojan | 3YED | 6'
       - '🇳🇿NZ | 🔴 | trojan | 3YED | 0'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 2'
+      - '❔XX | 🔴 | trojan | 3YED | 2'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -153,7 +153,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | trojan | 3YED | 5'
       - '🇺🇸US | 🔴 | trojan | 3YED | 6'
       - '🇳🇿NZ | 🔴 | trojan | 3YED | 0'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 2'
+      - '❔XX | 🔴 | trojan | 3YED | 2'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -166,7 +166,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | trojan | 3YED | 5'
       - '🇺🇸US | 🔴 | trojan | 3YED | 6'
       - '🇳🇿NZ | 🔴 | trojan | 3YED | 0'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 2'
+      - '❔XX | 🔴 | trojan | 3YED | 2'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve
