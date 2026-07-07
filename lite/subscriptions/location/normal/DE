@@ -1,6 +1,11 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.184.74.254:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪DE | 🔴 | vless | 3YED | 16
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.255.50:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪DE | 🔴 | vless | 3YED | 14
 vless://32eae87d-cb5b-4155-9a60-218f44d52b3d@5.75.207.247:44004?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=77b0689f#🇩🇪DE | 🟢 | vless | 3YED | 0
-trojan://telegram-id-privatevpns@63.184.74.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 16
-trojan://telegram-id-directvpn@63.184.74.254:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 16
+trojan://telegram-id-privatevpns@52.58.255.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 14
+trojan://telegram-id-directvpn@52.58.255.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | 3YED | 14
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443#🇩🇪DE | 🔴 | trojan | 3YED | 2
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443#🇩🇪DE | 🔴 | trojan | 3YED | 3
+vless://57565f1e-d42a-49a0-a909-5fff0f07b146@91.107.188.182:443?encryption=none&security=none&type=tcp&headerType=none#🇩🇪DE | 🔴 | vless | 3YED | 1
+vless://cb9e1505-01eb-4d35-9840-17128da04d93@169.40.32.129:443?fp=chrome&sid=6a&spx=/whPCy1cgE9E5zP6&type=tcp&headerType=http&encryption=none&sni=www.yahoo.com&security=reality&pbk=eg1Br2itpx7DM1ICrT7p7SRmefGONSHQtRQURGV-AWg#🇩🇪DE | 🔴 | vless | 3YED | 8
+vless://94ef5f6f-ac63-4cde-b479-abe32b2f5bf8@168.222.43.61:443?sid=ffdd0ca907&type=tcp&security=reality&sni=www.yahoo.com&encryption=none&headerType=http&fp=chrome&spx=/pqGZSNsQclle2Do&pbk=Xa_iieA3fzOIdVTtBTpTtthiyqVIOvkA1-nvZ0JkFRk#🇩🇪DE | 🔴 | vless | 3YED | 9
+vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/&security=none&encryption=none&host=a12.crowsvpn.shop&type=xhttp#🇩🇪DE | 🔴 | vless | 3YED | 28
+vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&headerType=none&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#🇩🇪DE | 🟢 | vless | 3YED | 29
