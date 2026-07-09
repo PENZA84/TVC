@@ -111,11 +111,10 @@ https://github.com/3yed-61
                 "🇳🇱NL | 🟢 | vless | 3YED | 71",
                 "🇷🇺RU | 🟢 | vless | 3YED | 72",
                 "❔XX | 🟢 | vless | 3YED | 1",
-                "🇨🇭CH | 🟢 | vless | 3YED | 3",
-                "❔XX | 🟢 | vless | 3YED | 11",
+                "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
-                "❔XX | 🟢 | vless | 3YED | 14",
+                "❔XX | 🟢 | vless | 3YED | 15",
                 "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🟢 | vless | 3YED | 4",
                 "❔XX | 🔴 | vless | 3YED | 83",
@@ -134,11 +133,10 @@ https://github.com/3yed-61
                 "🇳🇱NL | 🟢 | vless | 3YED | 71",
                 "🇷🇺RU | 🟢 | vless | 3YED | 72",
                 "❔XX | 🟢 | vless | 3YED | 1",
-                "🇨🇭CH | 🟢 | vless | 3YED | 3",
-                "❔XX | 🟢 | vless | 3YED | 11",
+                "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
-                "❔XX | 🟢 | vless | 3YED | 14",
+                "❔XX | 🟢 | vless | 3YED | 15",
                 "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🟢 | vless | 3YED | 4",
                 "❔XX | 🔴 | vless | 3YED | 83",
@@ -313,7 +311,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇨🇭CH | 🟢 | vless | 3YED | 3",
+            "tag": "❔XX | 🟢 | vless | 3YED | 3",
             "type": "vless",
             "server": "37.156.44.205",
             "server_port": 443,
@@ -338,35 +336,6 @@ https://github.com/3yed-61
                     "enabled": true,
                     "public_key": "mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI",
                     "short_id": "082b5cbbd0d4f2fa"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | 3YED | 11",
-            "type": "vless",
-            "server": "SWITZERLANDSCLOUDNIG.iranlast.com",
-            "server_port": 7009,
-            "uuid": "3f298aca-2412-49ac-9f20-235f0e448d31",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "qq"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8",
-                    "short_id": ""
                 }
             }
         },
@@ -429,7 +398,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 14",
+            "tag": "❔XX | 🟢 | vless | 3YED | 15",
             "type": "vless",
             "server": "46.8.229.199",
             "server_port": 443,
