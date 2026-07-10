@@ -107,7 +107,7 @@ https://github.com/3yed-61
             "outbounds": [
                 "URL-TEST",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇩🇪DE | 🟢 | vless | 3YED | 2",
+                "🇩🇪DE | 🟢 | vless | 3YED | 1",
                 "🇵🇱PL | 🟢 | vless | 3YED | 70",
                 "🇫🇷FR | 🟢 | vless | 3YED | 71",
                 "🇬🇧GB | 🟢 | vless | 3YED | 7",
@@ -116,6 +116,7 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
+                "❔XX | 🔴 | vless | 3YED | 14",
                 "❔XX | 🔴 | vless | 3YED | 5",
                 "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 83",
@@ -131,7 +132,7 @@ https://github.com/3yed-61
             "type": "urltest",
             "outbounds": [
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇩🇪DE | 🟢 | vless | 3YED | 2",
+                "🇩🇪DE | 🟢 | vless | 3YED | 1",
                 "🇵🇱PL | 🟢 | vless | 3YED | 70",
                 "🇫🇷FR | 🟢 | vless | 3YED | 71",
                 "🇬🇧GB | 🟢 | vless | 3YED | 7",
@@ -140,6 +141,7 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
+                "❔XX | 🔴 | vless | 3YED | 14",
                 "❔XX | 🔴 | vless | 3YED | 5",
                 "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 83",
@@ -199,11 +201,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 2",
+            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 1",
             "type": "vless",
-            "server": "de2.sharkphotos.de",
-            "server_port": 10443,
-            "uuid": "03f4e625-e25e-4beb-93bd-8f275d3717e1",
+            "server": "135.125.168.129",
+            "server_port": 18169,
+            "uuid": "c1709670-114d-4c1a-84c6-452db9981c08",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -213,7 +215,7 @@ https://github.com/3yed-61
             },
             "tls": {
                 "enabled": true,
-                "server_name": "www.tesla.com",
+                "server_name": "www.icloud.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -222,8 +224,8 @@ https://github.com/3yed-61
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "dE1MAhwsIQ1CzuDXlEq1qOQFR6t5MF5iCWa1NR3abEg",
-                    "short_id": "0bd84008"
+                    "public_key": "Bn5ziIYYKffPJjUd3diIvdmfLJgbo76mVSEcrgY0k08",
+                    "short_id": "339e6fe3f9"
                 }
             }
         },
@@ -463,6 +465,35 @@ https://github.com/3yed-61
                     "enabled": true,
                     "public_key": "fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs",
                     "short_id": "6f9deca7"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🔴 | vless | 3YED | 14",
+            "type": "vless",
+            "server": "185.185.142.98",
+            "server_port": 8443,
+            "uuid": "578c8541-16a0-40b7-bf72-9508d547f856",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "cdn.jsdelivr.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "NozDA4apA_XQ_wzcJCZx7VXAD285J_HSs4w_GvBfJHA",
+                    "short_id": "63903c2e"
                 }
             }
         },
