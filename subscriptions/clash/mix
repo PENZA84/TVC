@@ -118,6 +118,7 @@ dns:
     - "https://8.8.4.4/dns-query"
 
 proxies:
+  - {"name":"🇨🇭CH | 🟢 | trojan | 3YED | 0","type":"trojan","server":"8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir","port":30000,"udp":false,"password":"-----------BanV2ray------------","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"chi.yahoo.com"}
   - {"name":"❔XX | 🟢 | trojan | 3YED | 0","type":"trojan","server":"35.157.167.148","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | 3YED | 1","type":"trojan","server":"51.102.191.76","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"❔XX | 🟢 | trojan | 3YED | 2","type":"trojan","server":"13.39.153.213","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
@@ -188,6 +189,7 @@ proxy-groups:
     proxies:
       - URL-TEST
       - FALLBACK
+      - '🇨🇭CH | 🟢 | trojan | 3YED | 0'
       - '❔XX | 🟢 | trojan | 3YED | 0'
       - '❔XX | 🟢 | trojan | 3YED | 1'
       - '❔XX | 🟢 | trojan | 3YED | 2'
@@ -258,6 +260,7 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
+      - '🇨🇭CH | 🟢 | trojan | 3YED | 0'
       - '❔XX | 🟢 | trojan | 3YED | 0'
       - '❔XX | 🟢 | trojan | 3YED | 1'
       - '❔XX | 🟢 | trojan | 3YED | 2'
@@ -327,6 +330,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 60
     proxies:
+      - '🇨🇭CH | 🟢 | trojan | 3YED | 0'
       - '❔XX | 🟢 | trojan | 3YED | 0'
       - '❔XX | 🟢 | trojan | 3YED | 1'
       - '❔XX | 🟢 | trojan | 3YED | 2'
