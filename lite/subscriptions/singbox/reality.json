@@ -109,14 +109,14 @@ https://github.com/3yed-61
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇵🇱PL | 🟢 | vless | 3YED | 70",
                 "🇫🇷FR | 🟢 | vless | 3YED | 71",
-                "🇨🇭CH | 🔴 | vless | 3YED | 6",
-                "❔XX | 🟢 | vless | 3YED | 2",
-                "🇩🇪DE | 🔴 | vless | 3YED | 0",
+                "🇨🇭CH | 🔴 | vless | 3YED | 7",
+                "🇬🇧GB | 🟢 | vless | 3YED | 2",
+                "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
-                "❔XX | 🟢 | vless | 3YED | 8",
+                "❔XX | 🟢 | vless | 3YED | 9",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
-                "❔XX | 🟢 | vless | 3YED | 16",
+                "❔XX | 🟢 | vless | 3YED | 15",
                 "❔XX | 🔴 | vless | 3YED | 5",
                 "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 83",
@@ -135,14 +135,14 @@ https://github.com/3yed-61
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇵🇱PL | 🟢 | vless | 3YED | 70",
                 "🇫🇷FR | 🟢 | vless | 3YED | 71",
-                "🇨🇭CH | 🔴 | vless | 3YED | 6",
-                "❔XX | 🟢 | vless | 3YED | 2",
-                "🇩🇪DE | 🔴 | vless | 3YED | 0",
+                "🇨🇭CH | 🔴 | vless | 3YED | 7",
+                "🇬🇧GB | 🟢 | vless | 3YED | 2",
+                "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
-                "❔XX | 🟢 | vless | 3YED | 8",
+                "❔XX | 🟢 | vless | 3YED | 9",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
-                "❔XX | 🟢 | vless | 3YED | 16",
+                "❔XX | 🟢 | vless | 3YED | 15",
                 "❔XX | 🔴 | vless | 3YED | 5",
                 "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 83",
@@ -261,7 +261,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇨🇭CH | 🔴 | vless | 3YED | 6",
+            "tag": "🇨🇭CH | 🔴 | vless | 3YED | 7",
             "type": "vless",
             "server": "179.237.75.21",
             "server_port": 443,
@@ -297,7 +297,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 2",
+            "tag": "🇬🇧GB | 🟢 | vless | 3YED | 2",
             "type": "vless",
             "server": "45.206.0.36",
             "server_port": 8443,
@@ -326,7 +326,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 0",
+            "tag": "❔XX | 🔴 | vless | 3YED | 0",
             "type": "vless",
             "server": "142.93.174.176",
             "server_port": 443,
@@ -391,7 +391,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 8",
+            "tag": "❔XX | 🟢 | vless | 3YED | 9",
             "type": "vless",
             "server": "54.37.2.131",
             "server_port": 443,
@@ -478,11 +478,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 16",
+            "tag": "❔XX | 🟢 | vless | 3YED | 15",
             "type": "vless",
-            "server": "telegram.private-networks-zk.com",
-            "server_port": 443,
-            "uuid": "5bb4eea6-7786-44c9-aafa-bd0113c1b800",
+            "server": "38.79.154.34",
+            "server_port": 2020,
+            "uuid": "f426626f-a13e-4707-920d-e8feab56d1cc",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -492,17 +492,17 @@ https://github.com/3yed-61
             },
             "tls": {
                 "enabled": true,
-                "server_name": "ads.x5.ru",
+                "server_name": "aparat.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": null
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw",
-                    "short_id": "50"
+                    "public_key": "KWlccWTLW11wEojieRNfg6zezd3KMxPpAkwZ11VNhSM",
+                    "short_id": "d67b45b38dcea6"
                 }
             }
         },
