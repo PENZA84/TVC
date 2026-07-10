@@ -110,11 +110,10 @@ https://github.com/3yed-61
                 "🇩🇪DE | 🟢 | vless | 3YED | 1",
                 "🇵🇱PL | 🟢 | vless | 3YED | 70",
                 "🇫🇷FR | 🟢 | vless | 3YED | 71",
-                "🇭🇰HK | 🟢 | vless | 3YED | 4",
                 "🇬🇧GB | 🟢 | vless | 3YED | 6",
                 "❔XX | 🟢 | vless | 3YED | 2",
                 "❔XX | 🟢 | vless | 3YED | 1",
-                "🇨🇭CH | 🟢 | vless | 3YED | 2",
+                "❔XX | 🟢 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🟢 | vless | 3YED | 13",
@@ -136,11 +135,10 @@ https://github.com/3yed-61
                 "🇩🇪DE | 🟢 | vless | 3YED | 1",
                 "🇵🇱PL | 🟢 | vless | 3YED | 70",
                 "🇫🇷FR | 🟢 | vless | 3YED | 71",
-                "🇭🇰HK | 🟢 | vless | 3YED | 4",
                 "🇬🇧GB | 🟢 | vless | 3YED | 6",
                 "❔XX | 🟢 | vless | 3YED | 2",
                 "❔XX | 🟢 | vless | 3YED | 1",
-                "🇨🇭CH | 🟢 | vless | 3YED | 2",
+                "❔XX | 🟢 | vless | 3YED | 2",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🟢 | vless | 3YED | 13",
@@ -290,35 +288,6 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇭🇰HK | 🟢 | vless | 3YED | 4",
-            "type": "vless",
-            "server": "38.180.149.55",
-            "server_port": 49875,
-            "uuid": "c3f8992b-c174-4fc0-bfde-87ae88c88da2",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.ebay.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": null
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "vrlwCtmphaZtkfVZGkfxWrKEWqDY8DqXQqZQvN2HPSI",
-                    "short_id": ""
-                }
-            }
-        },
-        {
             "tag": "🇬🇧GB | 🟢 | vless | 3YED | 6",
             "type": "vless",
             "server": "54.37.2.131",
@@ -406,7 +375,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇨🇭CH | 🟢 | vless | 3YED | 2",
+            "tag": "❔XX | 🟢 | vless | 3YED | 2",
             "type": "vless",
             "server": "83.228.200.66",
             "server_port": 8443,
