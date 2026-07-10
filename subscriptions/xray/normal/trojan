@@ -11,11 +11,7 @@ trojan://telegram-id-privatevpns@3.121.203.159:22222?security=tls&alpn=http%2F1.
 trojan://telegram-id-privatevpns@63.177.32.122:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%205
 trojan://telegram-id-privatevpns@15.237.66.35:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%206
 trojan://telegram-id-privatevpns@35.181.217.107:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%207
-trojan://telegram-id-privatevpns@3.77.190.145:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%208
-trojan://telegram-id-privatevpns@63.184.219.224:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%209
-trojan://telegram-id-privatevpns@13.37.122.139:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%2010
-trojan://telegram-id-privatevpns@51.45.36.122:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%2011
-trojan://telegram-id-directvpn@35.157.167.148:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%200
+trojan://telegram-id-directvpn@35.157.167.148:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE%20|%20🟢%20|%20trojan%20|%203YED%20|%200
 trojan://telegram-id-directvpn@51.102.191.76:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%201
 trojan://telegram-id-directvpn@13.39.153.213:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%202
 trojan://telegram-id-directvpn@13.37.210.132:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%203
@@ -23,10 +19,6 @@ trojan://telegram-id-directvpn@3.121.203.159:22223?security=tls&alpn=http%2F1.1&
 trojan://telegram-id-directvpn@63.177.32.122:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%205
 trojan://telegram-id-directvpn@15.237.66.35:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%206
 trojan://telegram-id-directvpn@35.181.217.107:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%207
-trojan://telegram-id-directvpn@3.77.190.145:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%208
-trojan://telegram-id-directvpn@63.184.219.224:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%209
-trojan://telegram-id-directvpn@13.37.122.139:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%2010
-trojan://telegram-id-directvpn@51.45.36.122:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%2011
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443#❔XX%20|%20🔴%20|%20trojan%20|%203YED%20|%200
 trojan://666@104.18.33.225:443?host=gdurt.ia6o.2s1.hh.penqiask.ccwu.cc&path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&sni=gdurt.ia6o.2s1.hh.penqiask.ccwu.cc&type=ws#🚩CF%20|%20🔴%20|%20trojan%20|%203YED%20|%201
 trojan://MITIVPN@162.159.8.101:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=my-usa-ol.App-Cloud.ir&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DUSSA&sni=UsAa-bUs.App-Cloud.ir&type=ws#🚩CF%20|%20🔴%20|%20trojan%20|%203YED%20|%206
@@ -36,7 +28,7 @@ trojan://MiTiVPN@104.21.55.230:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&hos
 trojan://MITIVPN@162.159.38.119:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=De1-2-3.App-Cloud.ir&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DGer&sni=de-jodo.App-Cloud.ir&type=ws#🚩CF%20|%20🔴%20|%20trojan%20|%203YED%20|%2011
 trojan://521314@wangcai.yunzhongzhuan.com:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=tjplay.lxdxo.kdns.fr&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&sni=tjplay.lxdxo.kdns.fr&type=ws#❔XX%20|%20🔴%20|%20trojan%20|%203YED%20|%2012
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&fp=chrome#❔XX%20|%20🔴%20|%20trojan%20|%203YED%20|%2013
-trojan://humanity@104.16.174.12:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🚩CF%20|%20🔴%20|%20trojan%20|%203YED%20|%205
+trojan://humanity@104.16.174.12:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🚩CF%20|%20🔴%20|%20trojan%20|%203YED%20|%206
 trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🚩CF%20|%20🔴%20|%20trojan%20|%203YED%20|%201
 trojan://humanity@141.193.213.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#❔XX%20|%20🔴%20|%20trojan%20|%203YED%20|%208
 trojan://MITIVPN@162.159.8.101:443?path=&security=tls&alpn=http%2F1.1&insecure=1&host=my-usa-ol.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=1&sni=UsAa-bUs.App-Cloud.ir#🚩CF%20|%20🔴%20|%20trojan%20|%203YED%20|%200
