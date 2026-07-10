@@ -130,8 +130,6 @@
                 "❔XX | 🟢 | vless | 3YED | 67",
                 "❔XX | 🟢 | vless | 3YED | 68",
                 "❔XX | 🟢 | vless | 3YED | 71",
-                "❔XX | 🟢 | vless | 3YED | 0",
-                "❔XX | 🟢 | vless | 3YED | 4",
                 "❔XX | 🔴 | vless | 3YED | 4",
                 "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🟢 | vless | 3YED | 3",
@@ -231,8 +229,6 @@
                 "❔XX | 🟢 | vless | 3YED | 67",
                 "❔XX | 🟢 | vless | 3YED | 68",
                 "❔XX | 🟢 | vless | 3YED | 71",
-                "❔XX | 🟢 | vless | 3YED | 0",
-                "❔XX | 🟢 | vless | 3YED | 4",
                 "❔XX | 🔴 | vless | 3YED | 4",
                 "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🟢 | vless | 3YED | 3",
@@ -1058,64 +1054,6 @@
                     "enabled": true,
                     "public_key": "2MnLp2jBmP-bPYRHf3VY3wyGMwIYIAizXCB7UxgYVGc",
                     "short_id": "7c16c340cde3ed39"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | 3YED | 0",
-            "type": "vless",
-            "server": "212.18.104.39",
-            "server_port": 443,
-            "uuid": "cde6db10-61db-418f-9ea1-52f7c13404a9",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "us-3.quillrook.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "aUS8mT0VSLw8-Y-VyOWpf_gYQu6SIBipZL08CXsGXSk",
-                    "short_id": "81b5b012"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🟢 | vless | 3YED | 4",
-            "type": "vless",
-            "server": "38.180.149.55",
-            "server_port": 49875,
-            "uuid": "c3f8992b-c174-4fc0-bfde-87ae88c88da2",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.ebay.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": null
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "vrlwCtmphaZtkfVZGkfxWrKEWqDY8DqXQqZQvN2HPSI",
-                    "short_id": ""
                 }
             }
         },
