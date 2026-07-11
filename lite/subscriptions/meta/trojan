@@ -124,6 +124,7 @@ proxies:
   - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 2","type":"trojan","server":"13.39.153.213","port":22222,"udp":false,"password":"telegram-id-privatevpns","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇩🇪DE | 🟢 | trojan | 3YED | 1","type":"trojan","server":"51.102.191.76","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | trojan | 3YED | 2","type":"trojan","server":"13.39.153.213","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
+  - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 4","type":"trojan","server":"104.18.33.225","port":443,"udp":false,"password":"666","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"gdurt.ia6o.2s1.hh.penqiask.ccwu.cc"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 6","type":"trojan","server":"104.16.174.12","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.ignitelimit.com"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 0","type":"trojan","server":"162.159.8.101","port":443,"udp":false,"password":"MITIVPN","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"UsAa-bUs.App-Cloud.ir"}
 proxy-groups:
@@ -136,6 +137,7 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | 3YED | 2'
       - '🇩🇪DE | 🟢 | trojan | 3YED | 1'
       - '🇫🇷FR | 🟢 | trojan | 3YED | 2'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 4'
       - '❔XX | 🔴 | trojan | 3YED | 6'
       - '❔XX | 🔴 | trojan | 3YED | 0'
   - name: URL-TEST
@@ -148,6 +150,7 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | 3YED | 2'
       - '🇩🇪DE | 🟢 | trojan | 3YED | 1'
       - '🇫🇷FR | 🟢 | trojan | 3YED | 2'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 4'
       - '❔XX | 🔴 | trojan | 3YED | 6'
       - '❔XX | 🔴 | trojan | 3YED | 0'
   - name: FALLBACK
@@ -159,6 +162,7 @@ proxy-groups:
       - '🇫🇷FR | 🟢 | trojan | 3YED | 2'
       - '🇩🇪DE | 🟢 | trojan | 3YED | 1'
       - '🇫🇷FR | 🟢 | trojan | 3YED | 2'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 4'
       - '❔XX | 🔴 | trojan | 3YED | 6'
       - '❔XX | 🔴 | trojan | 3YED | 0'
 rule-providers:
