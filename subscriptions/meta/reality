@@ -123,9 +123,7 @@ proxies:
   - {"name":"❔XX | 🟢 | vless | 3YED | 7","type":"vless","server":"89.208.86.65","port":443,"udp":true,"uuid":"3a83ab7a-9b6f-460c-a128-1799f63695e3","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"tradingview.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM","short-id":"f32140952ba18e18"}}
   - {"name":"❔XX | 🟢 | vless | 3YED | 3","type":"vless","server":"51.158.206.93","port":23576,"udp":true,"uuid":"48ff2b70-e180-582f-8866-d9a2edeed5f5","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"fuck.rkn","flow":"xtls-rprx-vision","reality-opts":{"public-key":"1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s","short-id":"01"}}
   - {"name":"❔XX | 🟢 | vless | 3YED | 4","type":"vless","server":"137.184.218.169","port":36925,"udp":true,"uuid":"c9fd0fb1-8251-4106-b09a-f4b426736f67","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"www.cloudflare.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0"}}
-  - {"name":"❔XX | 🔴 | vless | 3YED | 4","type":"vless","server":"debuz.linuxbase.ir","port":1152,"udp":true,"uuid":"0ad65088-3cd9-43f1-b07a-c37304a4d296","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"yahoo.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4","short-id":"e5115b6a2127146d"}}
   - {"name":"❔XX | 🟢 | vless | 3YED | 0","type":"vless","server":"83.168.71.216","port":443,"udp":true,"uuid":"a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a","tls":true,"network":"tcp","client-fingerprint":"chrome","servername":"ads.x5.ru","reality-opts":{"public-key":"8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho","short-id":"2f49bccf11150ef2"}}
-  - {"name":"❔XX | 🔴 | vless | 3YED | 2","type":"vless","server":"185.137.157.72","port":443,"udp":true,"uuid":"55a5044d-5b35-405f-971c-ea7aacaafcb4","tls":true,"network":"tcp","client-fingerprint":null,"servername":"www.nvidia.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"z6_OFl0jskilOOxkQcUcdQOCS4-LVndwFF9i7kIOPzg","short-id":"d23753491eefde7e"}}
   - {"name":"❔XX | 🟢 | vless | 3YED | 8","type":"vless","server":"195.74.93.254","port":443,"udp":true,"uuid":"146eb6cf-a99c-4022-85ca-022cf81502dc","tls":true,"network":"tcp","client-fingerprint":null,"servername":"web.max.ru","flow":"xtls-rprx-vision","reality-opts":{"public-key":"7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s","short-id":"247fd6dab1a34a48"}}
   - {"name":"❔XX | 🟢 | vless | 3YED | 37","type":"vless","server":"nl.linuxbase.ir","port":1152,"udp":true,"uuid":"1e7e0537-c23d-43c2-afd5-4d7753831278","tls":true,"network":"tcp","client-fingerprint":"firefox","servername":"yahoo.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4","short-id":"e5115b6a2127146d"}}
   - {"name":"❔XX | 🔴 | vless | 3YED | 38","type":"vless","server":"167.233.93.119","port":44774,"udp":true,"uuid":"a22050d0-fe48-4f98-b804-ff93e7157fa7","tls":true,"network":"grpc","client-fingerprint":"chrome","servername":"www.yahoo.com","reality-opts":{"public-key":"gTOO53hp1QEhtKgbTfRKK0vSIyk9WcRAqYIqZG66ajk","short-id":"60df"}}
@@ -206,9 +204,7 @@ proxy-groups:
       - '❔XX | 🟢 | vless | 3YED | 7'
       - '❔XX | 🟢 | vless | 3YED | 3'
       - '❔XX | 🟢 | vless | 3YED | 4'
-      - '❔XX | 🔴 | vless | 3YED | 4'
       - '❔XX | 🟢 | vless | 3YED | 0'
-      - '❔XX | 🔴 | vless | 3YED | 2'
       - '❔XX | 🟢 | vless | 3YED | 8'
       - '❔XX | 🟢 | vless | 3YED | 37'
       - '❔XX | 🔴 | vless | 3YED | 38'
@@ -289,9 +285,7 @@ proxy-groups:
       - '❔XX | 🟢 | vless | 3YED | 7'
       - '❔XX | 🟢 | vless | 3YED | 3'
       - '❔XX | 🟢 | vless | 3YED | 4'
-      - '❔XX | 🔴 | vless | 3YED | 4'
       - '❔XX | 🟢 | vless | 3YED | 0'
-      - '❔XX | 🔴 | vless | 3YED | 2'
       - '❔XX | 🟢 | vless | 3YED | 8'
       - '❔XX | 🟢 | vless | 3YED | 37'
       - '❔XX | 🔴 | vless | 3YED | 38'
@@ -371,9 +365,7 @@ proxy-groups:
       - '❔XX | 🟢 | vless | 3YED | 7'
       - '❔XX | 🟢 | vless | 3YED | 3'
       - '❔XX | 🟢 | vless | 3YED | 4'
-      - '❔XX | 🔴 | vless | 3YED | 4'
       - '❔XX | 🟢 | vless | 3YED | 0'
-      - '❔XX | 🔴 | vless | 3YED | 2'
       - '❔XX | 🟢 | vless | 3YED | 8'
       - '❔XX | 🟢 | vless | 3YED | 37'
       - '❔XX | 🔴 | vless | 3YED | 38'
