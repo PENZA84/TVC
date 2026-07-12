@@ -112,11 +112,11 @@ https://github.com/3yed-61
                 "🇹🇷TR | 🟢 | vless | 3YED | 77",
                 "🇷🇺RU | 🟢 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 0",
+                "🇩🇪DE | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
-                "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
+                "❔XX | 🟢 | vless | 3YED | 13",
                 "❔XX | 🔴 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 83",
                 "❔XX | 🔴 | vless | 3YED | 84",
@@ -134,11 +134,11 @@ https://github.com/3yed-61
                 "🇹🇷TR | 🟢 | vless | 3YED | 77",
                 "🇷🇺RU | 🟢 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 0",
+                "🇩🇪DE | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
-                "❔XX | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
+                "❔XX | 🟢 | vless | 3YED | 13",
                 "❔XX | 🔴 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 83",
                 "❔XX | 🔴 | vless | 3YED | 84",
@@ -347,7 +347,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 0",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 0",
             "type": "vless",
             "server": "142.93.174.176",
             "server_port": 443,
@@ -412,35 +412,6 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 6",
-            "type": "vless",
-            "server": "mizbansr.consolgame.ir",
-            "server_port": 2425,
-            "uuid": "7691d590-be40-411f-ab11-1e1ab4b03570",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8",
-                    "short_id": "9b60d3"
-                }
-            }
-        },
-        {
             "tag": "❔XX | 🔴 | vless | 3YED | 44",
             "type": "vless",
             "server": "ec76.kiava.fun",
@@ -495,6 +466,35 @@ https://github.com/3yed-61
                     "enabled": true,
                     "public_key": "fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs",
                     "short_id": "6f9deca7"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | 3YED | 13",
+            "type": "vless",
+            "server": "46.8.229.199",
+            "server_port": 443,
+            "uuid": "59d08a71-f206-4ca3-9a42-8c56d3bfdc3c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "intel.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "4o2G9iT8IN7YWwiDLgjMrpPmvwU5IQT6C6nE5Rh-wSQ",
+                    "short_id": "da"
                 }
             }
         },
