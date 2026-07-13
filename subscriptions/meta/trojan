@@ -121,14 +121,16 @@ dns:
 
 proxies:
   - {"name":"🇨🇭CH | 🟢 | trojan | 3YED | 0","type":"trojan","server":"8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir","port":30000,"udp":false,"password":"-----------%42%61%6e%56%32%72%61%79------------","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"chi.yahoo.com"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 0","type":"trojan","server":"89.116.250.135","port":443,"udp":false,"password":"MiTiVPN","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"Swdb-ueu-oe.MaQror.IR"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 1","type":"trojan","server":"185.137.157.140","port":443,"udp":false,"password":"dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 2","type":"trojan","server":"77.74.123.132","port":449,"udp":false,"password":"Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"grape-zet-turbo-nl.yyuyy.com"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 3","type":"trojan","server":"185.137.157.145","port":443,"udp":false,"password":"dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🚩CF | 🔴 | trojan | 3YED | 4","type":"trojan","server":"162.159.38.62","port":443,"udp":false,"password":"MITIVPN","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"Win-use-Cv-o.Maqror.ir"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 5","type":"trojan","server":"185.137.157.149","port":443,"udp":false,"password":"dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 6","type":"trojan","server":"185.137.157.138","port":443,"udp":false,"password":"dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 7","type":"trojan","server":"185.137.157.142","port":443,"udp":false,"password":"dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 0","type":"trojan","server":"3.249.67.252","port":443,"udp":false,"password":"XG59623478","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"singular-lark.rooster465.autos"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 1","type":"trojan","server":"185.137.157.151","port":443,"udp":false,"password":"dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 2","type":"trojan","server":"89.116.250.135","port":443,"udp":false,"password":"MiTiVPN","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"Swdb-ueu-oe.MaQror.IR"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 3","type":"trojan","server":"185.137.157.140","port":443,"udp":false,"password":"dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 4","type":"trojan","server":"77.74.123.132","port":449,"udp":false,"password":"Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"grape-zet-turbo-nl.yyuyy.com"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 5","type":"trojan","server":"185.137.157.145","port":443,"udp":false,"password":"dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🚩CF | 🔴 | trojan | 3YED | 6","type":"trojan","server":"162.159.38.62","port":443,"udp":false,"password":"MITIVPN","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"Win-use-Cv-o.Maqror.ir"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 7","type":"trojan","server":"185.137.157.149","port":443,"udp":false,"password":"dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 8","type":"trojan","server":"185.137.157.138","port":443,"udp":false,"password":"dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 9","type":"trojan","server":"185.137.157.142","port":443,"udp":false,"password":"dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🚩CF | 🔴 | trojan | 3YED | 3","type":"trojan","server":"104.18.152.246","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 10","type":"trojan","server":"141.193.213.21","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
   - {"name":"🚩CF | 🔴 | trojan | 3YED | 0","type":"trojan","server":"162.159.8.101","port":443,"udp":false,"password":"MITIVPN","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"UsAa-bUs.App-Cloud.ir"}
@@ -143,10 +145,12 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 1'
       - '❔XX | 🔴 | trojan | 3YED | 2'
       - '❔XX | 🔴 | trojan | 3YED | 3'
-      - '🚩CF | 🔴 | trojan | 3YED | 4'
+      - '❔XX | 🔴 | trojan | 3YED | 4'
       - '❔XX | 🔴 | trojan | 3YED | 5'
-      - '❔XX | 🔴 | trojan | 3YED | 6'
+      - '🚩CF | 🔴 | trojan | 3YED | 6'
       - '❔XX | 🔴 | trojan | 3YED | 7'
+      - '❔XX | 🔴 | trojan | 3YED | 8'
+      - '❔XX | 🔴 | trojan | 3YED | 9'
       - '🚩CF | 🔴 | trojan | 3YED | 3'
       - '❔XX | 🔴 | trojan | 3YED | 10'
       - '🚩CF | 🔴 | trojan | 3YED | 0'
@@ -161,10 +165,12 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 1'
       - '❔XX | 🔴 | trojan | 3YED | 2'
       - '❔XX | 🔴 | trojan | 3YED | 3'
-      - '🚩CF | 🔴 | trojan | 3YED | 4'
+      - '❔XX | 🔴 | trojan | 3YED | 4'
       - '❔XX | 🔴 | trojan | 3YED | 5'
-      - '❔XX | 🔴 | trojan | 3YED | 6'
+      - '🚩CF | 🔴 | trojan | 3YED | 6'
       - '❔XX | 🔴 | trojan | 3YED | 7'
+      - '❔XX | 🔴 | trojan | 3YED | 8'
+      - '❔XX | 🔴 | trojan | 3YED | 9'
       - '🚩CF | 🔴 | trojan | 3YED | 3'
       - '❔XX | 🔴 | trojan | 3YED | 10'
       - '🚩CF | 🔴 | trojan | 3YED | 0'
@@ -178,10 +184,12 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 1'
       - '❔XX | 🔴 | trojan | 3YED | 2'
       - '❔XX | 🔴 | trojan | 3YED | 3'
-      - '🚩CF | 🔴 | trojan | 3YED | 4'
+      - '❔XX | 🔴 | trojan | 3YED | 4'
       - '❔XX | 🔴 | trojan | 3YED | 5'
-      - '❔XX | 🔴 | trojan | 3YED | 6'
+      - '🚩CF | 🔴 | trojan | 3YED | 6'
       - '❔XX | 🔴 | trojan | 3YED | 7'
+      - '❔XX | 🔴 | trojan | 3YED | 8'
+      - '❔XX | 🔴 | trojan | 3YED | 9'
       - '🚩CF | 🔴 | trojan | 3YED | 3'
       - '❔XX | 🔴 | trojan | 3YED | 10'
       - '🚩CF | 🔴 | trojan | 3YED | 0'
