@@ -109,9 +109,10 @@ https://github.com/3yed-61
                 "🇳🇱NL | 🔴 | vless | 3YED | 3",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇨🇭CH | 🟢 | vless | 3YED | 70",
-                "🆥🆥 | 🟢 | vless | 3YED | 0",
+                "🇦🇹AT | 🔴 | vless | 3YED | 1",
+                "🇹🇷TR | 🟢 | vless | 3YED | 0",
                 "🇬🇧GB | 🔴 | vless | 3YED | 0",
-                "🇩🇪DE | 🔴 | vless | 3YED | 13",
+                "❔XX | 🔴 | vless | 3YED | 13",
                 "❔XX | 🔴 | vless | 3YED | 14",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
@@ -132,9 +133,10 @@ https://github.com/3yed-61
                 "🇳🇱NL | 🔴 | vless | 3YED | 3",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇨🇭CH | 🟢 | vless | 3YED | 70",
-                "🆥🆥 | 🟢 | vless | 3YED | 0",
+                "🇦🇹AT | 🔴 | vless | 3YED | 1",
+                "🇹🇷TR | 🟢 | vless | 3YED | 0",
                 "🇬🇧GB | 🔴 | vless | 3YED | 0",
-                "🇩🇪DE | 🔴 | vless | 3YED | 13",
+                "❔XX | 🔴 | vless | 3YED | 13",
                 "❔XX | 🔴 | vless | 3YED | 14",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
@@ -262,7 +264,43 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🆥🆥 | 🟢 | vless | 3YED | 0",
+            "tag": "🇦🇹AT | 🔴 | vless | 3YED | 1",
+            "type": "vless",
+            "server": "104.143.0.254",
+            "server_port": 443,
+            "uuid": "18167dd6-2c24-4f6b-a416-64bac693127a",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "optim.tildacdn.pub",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "fvpPs49YdpPvrAr7xyminj-wzGaRnB7CRVfYDalewkY",
+                    "short_id": "db78dafb7cd886fb"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "ebl",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🇹🇷TR | 🟢 | vless | 3YED | 0",
             "type": "vless",
             "server": "tr.linuxbase.ir",
             "server_port": 1152,
@@ -320,7 +358,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 13",
+            "tag": "❔XX | 🔴 | vless | 3YED | 13",
             "type": "vless",
             "server": "las.dearhossein-taktaz.ir",
             "server_port": 47922,
