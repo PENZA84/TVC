@@ -114,9 +114,7 @@ https://github.com/3yed-61
                 "🇦🇹AT | 🔴 | vless | 3YED | 1",
                 "🇹🇷TR | 🟢 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 0",
-                "🇩🇪DE | 🔴 | vless | 3YED | 13",
-                "❔XX | 🔴 | vless | 3YED | 14",
-                "❔XX | 🔴 | vless | 3YED | 0",
+                "🇩🇪DE | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -139,9 +137,7 @@ https://github.com/3yed-61
                 "🇦🇹AT | 🔴 | vless | 3YED | 1",
                 "🇹🇷TR | 🟢 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 0",
-                "🇩🇪DE | 🔴 | vless | 3YED | 13",
-                "❔XX | 🔴 | vless | 3YED | 14",
-                "❔XX | 🔴 | vless | 3YED | 0",
+                "🇩🇪DE | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -418,65 +414,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 13",
-            "type": "vless",
-            "server": "las.dearhossein-taktaz.ir",
-            "server_port": 47922,
-            "uuid": "40601c06-6fbf-4f48-bcff-2a8d57038e37",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.yahoo.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "-smckvxfg8A2QkVqkQpI3bPMcYJ_69fAxWS7u9VhND8",
-                    "short_id": "09"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | 3YED | 14",
-            "type": "vless",
-            "server": "hayabusa.proxy.rlwy.net",
-            "server_port": 45900,
-            "uuid": "@MAconnectt",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "is1-ssl.mzstatic.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "c0xMn5XvlwQaY7eR6Vvcbi2gyDZWfvHYH1Qs33UIgQo",
-                    "short_id": "3ca0d2376d0c5ba1"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | 3YED | 0",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 0",
             "type": "vless",
             "server": "142.93.174.176",
             "server_port": 443,
