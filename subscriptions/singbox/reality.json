@@ -169,7 +169,7 @@
                 "🇵🇱PL | 🔴 | vless | 3YED | 1",
                 "🇵🇱PL | 🟢 | vless | 3YED | 2",
                 "🇳🇱NL | 🔴 | vless | 3YED | 7",
-                "❔XX | 🔴 | vless | 3YED | 7",
+                "🇩🇪DE | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 48",
                 "❔XX | 🔴 | vless | 3YED | 52",
@@ -269,7 +269,7 @@
                 "🇵🇱PL | 🔴 | vless | 3YED | 1",
                 "🇵🇱PL | 🟢 | vless | 3YED | 2",
                 "🇳🇱NL | 🔴 | vless | 3YED | 7",
-                "❔XX | 🔴 | vless | 3YED | 7",
+                "🇩🇪DE | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 48",
                 "❔XX | 🔴 | vless | 3YED | 52",
@@ -2233,7 +2233,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 7",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 7",
             "type": "vless",
             "server": "hub.oneoknews.com",
             "server_port": 443,
