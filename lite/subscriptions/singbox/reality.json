@@ -110,10 +110,11 @@ https://github.com/3yed-61
                 "🇳🇱NL | 🔴 | vless | 3YED | 3",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇨🇭CH | 🟢 | vless | 3YED | 78",
-                "🇫🇮FI | 🟢 | vless | 3YED | 0",
-                "🇦🇹AT | 🔴 | vless | 3YED | 1",
+                "🇫🇮FI | 🟢 | vless | 3YED | 1",
+                "🇦🇹AT | 🔴 | vless | 3YED | 2",
                 "🇹🇷TR | 🟢 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 0",
+                "🇩🇪DE | 🔴 | vless | 3YED | 14",
                 "🇩🇪DE | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -133,10 +134,11 @@ https://github.com/3yed-61
                 "🇳🇱NL | 🔴 | vless | 3YED | 3",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇨🇭CH | 🟢 | vless | 3YED | 78",
-                "🇫🇮FI | 🟢 | vless | 3YED | 0",
-                "🇦🇹AT | 🔴 | vless | 3YED | 1",
+                "🇫🇮FI | 🟢 | vless | 3YED | 1",
+                "🇦🇹AT | 🔴 | vless | 3YED | 2",
                 "🇹🇷TR | 🟢 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 0",
+                "🇩🇪DE | 🔴 | vless | 3YED | 14",
                 "🇩🇪DE | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -291,7 +293,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇫🇮FI | 🟢 | vless | 3YED | 0",
+            "tag": "🇫🇮FI | 🟢 | vless | 3YED | 1",
             "type": "vless",
             "server": "khc.dearhossein-taktaz.ir",
             "server_port": 443,
@@ -320,7 +322,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇦🇹AT | 🔴 | vless | 3YED | 1",
+            "tag": "🇦🇹AT | 🔴 | vless | 3YED | 2",
             "type": "vless",
             "server": "104.143.0.254",
             "server_port": 443,
@@ -410,6 +412,35 @@ https://github.com/3yed-61
                     "enabled": true,
                     "public_key": "hjdnuzysFQh3YtJ2yWjh-gduVE3A2yHWqJ1QXvrZyHM",
                     "short_id": "81b5b012"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 14",
+            "type": "vless",
+            "server": "soskeynets.mbcloudynias.ir",
+            "server_port": 50567,
+            "uuid": "3b4529e8-9c14-4541-8388-fe90d737baeb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "play.google.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": ""
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs",
+                    "short_id": "29a833ab20778306"
                 }
             }
         },
