@@ -121,8 +121,8 @@ dns:
 
 proxies:
   - {"name":"🇩🇪DE | 🔴 | trojan | 3YED | 9","type":"trojan","server":"185.137.157.142","port":443,"udp":false,"password":"dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 10","type":"trojan","server":"216.24.57.1","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.creationlong.org"}
-  - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 12","type":"trojan","server":"141.193.213.21","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
+  - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 13","type":"trojan","server":"141.193.213.21","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 14","type":"trojan","server":"151.101.56.6","port":443,"udp":false,"password":"MITIVPN","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"global.fastly.com"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -130,8 +130,8 @@ proxy-groups:
       - URL-TEST
       - FALLBACK
       - '🇩🇪DE | 🔴 | trojan | 3YED | 9'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 10'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 12'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 13'
+      - '❔XX | 🔴 | trojan | 3YED | 14'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -139,16 +139,16 @@ proxy-groups:
     tolerance: 50
     proxies:
       - '🇩🇪DE | 🔴 | trojan | 3YED | 9'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 10'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 12'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 13'
+      - '❔XX | 🔴 | trojan | 3YED | 14'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 60
     proxies:
       - '🇩🇪DE | 🔴 | trojan | 3YED | 9'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 10'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 12'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 13'
+      - '❔XX | 🔴 | trojan | 3YED | 14'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
   ads: {type: http, format: text, behavior: domain, path: ./ruleset/ads.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ads.txt, interval: 86400}
