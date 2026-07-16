@@ -119,16 +119,18 @@
                 "❔XX | 🟢 | vmess | 3YED | 15",
                 "❔XX | 🟢 | vmess | 3YED | 16",
                 "❔XX | 🟢 | vmess | 3YED | 7",
-                "🇹🇼TW | 🟢 | vmess | 3YED | 1",
-                "🇲🇾MY | 🟢 | vmess | 3YED | 2",
+                "❔XX | 🟢 | vmess | 3YED | 1",
+                "❔XX | 🟢 | vmess | 3YED | 2",
                 "❔XX | 🟢 | vmess | 3YED | 3",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "🚩CF | 🟢 | vmess | 3YED | 5",
-                "🇺🇸US | 🟢 | vmess | 3YED | 0",
+                "❔XX | 🟢 | vmess | 3YED | 0",
                 "❔XX | 🟢 | vmess | 3YED | 1",
-                "🚩CF | 🟢 | vmess | 3YED | 2",
-                "🆥🆥 | 🟢 | vmess | 3YED | 3",
-                "🇺🇸US | 🟢 | vmess | 3YED | 4"
+                "❔XX | 🟢 | vmess | 3YED | 2",
+                "❔XX | 🟢 | vmess | 3YED | 3",
+                "❔XX | 🟢 | vmess | 3YED | 4",
+                "🚩CF | 🟢 | vmess | 3YED | 5",
+                "🆥🆥 | 🟢 | vmess | 3YED | 6"
             ]
         },
         {
@@ -149,16 +151,18 @@
                 "❔XX | 🟢 | vmess | 3YED | 15",
                 "❔XX | 🟢 | vmess | 3YED | 16",
                 "❔XX | 🟢 | vmess | 3YED | 7",
-                "🇹🇼TW | 🟢 | vmess | 3YED | 1",
-                "🇲🇾MY | 🟢 | vmess | 3YED | 2",
+                "❔XX | 🟢 | vmess | 3YED | 1",
+                "❔XX | 🟢 | vmess | 3YED | 2",
                 "❔XX | 🟢 | vmess | 3YED | 3",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "🚩CF | 🟢 | vmess | 3YED | 5",
-                "🇺🇸US | 🟢 | vmess | 3YED | 0",
+                "❔XX | 🟢 | vmess | 3YED | 0",
                 "❔XX | 🟢 | vmess | 3YED | 1",
-                "🚩CF | 🟢 | vmess | 3YED | 2",
-                "🆥🆥 | 🟢 | vmess | 3YED | 3",
-                "🇺🇸US | 🟢 | vmess | 3YED | 4"
+                "❔XX | 🟢 | vmess | 3YED | 2",
+                "❔XX | 🟢 | vmess | 3YED | 3",
+                "❔XX | 🟢 | vmess | 3YED | 4",
+                "🚩CF | 🟢 | vmess | 3YED | 5",
+                "🆥🆥 | 🟢 | vmess | 3YED | 6"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -419,7 +423,7 @@
             }
         },
         {
-            "tag": "🇹🇼TW | 🟢 | vmess | 3YED | 1",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 1",
             "type": "vmess",
             "server": "45.199.138.217",
             "server_port": 41000,
@@ -453,7 +457,7 @@
             }
         },
         {
-            "tag": "🇲🇾MY | 🟢 | vmess | 3YED | 2",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 2",
             "type": "vmess",
             "server": "107.149.119.43",
             "server_port": 37000,
@@ -569,7 +573,58 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | 3YED | 0",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 0",
+            "type": "vmess",
+            "server": "198.2.234.98",
+            "server_port": 39771,
+            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
+            "security": "auto",
+            "alter_id": 64,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | 3YED | 1",
+            "type": "vmess",
+            "server": "127.0.0.1",
+            "server_port": 8080,
+            "uuid": "acbacba-bcaa-acab-dcba-babcacccbaab",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | 3YED | 2",
+            "type": "vmess",
+            "server": "127.0.0.1",
+            "server_port": 8080,
+            "uuid": "cbaabac-baca-acba-bacd-abbbcbcaacca",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | 3YED | 3",
             "type": "vmess",
             "server": "speedtest.net",
             "server_port": 443,
@@ -603,7 +658,7 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 1",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 4",
             "type": "vmess",
             "server": "pandor.boats",
             "server_port": 443,
@@ -637,7 +692,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | 3YED | 2",
+            "tag": "🚩CF | 🟢 | vmess | 3YED | 5",
             "type": "vmess",
             "server": "172.64.198.249",
             "server_port": 2086,
@@ -661,7 +716,7 @@
             }
         },
         {
-            "tag": "🆥🆥 | 🟢 | vmess | 3YED | 3",
+            "tag": "🆥🆥 | 🟢 | vmess | 3YED | 6",
             "type": "vmess",
             "server": "127.0.0.1",
             "server_port": 1080,
@@ -675,30 +730,6 @@
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            }
-        },
-        {
-            "tag": "🇺🇸US | 🟢 | vmess | 3YED | 4",
-            "type": "vmess",
-            "server": "154.21.195.169",
-            "server_port": 42432,
-            "uuid": "7ccbe715-92bb-4254-edc6-43a447d0987a",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": ""
-                }
             }
         }
     ],
