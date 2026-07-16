@@ -120,8 +120,7 @@ dns:
     'RULE-SET:ir,ircidr,geoip:ir,+.ir,+.bonyan.co': ["217.218.155.155", "217.218.127.127", "https://dns.403.online/dns-query", "https://dns.shecan.ir/dns-query"]
 
 proxies:
-  - {"name":"🇮🇪IE | 🔴 | trojan | 3YED | 9","type":"trojan","server":"146.70.90.198","port":57452,"udp":false,"password":"t1k169n5zmvvwn96r9ft","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.vk.com"}
-  - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 10","type":"trojan","server":"167.68.4.199","port":2053,"udp":false,"password":"Aimer","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"epge.muarua.filegear-sg.me"}
+  - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 7","type":"trojan","server":"216.24.57.1","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.creationlong.org"}
   - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 12","type":"trojan","server":"141.193.213.21","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
 proxy-groups:
   - name: MANUAL
@@ -129,8 +128,7 @@ proxy-groups:
     proxies:
       - URL-TEST
       - FALLBACK
-      - '🇮🇪IE | 🔴 | trojan | 3YED | 9'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 10'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 7'
       - '🇺🇸US | 🔴 | trojan | 3YED | 12'
   - name: URL-TEST
     type: url-test
@@ -138,16 +136,14 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - '🇮🇪IE | 🔴 | trojan | 3YED | 9'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 10'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 7'
       - '🇺🇸US | 🔴 | trojan | 3YED | 12'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 60
     proxies:
-      - '🇮🇪IE | 🔴 | trojan | 3YED | 9'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 10'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 7'
       - '🇺🇸US | 🔴 | trojan | 3YED | 12'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
