@@ -136,10 +136,9 @@
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🟢 | vless | 3YED | 2",
-                "🇩🇪DE | 🟢 | vless | 3YED | 7",
-                "🇬🇧GB | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 1",
-                "🇱🇻LV | 🟢 | vless | 3YED | 2",
+                "❔XX | 🟢 | vless | 3YED | 7",
+                "❔XX | 🔴 | vless | 3YED | 0",
+                "❔XX | 🟢 | vless | 3YED | 11",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "🇬🇧GB | 🔴 | vless | 3YED | 6",
@@ -170,8 +169,8 @@
                 "🇵🇱PL | 🔴 | vless | 3YED | 2",
                 "❔XX | 🟢 | vless | 3YED | 3",
                 "🇳🇱NL | 🔴 | vless | 3YED | 8",
-                "🇩🇪DE | 🔴 | vless | 3YED | 7",
-                "❔XX | 🔴 | vless | 3YED | 1",
+                "❔XX | 🔴 | vless | 3YED | 7",
+                "🇨🇾CY | 🔴 | vless | 3YED | 1",
                 "❔XX | 🟢 | vless | 3YED | 48",
                 "❔XX | 🔴 | vless | 3YED | 52",
                 "❔XX | 🟢 | vless | 3YED | 53",
@@ -237,10 +236,9 @@
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🟢 | vless | 3YED | 2",
-                "🇩🇪DE | 🟢 | vless | 3YED | 7",
-                "🇬🇧GB | 🔴 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 1",
-                "🇱🇻LV | 🟢 | vless | 3YED | 2",
+                "❔XX | 🟢 | vless | 3YED | 7",
+                "❔XX | 🔴 | vless | 3YED | 0",
+                "❔XX | 🟢 | vless | 3YED | 11",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "🇬🇧GB | 🔴 | vless | 3YED | 6",
@@ -271,8 +269,8 @@
                 "🇵🇱PL | 🔴 | vless | 3YED | 2",
                 "❔XX | 🟢 | vless | 3YED | 3",
                 "🇳🇱NL | 🔴 | vless | 3YED | 8",
-                "🇩🇪DE | 🔴 | vless | 3YED | 7",
-                "❔XX | 🔴 | vless | 3YED | 1",
+                "❔XX | 🔴 | vless | 3YED | 7",
+                "🇨🇾CY | 🔴 | vless | 3YED | 1",
                 "❔XX | 🟢 | vless | 3YED | 48",
                 "❔XX | 🔴 | vless | 3YED | 52",
                 "❔XX | 🟢 | vless | 3YED | 53",
@@ -1236,7 +1234,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 7",
+            "tag": "❔XX | 🟢 | vless | 3YED | 7",
             "type": "vless",
             "server": "84.32.223.22",
             "server_port": 443,
@@ -1265,7 +1263,7 @@
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | 3YED | 0",
+            "tag": "❔XX | 🔴 | vless | 3YED | 0",
             "type": "vless",
             "server": "87.120.219.225",
             "server_port": 443,
@@ -1294,40 +1292,11 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 1",
+            "tag": "❔XX | 🟢 | vless | 3YED | 11",
             "type": "vless",
-            "server": "sut.sesssutacc.ir",
-            "server_port": 2083,
-            "uuid": "91e34d87-e5ed-4121-a40d-086516a2512c",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.samsung.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "ezGpPvn1Rvoid-QVp70I7lTc5B3tx7jYXc6_JoVeQWk",
-                    "short_id": "4f8a9f7214bf8f19"
-                }
-            }
-        },
-        {
-            "tag": "🇱🇻LV | 🟢 | vless | 3YED | 2",
-            "type": "vless",
-            "server": "193.28.186.215",
+            "server": "de10.buycloud.app",
             "server_port": 443,
-            "uuid": "a34b5e88-cf0d-4c01-8199-2d1002d3c787",
+            "uuid": "bbae962a-b6e9-46e6-990c-6abf13e6b075",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1337,17 +1306,17 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "www.wikihow.com",
+                "server_name": "de10.buycloud.app",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "qq"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U",
-                    "short_id": ""
+                    "public_key": "z_Rn0Vvq1GB39RhN6v7DhdtD-kS0XZa_je0h-no_hWs",
+                    "short_id": "59eee550a1014198"
                 }
             }
         },
@@ -2257,7 +2226,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 7",
+            "tag": "❔XX | 🔴 | vless | 3YED | 7",
             "type": "vless",
             "server": "hub.oneoknews.com",
             "server_port": 443,
@@ -2293,7 +2262,7 @@
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 1",
+            "tag": "🇨🇾CY | 🔴 | vless | 3YED | 1",
             "type": "vless",
             "server": "s1.streemmovie.shop",
             "server_port": 8443,
