@@ -112,8 +112,8 @@ https://github.com/3yed-61
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇫🇷FR | 🔴 | vless | 3YED | 0",
                 "🇫🇮FI | 🟢 | vless | 3YED | 3",
-                "❔XX | 🔴 | vless | 3YED | 0",
-                "❔XX | 🟢 | vless | 3YED | 0",
+                "🇬🇧GB | 🔴 | vless | 3YED | 0",
+                "❔XX | 🟢 | vless | 3YED | 9",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -137,8 +137,8 @@ https://github.com/3yed-61
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇫🇷FR | 🔴 | vless | 3YED | 0",
                 "🇫🇮FI | 🟢 | vless | 3YED | 3",
-                "❔XX | 🔴 | vless | 3YED | 0",
-                "❔XX | 🟢 | vless | 3YED | 0",
+                "🇬🇧GB | 🔴 | vless | 3YED | 0",
+                "❔XX | 🟢 | vless | 3YED | 9",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -353,7 +353,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 0",
+            "tag": "🇬🇧GB | 🔴 | vless | 3YED | 0",
             "type": "vless",
             "server": "87.120.219.225",
             "server_port": 443,
@@ -382,11 +382,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 0",
+            "tag": "❔XX | 🟢 | vless | 3YED | 9",
             "type": "vless",
-            "server": "38.54.116.187",
-            "server_port": 444,
-            "uuid": "d823a737-3780-4943-8598-b7581cdf74bd",
+            "server": "de2.raketa-balance.com",
+            "server_port": 443,
+            "uuid": "8a22fde8-e72e-4ce2-96f6-285aeffe66a2",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -396,17 +396,17 @@ https://github.com/3yed-61
             },
             "tls": {
                 "enabled": true,
-                "server_name": "play.google.com",
+                "server_name": "de2.raketa-balance.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": null
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "wNwTLARVhaEjKeUSGEFaHQFdACTDJ6J5XArHV9dkQ2A",
-                    "short_id": "9454f7f4d418a339"
+                    "public_key": "JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY",
+                    "short_id": "6c6082a2223c1d03"
                 }
             }
         },
