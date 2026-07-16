@@ -10,8 +10,6 @@ trojan://MITIVPN@199.232.22.39:443?alpn=http%2F1.1&fp=chrome&host=mitivpn--mitiv
 trojan://521314@wangcai.yunzhongzhuan.com:443?host=tjplay.lxdxo.kdns.fr&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&sni=tjplay.lxdxo.kdns.fr&type=ws#❔XX%20|%20🔴%20|%20trojan%20|%203YED%20|%204
 trojan://2c9fc6cc-3834-4e3d-a4e5-1b1a63929d0f@193.163.85.39:443?path=%2Fvpn&sni=platyscelis.duckdns.org&type=ws#❔XX%20|%20🔴%20|%20trojan%20|%203YED%20|%206
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443#❔XX%20|%20🔴%20|%20trojan%20|%203YED%20|%209
-trojan://humanity@216.24.57.1:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#❔XX%20|%20🔴%20|%20trojan%20|%203YED%20|%2010
 trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🚩CF%20|%20🔴%20|%20trojan%20|%203YED%20|%205
 trojan://humanity@141.193.213.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#❔XX%20|%20🔴%20|%20trojan%20|%203YED%20|%2012
-trojan://telegram-id-privatevpns@3.69.86.69:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%201
-trojan://tg-dns68@162.159.152.93:443?security=tls&type=ws&sni=vip.putata.eu.org&path=%2F%3Fed%3D2560&host=vip.putata.eu.org#🚩CF%20|%20🟢%20|%20trojan%20|%203YED%20|%202
+trojan://telegram-id-privatevpns@13.43.171.172:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#❔XX%20|%20🟢%20|%20trojan%20|%203YED%20|%203
