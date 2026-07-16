@@ -11,11 +11,11 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇺🇸US | 🔴 | trojan | 3YED | 13 = trojan, 141.193.213.21, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmloud.com, ws = false
+❔XX | 🔴 | trojan | 3YED | 13 = trojan, 141.193.213.21, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmloud.com, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇺🇸US | 🔴 | trojan | 3YED | 13
-URL-TEST = url-test,🇺🇸US | 🔴 | trojan | 3YED | 13
-FALLBACK = fallback,🇺🇸US | 🔴 | trojan | 3YED | 13
+MANUAL = select,URL-TEST,FALLBACK,❔XX | 🔴 | trojan | 3YED | 13
+URL-TEST = url-test,❔XX | 🔴 | trojan | 3YED | 13
+FALLBACK = fallback,❔XX | 🔴 | trojan | 3YED | 13
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
