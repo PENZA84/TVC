@@ -160,7 +160,6 @@
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 0",
-                "❔XX | 🟢 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "🇬🇧GB | 🔴 | vless | 3YED | 6",
@@ -191,7 +190,7 @@
                 "🇳🇱NL | 🟢 | vless | 3YED | 1",
                 "🇵🇱PL | 🔴 | vless | 3YED | 5",
                 "❔XX | 🟢 | vless | 3YED | 6",
-                "🇳🇱NL | 🟢 | vless | 3YED | 4",
+                "🇳🇱NL | 🟢 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 2",
                 "❔XX | 🟢 | vless | 3YED | 48",
                 "❔XX | 🔴 | vless | 3YED | 52",
@@ -278,7 +277,6 @@
                 "❔XX | 🟢 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 8",
                 "❔XX | 🔴 | vless | 3YED | 0",
-                "❔XX | 🟢 | vless | 3YED | 5",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "🇬🇧GB | 🔴 | vless | 3YED | 6",
@@ -309,7 +307,7 @@
                 "🇳🇱NL | 🟢 | vless | 3YED | 1",
                 "🇵🇱PL | 🔴 | vless | 3YED | 5",
                 "❔XX | 🟢 | vless | 3YED | 6",
-                "🇳🇱NL | 🟢 | vless | 3YED | 4",
+                "🇳🇱NL | 🟢 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 2",
                 "❔XX | 🟢 | vless | 3YED | 48",
                 "❔XX | 🔴 | vless | 3YED | 52",
@@ -1980,35 +1978,6 @@
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 5",
-            "type": "vless",
-            "server": "212.233.78.246",
-            "server_port": 8443,
-            "uuid": "68d3fcbe-f025-2710-82d6-9455c5e5f6b5",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "secget.ru",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "edge"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "vV3mxSgZ-8x3Gp373AXdMDM3FAdmLP0v5zIfI486SDI",
-                    "short_id": "f8a8ee8381529673"
-                }
-            }
-        },
-        {
             "tag": "❔XX | 🔴 | vless | 3YED | 0",
             "type": "vless",
             "server": "142.93.174.176",
@@ -2914,7 +2883,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | 3YED | 4",
+            "tag": "🇳🇱NL | 🟢 | vless | 3YED | 7",
             "type": "vless",
             "server": "46.8.229.199",
             "server_port": 443,
