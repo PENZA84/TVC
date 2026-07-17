@@ -3,6 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/3yed-61
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443#🇩🇪DE | 🔴 | trojan | 3YED | 7
-trojan://2c9fc6cc-3834-4e3d-a4e5-1b1a63929d0f@193.163.85.39:443?path=/vpn&sni=platyscelis.duckdns.org&type=ws#🇨🇭CH | 🔴 | trojan | 3YED | 8
+trojan://MITIVPN@199.232.22.39:443?alpn=http/1.1&fp=chrome&host=mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=u--s&sni=ssl.fastly.com&type=ws#🇺🇸US | 🔴 | trojan | 3YED | 8
 trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#🇺🇸US | 🔴 | trojan | 3YED | 13
-trojan://aacbbac-aacb-baca-cbad-cbcbaacbacab@127.0.0.1:1080?security=tls&type=tcp#🆥🆥 | 🟢 | trojan | 3YED | 13
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=/Telegram @WangCai2&fp=firefox#❔XX | 🟢 | trojan | 3YED | 11
