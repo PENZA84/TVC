@@ -120,9 +120,9 @@ dns:
 proxies:
   - {"name":"🇫🇷FR | 🟢 | vmess | 3YED | 0","type":"vmess","server":"146.59.147.250","port":"29776","cipher":"auto","uuid":"82447abf-dcb9-408a-9ca6-79e0a7698d08","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇳CN | 🟢 | vmess | 3YED | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 5","type":"trojan","server":"151.101.1.194","port":443,"udp":false,"password":"MiTiVPN","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"ssl.fastly.com"}
-  - {"name":"🇮🇪IE | 🔴 | trojan | 3YED | 6","type":"trojan","server":"wired-tick.rooster465.autos","port":443,"udp":false,"password":"OD90375861","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 7","type":"trojan","server":"151.101.34.144","port":443,"udp":false,"password":"4aFbwy5BHa","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"global.fastly.com"}
+  - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 6","type":"trojan","server":"151.101.1.194","port":443,"udp":false,"password":"MiTiVPN","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"ssl.fastly.com"}
+  - {"name":"🇮🇪IE | 🔴 | trojan | 3YED | 7","type":"trojan","server":"wired-tick.rooster465.autos","port":443,"udp":false,"password":"OD90375861","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
+  - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 7","type":"trojan","server":"151.101.34.144","port":443,"udp":false,"password":"4aFbwy5BHa","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"global.fastly.com"}
   - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 13","type":"trojan","server":"141.193.213.21","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
   - {"name":"❔XX | 🟢 | vmess | 3YED | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
   - {"name":"❔XX | 🟢 | vmess | 3YED | 11","type":"vmess","server":"16.163.143.214","port":"80","cipher":"auto","uuid":"2d9a81f6-e86e-48e6-9646-b3b1325f8d61","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/syjsq/data","headers":{"host":"syjsq.hk2.flyidc.top"}}}
@@ -135,9 +135,9 @@ proxy-groups:
       - FALLBACK
       - '🇫🇷FR | 🟢 | vmess | 3YED | 0'
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 5'
-      - '🇮🇪IE | 🔴 | trojan | 3YED | 6'
-      - '❔XX | 🔴 | trojan | 3YED | 7'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 6'
+      - '🇮🇪IE | 🔴 | trojan | 3YED | 7'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 7'
       - '🇺🇸US | 🔴 | trojan | 3YED | 13'
       - '❔XX | 🟢 | vmess | 3YED | 4'
       - '❔XX | 🟢 | vmess | 3YED | 11'
@@ -150,9 +150,9 @@ proxy-groups:
     proxies:
       - '🇫🇷FR | 🟢 | vmess | 3YED | 0'
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 5'
-      - '🇮🇪IE | 🔴 | trojan | 3YED | 6'
-      - '❔XX | 🔴 | trojan | 3YED | 7'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 6'
+      - '🇮🇪IE | 🔴 | trojan | 3YED | 7'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 7'
       - '🇺🇸US | 🔴 | trojan | 3YED | 13'
       - '❔XX | 🟢 | vmess | 3YED | 4'
       - '❔XX | 🟢 | vmess | 3YED | 11'
@@ -164,9 +164,9 @@ proxy-groups:
     proxies:
       - '🇫🇷FR | 🟢 | vmess | 3YED | 0'
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 5'
-      - '🇮🇪IE | 🔴 | trojan | 3YED | 6'
-      - '❔XX | 🔴 | trojan | 3YED | 7'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 6'
+      - '🇮🇪IE | 🔴 | trojan | 3YED | 7'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 7'
       - '🇺🇸US | 🔴 | trojan | 3YED | 13'
       - '❔XX | 🟢 | vmess | 3YED | 4'
       - '❔XX | 🟢 | vmess | 3YED | 11'
