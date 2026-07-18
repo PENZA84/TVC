@@ -14,11 +14,12 @@ DIRECT = direct
 🇩🇪DE | 🔴 | trojan | 3YED | 9 = trojan, certain-prawn.rooster465.autos, 443, password = NQ26071394, udp-delay = true, skip-cert-verify = false, ws = false
 🇩🇪DE | 🔴 | trojan | 3YED | 10 = trojan, harmless-lab.rooster465.autos, 443, password = CF68213490, udp-delay = true, skip-cert-verify = true, ws = false
 🇺🇸US | 🔴 | trojan | 3YED | 8 = trojan, 151.101.34.144, 443, password = 4aFbwy5BHa, udp-delay = true, skip-cert-verify = false, sni = global.fastly.com, ws = false
-❔XX | 🔴 | trojan | 3YED | 13 = trojan, 141.193.213.21, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmloud.com, ws = false
+🇺🇸US | 🔴 | trojan | 3YED | 13 = trojan, 141.193.213.21, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmloud.com, ws = false
+❔XX | 🟢 | trojan | 3YED | 0 = trojan, 188.114.97.6, 443, password = VPNCUSTOMIZE, udp-delay = true, skip-cert-verify = true, sni = ww.offers.de5.net, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇩🇪DE | 🔴 | trojan | 3YED | 9,🇩🇪DE | 🔴 | trojan | 3YED | 10,🇺🇸US | 🔴 | trojan | 3YED | 8,❔XX | 🔴 | trojan | 3YED | 13
-URL-TEST = url-test,🇩🇪DE | 🔴 | trojan | 3YED | 9,🇩🇪DE | 🔴 | trojan | 3YED | 10,🇺🇸US | 🔴 | trojan | 3YED | 8,❔XX | 🔴 | trojan | 3YED | 13
-FALLBACK = fallback,🇩🇪DE | 🔴 | trojan | 3YED | 9,🇩🇪DE | 🔴 | trojan | 3YED | 10,🇺🇸US | 🔴 | trojan | 3YED | 8,❔XX | 🔴 | trojan | 3YED | 13
+MANUAL = select,URL-TEST,FALLBACK,🇩🇪DE | 🔴 | trojan | 3YED | 9,🇩🇪DE | 🔴 | trojan | 3YED | 10,🇺🇸US | 🔴 | trojan | 3YED | 8,🇺🇸US | 🔴 | trojan | 3YED | 13,❔XX | 🟢 | trojan | 3YED | 0
+URL-TEST = url-test,🇩🇪DE | 🔴 | trojan | 3YED | 9,🇩🇪DE | 🔴 | trojan | 3YED | 10,🇺🇸US | 🔴 | trojan | 3YED | 8,🇺🇸US | 🔴 | trojan | 3YED | 13,❔XX | 🟢 | trojan | 3YED | 0
+FALLBACK = fallback,🇩🇪DE | 🔴 | trojan | 3YED | 9,🇩🇪DE | 🔴 | trojan | 3YED | 10,🇺🇸US | 🔴 | trojan | 3YED | 8,🇺🇸US | 🔴 | trojan | 3YED | 13,❔XX | 🟢 | trojan | 3YED | 0
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
