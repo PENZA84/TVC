@@ -12,11 +12,11 @@ enhanced-mode-by-rule = true
 [Proxy]
 DIRECT = direct
 ❔XX | 🟢 | vmess | 3YED | 4 = vmess, ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub, 80, username = 46cfcfe1-e450-459d-a3ab-9406011ab3eb, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"tms.dingtalk.com", skip-cert-verify = true, tfo = false
-❔XX | 🟢 | vmess | 3YED | 6 = vmess, 192.0.63.246, 80, username = 70848317-88ef-4840-b839-16caa8b64d18, ws = true, tls = , vmess-aead = true, ws-path = /navigate?ed=800, ws-headers = Host:"780a34f694d00545.780a34f694d00545.780a34f694d00545.780a34f694d00545.de-dargah.offDarsAD.IR.", skip-cert-verify = true, tfo = false
+❔XX | 🟢 | vmess | 3YED | 4 = vmess, 104.22.70.9, 80, username = 63911f91-bc91-4b71-8d40-9ba99e7043e0, ws = true, tls = , vmess-aead = false, ws-path = /video/VDXcaM7r, ws-headers = Host:"GWYp69Yujp2.yofnhkfc.xyz", skip-cert-verify = true, tfo = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 6
-URL-TEST = url-test,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 6
-FALLBACK = fallback,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 6
+MANUAL = select,URL-TEST,FALLBACK,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 4
+URL-TEST = url-test,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 4
+FALLBACK = fallback,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 4
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL

@@ -122,13 +122,14 @@ proxies:
   - {"name":"🇨🇳CN | 🟢 | vmess | 3YED | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇩🇪DE | 🔴 | trojan | 3YED | 9","type":"trojan","server":"certain-prawn.rooster465.autos","port":443,"udp":false,"password":"NQ26071394","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇩🇪DE | 🔴 | trojan | 3YED | 10","type":"trojan","server":"harmless-lab.rooster465.autos","port":443,"udp":false,"password":"CF68213490","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 6","type":"trojan","server":"151.101.34.144","port":443,"udp":false,"password":"4aFbwy5BHa","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"global.fastly.com"}
-  - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 13","type":"trojan","server":"141.193.213.21","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 6","type":"trojan","server":"151.101.34.144","port":443,"udp":false,"password":"4aFbwy5BHa","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"global.fastly.com"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 13","type":"trojan","server":"141.193.213.21","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
   - {"name":"❔XX | 🟢 | trojan | 3YED | 0","type":"trojan","server":"188.114.97.6","port":443,"udp":false,"password":"VPNCUSTOMIZE","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"ww.offers.de5.net"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 18","type":"trojan","server":"uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir","port":47154,"udp":false,"password":"-----------BanV2ray-----------","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"chi.yahoo.com"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 18","type":"trojan","server":"8.47.69.0","port":443,"udp":false,"password":"MiTiVPN","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"fl-bo--l7---u.aPp-cLoud.IR"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 19","type":"trojan","server":"uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir","port":47375,"udp":false,"password":"-----------BanV2ray-----------","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"chi.yahoo.com"}
   - {"name":"❔XX | 🟢 | vmess | 3YED | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
-  - {"name":"❔XX | 🟢 | vmess | 3YED | 6","type":"vmess","server":"192.0.63.246","port":"80","cipher":"auto","uuid":"70848317-88ef-4840-b839-16caa8b64d18","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/navigate?ed=800","headers":{"host":"780a34f694d00545.780a34f694d00545.780a34f694d00545.780a34f694d00545.de-dargah.offDarsAD.IR."}}}
-  - {"name":"❔XX | 🟢 | vmess | 3YED | 7","type":"vmess","server":"46.245.74.106","port":"80","cipher":"auto","uuid":"cb8fde2f-77a9-4bf5-b382-544aaf83d418","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"❔XX | 🟢 | vmess | 3YED | 4","type":"vmess","server":"104.22.70.9","port":80,"cipher":"auto","uuid":"63911f91-bc91-4b71-8d40-9ba99e7043e0","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/video/VDXcaM7r","headers":{"host":"GWYp69Yujp2.yofnhkfc.xyz"}}}
+  - {"name":"❔XX | 🟢 | vmess | 3YED | 5","type":"vmess","server":"183.236.51.23","port":"54104","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -139,13 +140,14 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
       - '🇩🇪DE | 🔴 | trojan | 3YED | 9'
       - '🇩🇪DE | 🔴 | trojan | 3YED | 10'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 6'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 13'
+      - '❔XX | 🔴 | trojan | 3YED | 6'
+      - '❔XX | 🔴 | trojan | 3YED | 13'
       - '❔XX | 🟢 | trojan | 3YED | 0'
       - '❔XX | 🔴 | trojan | 3YED | 18'
+      - '❔XX | 🔴 | trojan | 3YED | 19'
       - '❔XX | 🟢 | vmess | 3YED | 4'
-      - '❔XX | 🟢 | vmess | 3YED | 6'
-      - '❔XX | 🟢 | vmess | 3YED | 7'
+      - '❔XX | 🟢 | vmess | 3YED | 4'
+      - '❔XX | 🟢 | vmess | 3YED | 5'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -156,13 +158,14 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
       - '🇩🇪DE | 🔴 | trojan | 3YED | 9'
       - '🇩🇪DE | 🔴 | trojan | 3YED | 10'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 6'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 13'
+      - '❔XX | 🔴 | trojan | 3YED | 6'
+      - '❔XX | 🔴 | trojan | 3YED | 13'
       - '❔XX | 🟢 | trojan | 3YED | 0'
       - '❔XX | 🔴 | trojan | 3YED | 18'
+      - '❔XX | 🔴 | trojan | 3YED | 19'
       - '❔XX | 🟢 | vmess | 3YED | 4'
-      - '❔XX | 🟢 | vmess | 3YED | 6'
-      - '❔XX | 🟢 | vmess | 3YED | 7'
+      - '❔XX | 🟢 | vmess | 3YED | 4'
+      - '❔XX | 🟢 | vmess | 3YED | 5'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -172,13 +175,14 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
       - '🇩🇪DE | 🔴 | trojan | 3YED | 9'
       - '🇩🇪DE | 🔴 | trojan | 3YED | 10'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 6'
-      - '🇺🇸US | 🔴 | trojan | 3YED | 13'
+      - '❔XX | 🔴 | trojan | 3YED | 6'
+      - '❔XX | 🔴 | trojan | 3YED | 13'
       - '❔XX | 🟢 | trojan | 3YED | 0'
       - '❔XX | 🔴 | trojan | 3YED | 18'
+      - '❔XX | 🔴 | trojan | 3YED | 19'
       - '❔XX | 🟢 | vmess | 3YED | 4'
-      - '❔XX | 🟢 | vmess | 3YED | 6'
-      - '❔XX | 🟢 | vmess | 3YED | 7'
+      - '❔XX | 🟢 | vmess | 3YED | 4'
+      - '❔XX | 🟢 | vmess | 3YED | 5'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve
