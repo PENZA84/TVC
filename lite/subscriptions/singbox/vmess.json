@@ -108,10 +108,11 @@ https://github.com/3yed-61
                 "URL-TEST",
                 "🇫🇷FR | 🟢 | vmess | 3YED | 0",
                 "🇨🇳CN | 🟢 | vmess | 3YED | 17",
+                "❔XX | 🟢 | vmess | 3YED | 11",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
-                "🇹🇷TR | 🟢 | vmess | 3YED | 11",
-                "❔XX | 🟢 | vmess | 3YED | 12",
+                "❔XX | 🟢 | vmess | 3YED | 9",
+                "❔XX | 🟢 | vmess | 3YED | 10",
                 "❔XX | 🟢 | vmess | 3YED | 1"
             ]
         },
@@ -121,10 +122,11 @@ https://github.com/3yed-61
             "outbounds": [
                 "🇫🇷FR | 🟢 | vmess | 3YED | 0",
                 "🇨🇳CN | 🟢 | vmess | 3YED | 17",
+                "❔XX | 🟢 | vmess | 3YED | 11",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
-                "🇹🇷TR | 🟢 | vmess | 3YED | 11",
-                "❔XX | 🟢 | vmess | 3YED | 12",
+                "❔XX | 🟢 | vmess | 3YED | 9",
+                "❔XX | 🟢 | vmess | 3YED | 10",
                 "❔XX | 🟢 | vmess | 3YED | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -179,6 +181,40 @@ https://github.com/3yed-61
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vmess | 3YED | 11",
+            "type": "vmess",
+            "server": "xsj004-10.facai2024.com",
+            "server_port": 443,
+            "uuid": "1f1aa362-2576-4989-8fdb-7cf1c2c96490",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "xsj004-10.facai2024.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/1f1aa362-25",
+                "headers": {
+                    "Host": "xsj004-10.facai2024.com"
+                }
             }
         },
         {
@@ -240,11 +276,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇹🇷TR | 🟢 | vmess | 3YED | 11",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 9",
             "type": "vmess",
-            "server": "202.78.162.5",
-            "server_port": 443,
-            "uuid": "716eded6-2201-4dbd-9d63-1638c9e8e677",
+            "server": "23.227.38.6",
+            "server_port": 2086,
+            "uuid": "29eebb60-b27b-4a9d-bba5-947763d9205e",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -255,30 +291,20 @@ https://github.com/3yed-61
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "202.78.162.5",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/@forwardv2ray",
+                "path": "\/github.com\/Alvin9999",
                 "headers": {
-                    "Host": "202.78.162.5"
+                    "Host": "23.227.38.6"
                 }
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 12",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 10",
             "type": "vmess",
-            "server": "108.181.200.220",
-            "server_port": 17163,
-            "uuid": "d54814a1-7a93-45f8-9117-db317a25d100",
+            "server": "104.19.46.59",
+            "server_port": 2086,
+            "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -288,6 +314,13 @@ https://github.com/3yed-61
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "104.19.46.59"
+                }
             }
         },
         {
