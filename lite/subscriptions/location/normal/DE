@@ -1,8 +1,7 @@
 vless://Telegram-Parsashonam@178.105.179.72:443?security=reality&encryption=none&pbk=k2hbpFLj1gfVXbx0Hae2bvMIZIaBwJcVG71XiEDkSD0&headerType=none&fp=firefox&spx=/l7fQJYMI6OVOIfN&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=21cee1c9ab#🇩🇪DE | 🟢 | vless | 3YED | 0
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.189.222:22224?encryption=none&security=none&type=tcp#🇩🇪DE | 🔴 | vless | 3YED | 14
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@fetch.anotherok.com:443?encryption=none&type=grpc&security=reality&serviceName=api.v1.StreamService&mode=gun&sni=fetch.anotherok.com&fp=firefox&insecure=1&allowInsecure=1&pbk=U7O4wCUNinuk5M-ADV1e4sJ_iA7-JVBEXB8nev6kzzs&sid=335555b164619360#🇩🇪DE | 🔴 | vless | 3YED | 0
-trojan://NQ26071394@certain-prawn.rooster465.autos:443?fp=chrome#🇩🇪DE | 🔴 | trojan | 3YED | 12
+trojan://NQ26071394@quiet-condor.rooster465.autos:443#🇩🇪DE | 🔴 | trojan | 3YED | 10
 vless://9e1671d2-4092-4ae4-93b3-1d2db0f1a071@89.39.121.54:110?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE | 🔴 | vless | 3YED | 14
 vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&headerType=none&fp=firefox&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#🇩🇪DE | 🟢 | vless | 3YED | 97
 vless://612d16de-aebd-4738-829e-533dbfa9e936@new.akinamo.willbe.sinitk.outforyou.ir:20580?security=reality&encryption=none&pbk=gqjS9wwxycF16Qf02GDt1UrvdrF_neQgj1Crduo_xB0&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=d5c1b9#🇩🇪DE | 🟢 | vless | 3YED | 6
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?security=reality&encryption=none&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5.oncloudnineservicestreang.com&sid=273940fba6ad8250#🇩🇪DE | 🟢 | vless | 3YED | 4
