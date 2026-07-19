@@ -113,11 +113,10 @@ https://github.com/3yed-61
                 "🇨🇭CH | 🔴 | vless | 3YED | 0",
                 "🇫🇮FI | 🟢 | vless | 3YED | 1",
                 "🇱🇹LT | 🟢 | vless | 3YED | 92",
-                "❔XX | 🟢 | vless | 3YED | 5",
-                "🇬🇧GB | 🔴 | vless | 3YED | 5",
+                "❔XX | 🟢 | vless | 3YED | 7",
+                "🇬🇧GB | 🔴 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 19",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -139,11 +138,10 @@ https://github.com/3yed-61
                 "🇨🇭CH | 🔴 | vless | 3YED | 0",
                 "🇫🇮FI | 🟢 | vless | 3YED | 1",
                 "🇱🇹LT | 🟢 | vless | 3YED | 92",
-                "❔XX | 🟢 | vless | 3YED | 5",
-                "🇬🇧GB | 🔴 | vless | 3YED | 5",
+                "❔XX | 🟢 | vless | 3YED | 7",
+                "🇬🇧GB | 🔴 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 0",
-                "❔XX | 🔴 | vless | 3YED | 19",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -384,7 +382,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vless | 3YED | 5",
+            "tag": "❔XX | 🟢 | vless | 3YED | 7",
             "type": "vless",
             "server": "sw.srv.anti-zapret.com",
             "server_port": 443,
@@ -413,7 +411,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇬🇧GB | 🔴 | vless | 3YED | 5",
+            "tag": "🇬🇧GB | 🔴 | vless | 3YED | 6",
             "type": "vless",
             "server": "main.oneoker.com",
             "server_port": 443,
@@ -503,35 +501,6 @@ https://github.com/3yed-61
                     "enabled": true,
                     "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
                     "short_id": "6ba85179e30d4fc2"
-                }
-            }
-        },
-        {
-            "tag": "❔XX | 🔴 | vless | 3YED | 19",
-            "type": "vless",
-            "server": "185.231.101.89",
-            "server_port": 443,
-            "uuid": "ecad47b0-249e-4f6f-adff-e3c8f02b1897",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "se.quattro-tech.ru",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": null
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc",
-                    "short_id": "43dcff53849b81e6"
                 }
             }
         },

@@ -11,15 +11,15 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🇩🇪DE | 🔴 | trojan | 3YED | 10 = trojan, certain-prawn.rooster465.autos, 443, password = NQ26071394, udp-delay = true, skip-cert-verify = false, ws = false
-🇮🇪IE | 🔴 | trojan | 3YED | 11 = trojan, fit-calf.rooster465.autos, 443, password = OD90375861, udp-delay = true, skip-cert-verify = false, ws = false
-🇺🇸US | 🔴 | trojan | 3YED | 13 = trojan, 141.193.213.21, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmloud.com, ws = false
-❔XX | 🟢 | trojan | 3YED | 1 = trojan, 188.114.97.6, 443, password = VPNCUSTOMIZE, udp-delay = true, skip-cert-verify = true, sni = ww.offers.de5.net, ws = false
-❔XX | 🟢 | trojan | 3YED | 18 = trojan, edededededededededededede-66.poki-pakipon.ir, 36268, password = -------BanV2ray------, udp-delay = true, skip-cert-verify = false, sni = chi.yahoo.com, ws = false
+🇩🇪DE | 🔴 | trojan | 3YED | 10 = trojan, 3.67.171.41, 443, password = OD90375861, udp-delay = true, skip-cert-verify = false, sni = busy-hermit.rooster465.autos, ws = false
+🇩🇪DE | 🔴 | trojan | 3YED | 11 = trojan, certain-prawn.rooster465.autos, 443, password = NQ26071394, udp-delay = true, skip-cert-verify = false, ws = false
+❔XX | 🔴 | trojan | 3YED | 13 = trojan, 141.193.213.21, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmloud.com, ws = false
+🇨🇦CA | 🟢 | trojan | 3YED | 1 = trojan, 188.114.97.6, 443, password = VPNCUSTOMIZE, udp-delay = true, skip-cert-verify = true, sni = ww.offers.de5.net, ws = false
+🇳🇱NL | 🟢 | trojan | 3YED | 18 = trojan, 89.39.70.233, 443, password = KV63147582, udp-delay = true, skip-cert-verify = false, sni = game-firefly.rooster465.autos, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇩🇪DE | 🔴 | trojan | 3YED | 10,🇮🇪IE | 🔴 | trojan | 3YED | 11,🇺🇸US | 🔴 | trojan | 3YED | 13,❔XX | 🟢 | trojan | 3YED | 1,❔XX | 🟢 | trojan | 3YED | 18
-URL-TEST = url-test,🇩🇪DE | 🔴 | trojan | 3YED | 10,🇮🇪IE | 🔴 | trojan | 3YED | 11,🇺🇸US | 🔴 | trojan | 3YED | 13,❔XX | 🟢 | trojan | 3YED | 1,❔XX | 🟢 | trojan | 3YED | 18
-FALLBACK = fallback,🇩🇪DE | 🔴 | trojan | 3YED | 10,🇮🇪IE | 🔴 | trojan | 3YED | 11,🇺🇸US | 🔴 | trojan | 3YED | 13,❔XX | 🟢 | trojan | 3YED | 1,❔XX | 🟢 | trojan | 3YED | 18
+MANUAL = select,URL-TEST,FALLBACK,🇩🇪DE | 🔴 | trojan | 3YED | 10,🇩🇪DE | 🔴 | trojan | 3YED | 11,❔XX | 🔴 | trojan | 3YED | 13,🇨🇦CA | 🟢 | trojan | 3YED | 1,🇳🇱NL | 🟢 | trojan | 3YED | 18
+URL-TEST = url-test,🇩🇪DE | 🔴 | trojan | 3YED | 10,🇩🇪DE | 🔴 | trojan | 3YED | 11,❔XX | 🔴 | trojan | 3YED | 13,🇨🇦CA | 🟢 | trojan | 3YED | 1,🇳🇱NL | 🟢 | trojan | 3YED | 18
+FALLBACK = fallback,🇩🇪DE | 🔴 | trojan | 3YED | 10,🇩🇪DE | 🔴 | trojan | 3YED | 11,❔XX | 🔴 | trojan | 3YED | 13,🇨🇦CA | 🟢 | trojan | 3YED | 1,🇳🇱NL | 🟢 | trojan | 3YED | 18
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
