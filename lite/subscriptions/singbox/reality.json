@@ -117,8 +117,8 @@ https://github.com/3yed-61
                 "🇩🇪DE | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 0",
-                "🇷🇺RU | 🟢 | vless | 3YED | 0",
-                "🇨🇭CH | 🟢 | vless | 3YED | 14",
+                "❔XX | 🟢 | vless | 3YED | 0",
+                "❔XX | 🟢 | vless | 3YED | 14",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -145,8 +145,8 @@ https://github.com/3yed-61
                 "🇩🇪DE | 🟢 | vless | 3YED | 6",
                 "❔XX | 🔴 | vless | 3YED | 7",
                 "❔XX | 🔴 | vless | 3YED | 0",
-                "🇷🇺RU | 🟢 | vless | 3YED | 0",
-                "🇨🇭CH | 🟢 | vless | 3YED | 14",
+                "❔XX | 🟢 | vless | 3YED | 0",
+                "❔XX | 🟢 | vless | 3YED | 14",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -511,7 +511,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇷🇺RU | 🟢 | vless | 3YED | 0",
+            "tag": "❔XX | 🟢 | vless | 3YED | 0",
             "type": "vless",
             "server": "94.242.55.42",
             "server_port": 443,
@@ -540,7 +540,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇨🇭CH | 🟢 | vless | 3YED | 14",
+            "tag": "❔XX | 🟢 | vless | 3YED | 14",
             "type": "vless",
             "server": "dk-google.mobileemdad.top",
             "server_port": 443,
