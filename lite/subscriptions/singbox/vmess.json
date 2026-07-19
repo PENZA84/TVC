@@ -110,8 +110,8 @@ https://github.com/3yed-61
                 "🇨🇳CN | 🟢 | vmess | 3YED | 17",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
-                "❔XX | 🟢 | vmess | 3YED | 3",
-                "❔XX | 🟢 | vmess | 3YED | 4",
+                "❔XX | 🟢 | vmess | 3YED | 6",
+                "❔XX | 🟢 | vmess | 3YED | 7",
                 "❔XX | 🟢 | vmess | 3YED | 1"
             ]
         },
@@ -123,8 +123,8 @@ https://github.com/3yed-61
                 "🇨🇳CN | 🟢 | vmess | 3YED | 17",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
-                "❔XX | 🟢 | vmess | 3YED | 3",
-                "❔XX | 🟢 | vmess | 3YED | 4",
+                "❔XX | 🟢 | vmess | 3YED | 6",
+                "❔XX | 🟢 | vmess | 3YED | 7",
                 "❔XX | 🟢 | vmess | 3YED | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -240,7 +240,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 3",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 6",
             "type": "vmess",
             "server": "85.237.206.174",
             "server_port": 10001,
@@ -264,7 +264,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 4",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 7",
             "type": "vmess",
             "server": "153.122.173.187",
             "server_port": 30001,
