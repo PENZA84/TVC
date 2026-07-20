@@ -11,16 +11,16 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
+🇩🇪DE | 🔴 | trojan | 3YED | 6 = trojan, 3.75.174.185, 443, password = NQ26071394, udp-delay = true, skip-cert-verify = false, sni = certain-prawn.rooster465.autos, ws = false
 🇩🇪DE | 🔴 | trojan | 3YED | 7 = trojan, 3.76.41.23, 443, password = KV63147582, udp-delay = true, skip-cert-verify = false, sni = evolving-baboon.rooster465.autos, ws = false
-🇮🇪IE | 🔴 | trojan | 3YED | 8 = trojan, funky-opossum.rooster465.autos, 443, password = NQ26071394, udp-delay = true, skip-cert-verify = false, ws = false
-🇺🇸US | 🔴 | trojan | 3YED | 13 = trojan, 141.193.213.21, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmloud.com, ws = false
-❔XX | 🟢 | trojan | 3YED | 7 = trojan, 188.114.97.6, 443, password = VPNCUSTOMIZE, udp-delay = true, skip-cert-verify = true, sni = ww.offers.de5.net, ws = false
+❔XX | 🔴 | trojan | 3YED | 13 = trojan, 141.193.213.21, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmloud.com, ws = false
 ❔XX | 🟢 | vmess | 3YED | 4 = vmess, ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub, 80, username = 46cfcfe1-e450-459d-a3ab-9406011ab3eb, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"tms.dingtalk.com", skip-cert-verify = true, tfo = false
-❔XX | 🟢 | vmess | 3YED | 2 = vmess, www.speedtest.net, 80, username = 3f638f34-8dba-4186-bc43-2716a7ddd4be, ws = true, tls = , vmess-aead = false, ws-path = /az05.beyondy.cfd:443/link, ws-headers = Host:"telegram----cassiusvpn----2.ranob36907.workers.dev", skip-cert-verify = true, tfo = false
+❔XX | 🟢 | vmess | 3YED | 4 = vmess, 23.227.38.6, 2086, username = 29eebb60-b27b-4a9d-bba5-947763d9205e, ws = true, tls = , vmess-aead = false, ws-path = github.com/Alvin9999, ws-headers = Host:"ip006.dtku47.xyz", skip-cert-verify = true, tfo = false
+❔XX | 🟢 | vmess | 3YED | 5 = vmess, 103.255.209.108, 54433, username = e24840f7-83c2-4730-98df-bf852ecbd2d3, ws = true, tls = 1, vmess-aead = false, ws-path = /axsxzA, ws-headers = Host:"unknown", skip-cert-verify = true, tfo = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇩🇪DE | 🔴 | trojan | 3YED | 7,🇮🇪IE | 🔴 | trojan | 3YED | 8,🇺🇸US | 🔴 | trojan | 3YED | 13,❔XX | 🟢 | trojan | 3YED | 7,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 2
-URL-TEST = url-test,🇩🇪DE | 🔴 | trojan | 3YED | 7,🇮🇪IE | 🔴 | trojan | 3YED | 8,🇺🇸US | 🔴 | trojan | 3YED | 13,❔XX | 🟢 | trojan | 3YED | 7,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 2
-FALLBACK = fallback,🇩🇪DE | 🔴 | trojan | 3YED | 7,🇮🇪IE | 🔴 | trojan | 3YED | 8,🇺🇸US | 🔴 | trojan | 3YED | 13,❔XX | 🟢 | trojan | 3YED | 7,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 2
+MANUAL = select,URL-TEST,FALLBACK,🇩🇪DE | 🔴 | trojan | 3YED | 6,🇩🇪DE | 🔴 | trojan | 3YED | 7,❔XX | 🔴 | trojan | 3YED | 13,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 5
+URL-TEST = url-test,🇩🇪DE | 🔴 | trojan | 3YED | 6,🇩🇪DE | 🔴 | trojan | 3YED | 7,❔XX | 🔴 | trojan | 3YED | 13,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 5
+FALLBACK = fallback,🇩🇪DE | 🔴 | trojan | 3YED | 6,🇩🇪DE | 🔴 | trojan | 3YED | 7,❔XX | 🔴 | trojan | 3YED | 13,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 5
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
