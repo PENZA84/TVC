@@ -111,8 +111,8 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vmess | 3YED | 9",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
-                "❔XX | 🟢 | vmess | 3YED | 4",
-                "❔XX | 🟢 | vmess | 3YED | 5"
+                "❔XX | 🟢 | vmess | 3YED | 6",
+                "❔XX | 🟢 | vmess | 3YED | 7"
             ]
         },
         {
@@ -124,8 +124,8 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vmess | 3YED | 9",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
-                "❔XX | 🟢 | vmess | 3YED | 4",
-                "❔XX | 🟢 | vmess | 3YED | 5"
+                "❔XX | 🟢 | vmess | 3YED | 6",
+                "❔XX | 🟢 | vmess | 3YED | 7"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -257,11 +257,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 4",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 6",
             "type": "vmess",
-            "server": "108.162.192.100",
-            "server_port": 8080,
-            "uuid": "9258153a-dc97-4e39-9037-009abfc4fed0",
+            "server": "104.21.8.157",
+            "server_port": 2082,
+            "uuid": "112ac36f-3f53-4e26-8371-d25c028e1b9a",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -274,18 +274,18 @@ https://github.com/3yed-61
             },
             "transport": {
                 "type": "ws",
-                "path": "\/9258153a-dc97-4e39-9037-009abfc4fed0-vm",
+                "path": "\/",
                 "headers": {
-                    "Host": "108.162.192.100"
+                    "Host": ""
                 }
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 5",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 7",
             "type": "vmess",
-            "server": "172.67.170.11",
-            "server_port": 443,
-            "uuid": "edbb1059-1633-4271-b66e-ed4fba47a1bf",
+            "server": "79.175.129.24",
+            "server_port": 54968,
+            "uuid": "16e05858-5065-4f76-81d6-e2f572af1975",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -295,23 +295,6 @@ https://github.com/3yed-61
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "linde06.indiavideo.sbs",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkws",
-                "headers": {
-                    "Host": "linde06.indiavideo.sbs"
-                }
             }
         }
     ],
