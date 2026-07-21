@@ -13,12 +13,11 @@ enhanced-mode-by-rule = true
 DIRECT = direct
 🇨🇭CH | 🟢 | trojan | 3YED | 1 = trojan, 8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir, 30000, password = -----------BanV2ray------------, udp-delay = true, skip-cert-verify = false, sni = chi.yahoo.com, ws = false
 🇩🇪DE | 🔴 | trojan | 3YED | 13 = trojan, 3.75.174.185, 443, password = NQ26071394, udp-delay = true, skip-cert-verify = false, sni = certain-prawn.rooster465.autos, ws = false
-🇸🇨SC | 🟢 | trojan | 3YED | 6 = trojan, 45.130.125.112, 443, password = humanity, udp-delay = true, skip-cert-verify = true, sni = www.calmlunch.com, ws = false
-❔XX | 🔴 | trojan | 3YED | 18 = trojan, mmmmmmmmmmmmmmmm-11111111111111111111111.poki-pakipon.ir, 12374, password = ----------------BanV2ray---------------, udp-delay = true, skip-cert-verify = true, sni = yahoo.com, ws = false
+❔XX | 🟢 | trojan | 3YED | 6 = trojan, 45.130.125.112, 443, password = humanity, udp-delay = true, skip-cert-verify = true, sni = www.calmlunch.com, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇩🇪DE | 🔴 | trojan | 3YED | 13,🇸🇨SC | 🟢 | trojan | 3YED | 6,❔XX | 🔴 | trojan | 3YED | 18
-URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇩🇪DE | 🔴 | trojan | 3YED | 13,🇸🇨SC | 🟢 | trojan | 3YED | 6,❔XX | 🔴 | trojan | 3YED | 18
-FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇩🇪DE | 🔴 | trojan | 3YED | 13,🇸🇨SC | 🟢 | trojan | 3YED | 6,❔XX | 🔴 | trojan | 3YED | 18
+MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇩🇪DE | 🔴 | trojan | 3YED | 13,❔XX | 🟢 | trojan | 3YED | 6
+URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇩🇪DE | 🔴 | trojan | 3YED | 13,❔XX | 🟢 | trojan | 3YED | 6
+FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇩🇪DE | 🔴 | trojan | 3YED | 13,❔XX | 🟢 | trojan | 3YED | 6
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
