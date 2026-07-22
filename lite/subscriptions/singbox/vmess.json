@@ -111,8 +111,8 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vmess | 3YED | 10",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
-                "❔XX | 🟢 | vmess | 3YED | 4",
-                "❔XX | 🟢 | vmess | 3YED | 5"
+                "❔XX | 🟢 | vmess | 3YED | 2",
+                "❔XX | 🟢 | vmess | 3YED | 3"
             ]
         },
         {
@@ -124,8 +124,8 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vmess | 3YED | 10",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
-                "❔XX | 🟢 | vmess | 3YED | 4",
-                "❔XX | 🟢 | vmess | 3YED | 5"
+                "❔XX | 🟢 | vmess | 3YED | 2",
+                "❔XX | 🟢 | vmess | 3YED | 3"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -257,11 +257,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 4",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 2",
             "type": "vmess",
-            "server": "172.64.166.28",
-            "server_port": 2086,
-            "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
+            "server": "cfcdn1.sanfencdn9.com",
+            "server_port": 2052,
+            "uuid": "dd6973d6-9af9-4edd-9140-c57eab178a0d",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -274,20 +274,20 @@ https://github.com/3yed-61
             },
             "transport": {
                 "type": "ws",
-                "path": "\/github.com\/Alvin9999",
+                "path": "\/video\/QXjZG5u4F2",
                 "headers": {
-                    "Host": "172.64.166.28"
+                    "Host": "cfcdn1.sanfencdn9.com"
                 }
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 5",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 3",
             "type": "vmess",
-            "server": "104.21.95.165",
-            "server_port": 443,
-            "uuid": "03fcc618-b93d-6796-6aed-8a38c975d581",
+            "server": "107.148.192.149",
+            "server_port": 41911,
+            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
             "security": "auto",
-            "alter_id": 0,
+            "alter_id": 64,
             "global_padding": false,
             "authenticated_length": true,
             "packet_encoding": "",
@@ -295,23 +295,6 @@ https://github.com/3yed-61
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "sareikela.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkvws",
-                "headers": {
-                    "Host": "sareikela.com"
-                }
             }
         }
     ],
