@@ -127,10 +127,11 @@ proxies:
   - {"name":"❔XX | 🔴 | trojan | 3YED | 5","type":"trojan","server":"www.calmlunch.com","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 6","type":"trojan","server":"34.242.69.173","port":443,"udp":false,"password":"NQ26071394","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"fun-labrador.rooster465.autos"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 7","type":"trojan","server":"aware-pika.rooster465.autos","port":443,"udp":false,"password":"IQ68037294","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 8","type":"trojan","server":"rem.dtr.kotokopolb.ru","port":443,"udp":false,"password":"p2QFnWdKPZt0evve7n-C52fTqRndJa5W","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 9","type":"trojan","server":"167.68.4.199","port":2053,"udp":false,"password":"Aimer","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"epge.muarua.filegear-sg.me"}
   - {"name":"🚩CF | 🔴 | trojan | 3YED | 8","type":"trojan","server":"104.18.152.246","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
-  - {"name":"❔XX | 🟢 | trojan | 3YED | 12","type":"trojan","server":"oooooooooooooooo-00000000000000000.poki-pakipon.ir","port":4713,"udp":false,"password":"---------------%42%61%6e%56%32%72%61%79-------------","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"yahoo.com"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 4","type":"trojan","server":"151.101.56.7","port":443,"udp":false,"password":"MITIVPN","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"ssl.fastly.com"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 7","type":"trojan","server":"151.101.1.194","port":443,"udp":false,"password":"MiTiVPN","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"ssl.fastly.com"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 10","type":"trojan","server":"199.232.78.140","port":443,"udp":false,"password":"MiTiVPN","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"global.ssl.fastly.com"}
+  - {"name":"🚩CF | 🔴 | trojan | 3YED | 17","type":"trojan","server":"104.16.72.50","port":443,"udp":false,"password":"MITIVPN","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"win-mitivpn-----mitivpn.Maqror.ir"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -146,10 +147,11 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 5'
       - '❔XX | 🔴 | trojan | 3YED | 6'
       - '❔XX | 🔴 | trojan | 3YED | 7'
-      - '❔XX | 🔴 | trojan | 3YED | 8'
-      - '❔XX | 🔴 | trojan | 3YED | 9'
       - '🚩CF | 🔴 | trojan | 3YED | 8'
-      - '❔XX | 🟢 | trojan | 3YED | 12'
+      - '❔XX | 🔴 | trojan | 3YED | 4'
+      - '❔XX | 🔴 | trojan | 3YED | 7'
+      - '❔XX | 🔴 | trojan | 3YED | 10'
+      - '🚩CF | 🔴 | trojan | 3YED | 17'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -165,10 +167,11 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 5'
       - '❔XX | 🔴 | trojan | 3YED | 6'
       - '❔XX | 🔴 | trojan | 3YED | 7'
-      - '❔XX | 🔴 | trojan | 3YED | 8'
-      - '❔XX | 🔴 | trojan | 3YED | 9'
       - '🚩CF | 🔴 | trojan | 3YED | 8'
-      - '❔XX | 🟢 | trojan | 3YED | 12'
+      - '❔XX | 🔴 | trojan | 3YED | 4'
+      - '❔XX | 🔴 | trojan | 3YED | 7'
+      - '❔XX | 🔴 | trojan | 3YED | 10'
+      - '🚩CF | 🔴 | trojan | 3YED | 17'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -183,10 +186,11 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 5'
       - '❔XX | 🔴 | trojan | 3YED | 6'
       - '❔XX | 🔴 | trojan | 3YED | 7'
-      - '❔XX | 🔴 | trojan | 3YED | 8'
-      - '❔XX | 🔴 | trojan | 3YED | 9'
       - '🚩CF | 🔴 | trojan | 3YED | 8'
-      - '❔XX | 🟢 | trojan | 3YED | 12'
+      - '❔XX | 🔴 | trojan | 3YED | 4'
+      - '❔XX | 🔴 | trojan | 3YED | 7'
+      - '❔XX | 🔴 | trojan | 3YED | 10'
+      - '🚩CF | 🔴 | trojan | 3YED | 17'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve
