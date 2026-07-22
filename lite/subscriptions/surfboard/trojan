@@ -14,10 +14,11 @@ DIRECT = direct
 🇨🇭CH | 🟢 | trojan | 3YED | 1 = trojan, 8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir, 30000, password = -----------BanV2ray------------, udp-delay = true, skip-cert-verify = false, sni = chi.yahoo.com, ws = false
 🇳🇱NL | 🔴 | trojan | 3YED | 5 = trojan, 185.247.117.209, 56431, password = 8240cd21ddf3112d50c4b6e52a70f0ce, udp-delay = true, skip-cert-verify = false, sni = 185.247.117.209.sslip.io, ws = false
 🇮🇪IE | 🔴 | trojan | 3YED | 6 = trojan, moving-wren.rooster465.autos, 443, password = IQ68037294, udp-delay = true, skip-cert-verify = false, ws = false
+❔XX | 🟢 | trojan | 3YED | 6 = trojan, 162.159.152.96, 443, password = tg-dns68, udp-delay = true, skip-cert-verify = false, sni = vip.putata.eu.org, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇳🇱NL | 🔴 | trojan | 3YED | 5,🇮🇪IE | 🔴 | trojan | 3YED | 6
-URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇳🇱NL | 🔴 | trojan | 3YED | 5,🇮🇪IE | 🔴 | trojan | 3YED | 6
-FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇳🇱NL | 🔴 | trojan | 3YED | 5,🇮🇪IE | 🔴 | trojan | 3YED | 6
+MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇳🇱NL | 🔴 | trojan | 3YED | 5,🇮🇪IE | 🔴 | trojan | 3YED | 6,❔XX | 🟢 | trojan | 3YED | 6
+URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇳🇱NL | 🔴 | trojan | 3YED | 5,🇮🇪IE | 🔴 | trojan | 3YED | 6,❔XX | 🟢 | trojan | 3YED | 6
+FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇳🇱NL | 🔴 | trojan | 3YED | 5,🇮🇪IE | 🔴 | trojan | 3YED | 6,❔XX | 🟢 | trojan | 3YED | 6
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
