@@ -110,8 +110,8 @@ https://github.com/3yed-61
                 "🇨🇳CN | 🟢 | vmess | 3YED | 17",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
-                "❔XX | 🟢 | vmess | 3YED | 8",
-                "❔XX | 🟢 | vmess | 3YED | 9",
+                "❔XX | 🟢 | vmess | 3YED | 11",
+                "❔XX | 🟢 | vmess | 3YED | 12",
                 "❔XX | 🟢 | vmess | 3YED | 1"
             ]
         },
@@ -123,8 +123,8 @@ https://github.com/3yed-61
                 "🇨🇳CN | 🟢 | vmess | 3YED | 17",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
-                "❔XX | 🟢 | vmess | 3YED | 8",
-                "❔XX | 🟢 | vmess | 3YED | 9",
+                "❔XX | 🟢 | vmess | 3YED | 11",
+                "❔XX | 🟢 | vmess | 3YED | 12",
                 "❔XX | 🟢 | vmess | 3YED | 1"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -240,9 +240,9 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 8",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 11",
             "type": "vmess",
-            "server": "172.64.167.5",
+            "server": "172.64.198.249",
             "server_port": 2086,
             "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
             "security": "auto",
@@ -259,14 +259,14 @@ https://github.com/3yed-61
                 "type": "ws",
                 "path": "\/github.com\/Alvin9999",
                 "headers": {
-                    "Host": "172.64.167.5"
+                    "Host": "172.64.198.249"
                 }
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 9",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 12",
             "type": "vmess",
-            "server": "172.64.166.28",
+            "server": "172.64.166.22",
             "server_port": 2086,
             "uuid": "e9e3cc13-db48-4cc1-8c24-7626439a5339",
             "security": "auto",
@@ -283,7 +283,7 @@ https://github.com/3yed-61
                 "type": "ws",
                 "path": "\/github.com\/Alvin9999",
                 "headers": {
-                    "Host": "172.64.166.28"
+                    "Host": "172.64.166.22"
                 }
             }
         },
