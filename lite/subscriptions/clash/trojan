@@ -121,6 +121,7 @@ proxies:
   - {"name":"🇨🇭CH | 🟢 | trojan | 3YED | 1","type":"trojan","server":"8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir","port":30000,"udp":false,"password":"-----------BanV2ray------------","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"chi.yahoo.com"}
   - {"name":"🇩🇪DE | 🔴 | trojan | 3YED | 6","type":"trojan","server":"3.64.62.54","port":443,"udp":false,"password":"PD07395842","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"optimum-bull.rooster465.autos"}
   - {"name":"🇩🇪DE | 🔴 | trojan | 3YED | 7","type":"trojan","server":"18.196.207.79","port":443,"udp":false,"password":"ON38567014","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"summary-finch.rooster465.autos"}
+  - {"name":"❔XX | 🟢 | trojan | 3YED | 10","type":"trojan","server":"162.159.153.99","port":443,"udp":false,"password":"auto","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -130,6 +131,7 @@ proxy-groups:
       - '🇨🇭CH | 🟢 | trojan | 3YED | 1'
       - '🇩🇪DE | 🔴 | trojan | 3YED | 6'
       - '🇩🇪DE | 🔴 | trojan | 3YED | 7'
+      - '❔XX | 🟢 | trojan | 3YED | 10'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -139,6 +141,7 @@ proxy-groups:
       - '🇨🇭CH | 🟢 | trojan | 3YED | 1'
       - '🇩🇪DE | 🔴 | trojan | 3YED | 6'
       - '🇩🇪DE | 🔴 | trojan | 3YED | 7'
+      - '❔XX | 🟢 | trojan | 3YED | 10'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -147,6 +150,7 @@ proxy-groups:
       - '🇨🇭CH | 🟢 | trojan | 3YED | 1'
       - '🇩🇪DE | 🔴 | trojan | 3YED | 6'
       - '🇩🇪DE | 🔴 | trojan | 3YED | 7'
+      - '❔XX | 🟢 | trojan | 3YED | 10'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve
