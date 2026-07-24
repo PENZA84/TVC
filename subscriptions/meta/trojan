@@ -125,11 +125,7 @@ proxies:
   - {"name":"❔XX | 🔴 | trojan | 3YED | 1","type":"trojan","server":"167.68.4.199","port":2053,"udp":false,"password":"Aimer","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"epge.muarua.filegear-sg.me"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 2","type":"trojan","server":"13.37.222.178","port":443,"udp":false,"password":"IQ68037294","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"correct-pony.rooster465.autos"}
   - {"name":"🚩CF | 🔴 | trojan | 3YED | 9","type":"trojan","server":"104.18.152.246","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 1","type":"trojan","server":"uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir","port":47375,"udp":false,"password":"-----------BanV2ray-----------","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"chi.yahoo.com"}
-  - {"name":"❔XX | 🟢 | trojan | 3YED | 3","type":"trojan","server":"37.156.45.60","port":51816,"udp":false,"password":"1------------------%42%61%6e%56%32%72%61%79------------------1","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"world.yahoo.com:443"}
-  - {"name":"❔XX | 🟢 | trojan | 3YED | 4","type":"trojan","server":"37.156.45.60","port":37161,"udp":false,"password":"1------------------%42%61%6e%56%32%72%61%79------------------1","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"world.yahoo.com:443"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 5","type":"trojan","server":"37.156.45.60","port":51816,"udp":false,"password":"1------------------BanV2ray------------------1","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"world.yahoo.com:443"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 13","type":"trojan","server":"37.156.45.60","port":37161,"udp":false,"password":"1------------------BanV2ray------------------1","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"world.yahoo.com:443"}
+  - {"name":"❔XX | 🔴 | trojan | 3YED | 8","type":"trojan","server":"8.6.112.6","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -141,11 +137,7 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 1'
       - '❔XX | 🔴 | trojan | 3YED | 2'
       - '🚩CF | 🔴 | trojan | 3YED | 9'
-      - '❔XX | 🔴 | trojan | 3YED | 1'
-      - '❔XX | 🟢 | trojan | 3YED | 3'
-      - '❔XX | 🟢 | trojan | 3YED | 4'
-      - '❔XX | 🔴 | trojan | 3YED | 5'
-      - '❔XX | 🔴 | trojan | 3YED | 13'
+      - '❔XX | 🔴 | trojan | 3YED | 8'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -157,11 +149,7 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 1'
       - '❔XX | 🔴 | trojan | 3YED | 2'
       - '🚩CF | 🔴 | trojan | 3YED | 9'
-      - '❔XX | 🔴 | trojan | 3YED | 1'
-      - '❔XX | 🟢 | trojan | 3YED | 3'
-      - '❔XX | 🟢 | trojan | 3YED | 4'
-      - '❔XX | 🔴 | trojan | 3YED | 5'
-      - '❔XX | 🔴 | trojan | 3YED | 13'
+      - '❔XX | 🔴 | trojan | 3YED | 8'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -172,11 +160,7 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 1'
       - '❔XX | 🔴 | trojan | 3YED | 2'
       - '🚩CF | 🔴 | trojan | 3YED | 9'
-      - '❔XX | 🔴 | trojan | 3YED | 1'
-      - '❔XX | 🟢 | trojan | 3YED | 3'
-      - '❔XX | 🟢 | trojan | 3YED | 4'
-      - '❔XX | 🔴 | trojan | 3YED | 5'
-      - '❔XX | 🔴 | trojan | 3YED | 13'
+      - '❔XX | 🔴 | trojan | 3YED | 8'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
   ads: {type: http, format: text, behavior: domain, path: ./ruleset/ads.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ads.txt, interval: 86400}
