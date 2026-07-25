@@ -4,5 +4,5 @@
 #support-url: https://github.com/3yed82
 
 
-warp://162.159.195.252:5279?ifp=5-10#WiW-🟢&&detour=warp://162.159.193.206:5279?ifp=5-10#WARP-🟢
-warp://162.159.193.206:5279?ifp=5-10#WiW-🔵&&detour=warp://162.159.195.252:5279?ifp=5-10#WARP-🔵
+warp://188.114.97.33:7156?ifp=5-10#WiW-🟢&&detour=warp://188.114.97.54:7156?ifp=5-10#WARP-🟢
+warp://188.114.97.54:7156?ifp=5-10#WiW-🔵&&detour=warp://188.114.97.33:7156?ifp=5-10#WARP-🔵
