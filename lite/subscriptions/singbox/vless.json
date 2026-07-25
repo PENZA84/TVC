@@ -135,16 +135,17 @@ https://github.com/3yed-61
                 "🇫🇷FR | 🔴 | vless | 3YED | 13",
                 "🇩🇪DE | 🔴 | vless | 3YED | 0",
                 "🇺🇸US | 🔴 | vless | 3YED | 43",
-                "🇨🇦CA | 🔴 | vless | 3YED | 44",
+                "🇺🇸US | 🔴 | vless | 3YED | 44",
                 "🇺🇸US | 🔴 | vless | 3YED | 8",
                 "🇷🇺RU | 🟢 | vless | 3YED | 9",
-                "❔XX | 🔴 | vless | 3YED | 18",
+                "🇺🇸US | 🔴 | vless | 3YED | 18",
                 "🇺🇸US | 🔴 | vless | 3YED | 19",
                 "❔XX | 🟢 | vless | 3YED | 13",
                 "🇳🇱NL | 🔴 | vless | 3YED | 10",
                 "🇷🇺RU | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 3",
-                "❔XX | 🔴 | vless | 3YED | 19",
+                "❔XX | 🔴 | vless | 3YED | 14",
+                "❔XX | 🟢 | vless | 3YED | 15",
                 "❔XX | 🔴 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 1",
@@ -202,16 +203,17 @@ https://github.com/3yed-61
                 "🇫🇷FR | 🔴 | vless | 3YED | 13",
                 "🇩🇪DE | 🔴 | vless | 3YED | 0",
                 "🇺🇸US | 🔴 | vless | 3YED | 43",
-                "🇨🇦CA | 🔴 | vless | 3YED | 44",
+                "🇺🇸US | 🔴 | vless | 3YED | 44",
                 "🇺🇸US | 🔴 | vless | 3YED | 8",
                 "🇷🇺RU | 🟢 | vless | 3YED | 9",
-                "❔XX | 🔴 | vless | 3YED | 18",
+                "🇺🇸US | 🔴 | vless | 3YED | 18",
                 "🇺🇸US | 🔴 | vless | 3YED | 19",
                 "❔XX | 🟢 | vless | 3YED | 13",
                 "🇳🇱NL | 🔴 | vless | 3YED | 10",
                 "🇷🇺RU | 🔴 | vless | 3YED | 0",
                 "❔XX | 🟢 | vless | 3YED | 3",
-                "❔XX | 🔴 | vless | 3YED | 19",
+                "❔XX | 🔴 | vless | 3YED | 14",
+                "❔XX | 🟢 | vless | 3YED | 15",
                 "❔XX | 🔴 | vless | 3YED | 1",
                 "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 1",
@@ -955,7 +957,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | 3YED | 44",
+            "tag": "🇺🇸US | 🔴 | vless | 3YED | 44",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -1046,7 +1048,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 18",
+            "tag": "🇺🇸US | 🔴 | vless | 3YED | 18",
             "type": "vless",
             "server": "172.67.141.140",
             "server_port": 8880,
@@ -1186,17 +1188,63 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 19",
+            "tag": "❔XX | 🔴 | vless | 3YED | 14",
             "type": "vless",
-            "server": "62.60.177.136",
-            "server_port": 2053,
-            "uuid": "787c61f3-6208-48a8-cbb5-05901eefd88d",
+            "server": "91panel-axiora-vpn.korvexe.ir",
+            "server_port": 14368,
+            "uuid": "28926c34-865c-447e-8d42-a17240af743b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "91panel-axiora-vpn.korvexe.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "91panel-axiora-vpn.korvexe.ir"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | 3YED | 15",
+            "type": "vless",
+            "server": "47.89.186.170",
+            "server_port": 55861,
+            "uuid": "d51ed55c-d6dd-400b-aaf6-017c33969bfe",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.intel.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "t2ndf6SeVxinFCo5bcemnW_ZZhAtmHWiAkllks5qPWs",
+                    "short_id": "7551ed1b"
+                }
             }
         },
         {
