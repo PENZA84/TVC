@@ -15,12 +15,11 @@ DIRECT = direct
 🇺🇸US | 🔴 | trojan | 3YED | 2 = trojan, 141.193.213.21, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmloud.com, ws = false
 🇨🇦CA | 🔴 | trojan | 3YED | 3 = trojan, 151.101.1.194, 443, password = MiTiVPN, udp-delay = true, skip-cert-verify = true, sni = ssl.fastly.com, ws = false
 ❔XX | 🟢 | vmess | 3YED | 4 = vmess, ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub, 80, username = 46cfcfe1-e450-459d-a3ab-9406011ab3eb, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"tms.dingtalk.com", skip-cert-verify = true, tfo = false
-🇵🇱PL | 🟢 | vmess | 3YED | 3 = vmess, 172.64.198.249, 2086, username = e9e3cc13-db48-4cc1-8c24-7626439a5339, ws = true, tls = , vmess-aead = false, ws-path = github.com/Alvin9999, ws-headers = Host:"ip1.1457230.xyz", skip-cert-verify = true, tfo = false
-❔XX | 🟢 | vmess | 3YED | 4 = vmess, 104.26.0.56, 2086, username = e9e3cc13-db48-4cc1-8c24-7626439a5339, ws = true, tls = , vmess-aead = false, ws-path = github.com/Alvin9999, ws-headers = Host:"ip14.freegradely.xyz", skip-cert-verify = true, tfo = false
+❔XX | 🟢 | vmess | 3YED | 7 = vmess, 104.17.148.22, 8880, username = 4b5e4565-322f-4223-a891-78a84f189726, ws = true, tls = , vmess-aead = true, ws-path = /XSjeg73o6ZdsheahCb5JG, ws-headers = Host:"us-ccs.yuji2022.eu.org", skip-cert-verify = true, tfo = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇺🇸US | 🔴 | trojan | 3YED | 2,🇨🇦CA | 🔴 | trojan | 3YED | 3,❔XX | 🟢 | vmess | 3YED | 4,🇵🇱PL | 🟢 | vmess | 3YED | 3,❔XX | 🟢 | vmess | 3YED | 4
-URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇺🇸US | 🔴 | trojan | 3YED | 2,🇨🇦CA | 🔴 | trojan | 3YED | 3,❔XX | 🟢 | vmess | 3YED | 4,🇵🇱PL | 🟢 | vmess | 3YED | 3,❔XX | 🟢 | vmess | 3YED | 4
-FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇺🇸US | 🔴 | trojan | 3YED | 2,🇨🇦CA | 🔴 | trojan | 3YED | 3,❔XX | 🟢 | vmess | 3YED | 4,🇵🇱PL | 🟢 | vmess | 3YED | 3,❔XX | 🟢 | vmess | 3YED | 4
+MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇺🇸US | 🔴 | trojan | 3YED | 2,🇨🇦CA | 🔴 | trojan | 3YED | 3,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 7
+URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇺🇸US | 🔴 | trojan | 3YED | 2,🇨🇦CA | 🔴 | trojan | 3YED | 3,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 7
+FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇺🇸US | 🔴 | trojan | 3YED | 2,🇨🇦CA | 🔴 | trojan | 3YED | 3,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 7
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
