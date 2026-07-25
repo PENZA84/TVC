@@ -17,11 +17,11 @@ DIRECT = direct
 ❔XX | 🔴 | trojan | 3YED | 2 = trojan, 141.193.213.21, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmloud.com, ws = false
 ❔XX | 🔴 | trojan | 3YED | 3 = trojan, 151.101.1.194, 443, password = MiTiVPN, udp-delay = true, skip-cert-verify = true, sni = ssl.fastly.com, ws = false
 🚩CF | 🔴 | trojan | 3YED | 9 = trojan, 104.18.152.246, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmloud.com, ws = false
-❔XX | 🟢 | trojan | 3YED | 1 = trojan, 127.0.0.1, 8080, password = ababcac-acba-aabc-cadb-acacbaacbbbc, udp-delay = true, skip-cert-verify = false, ws = false
+❔XX | 🔴 | trojan | 3YED | 8 = trojan, uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir, 47154, password = -----------BanV2ray-----------, udp-delay = true, skip-cert-verify = false, sni = chi.yahoo.com, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 2,❔XX | 🔴 | trojan | 3YED | 3,🚩CF | 🔴 | trojan | 3YED | 9,❔XX | 🟢 | trojan | 3YED | 1
-URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 2,❔XX | 🔴 | trojan | 3YED | 3,🚩CF | 🔴 | trojan | 3YED | 9,❔XX | 🟢 | trojan | 3YED | 1
-FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 2,❔XX | 🔴 | trojan | 3YED | 3,🚩CF | 🔴 | trojan | 3YED | 9,❔XX | 🟢 | trojan | 3YED | 1
+MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 2,❔XX | 🔴 | trojan | 3YED | 3,🚩CF | 🔴 | trojan | 3YED | 9,❔XX | 🔴 | trojan | 3YED | 8
+URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 2,❔XX | 🔴 | trojan | 3YED | 3,🚩CF | 🔴 | trojan | 3YED | 9,❔XX | 🔴 | trojan | 3YED | 8
+FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 2,❔XX | 🔴 | trojan | 3YED | 3,🚩CF | 🔴 | trojan | 3YED | 9,❔XX | 🔴 | trojan | 3YED | 8
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
