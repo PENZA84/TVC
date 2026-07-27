@@ -111,8 +111,8 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "🇳🇱NL | 🔴 | vless | 3YED | 3",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇳🇱NL | 🟢 | vless | 3YED | 38",
-                "🇭🇺HU | 🟢 | vless | 3YED | 118",
+                "🇩🇪DE | 🔴 | vless | 3YED | 1",
+                "🇭🇺HU | 🟢 | vless | 3YED | 124",
                 "🇩🇪DE | 🟢 | vless | 3YED | 14",
                 "🇷🇺RU | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -132,8 +132,8 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "🇳🇱NL | 🔴 | vless | 3YED | 3",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇳🇱NL | 🟢 | vless | 3YED | 38",
-                "🇭🇺HU | 🟢 | vless | 3YED | 118",
+                "🇩🇪DE | 🔴 | vless | 3YED | 1",
+                "🇭🇺HU | 🟢 | vless | 3YED | 124",
                 "🇩🇪DE | 🟢 | vless | 3YED | 14",
                 "🇷🇺RU | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
@@ -316,11 +316,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇳🇱NL | 🟢 | vless | 3YED | 38",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 1",
             "type": "vless",
-            "server": "46.8.229.199",
+            "server": "gbb.rarmexa.ir",
             "server_port": 443,
-            "uuid": "59d08a71-f206-4ca3-9a42-8c56d3bfdc3c",
+            "uuid": "3d5851ed-daaf-6b83-e634-0801bd06509e",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -330,22 +330,22 @@ https://github.com/3yed-61
             },
             "tls": {
                 "enabled": true,
-                "server_name": "intel.com",
+                "server_name": "play.google.com",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "4o2G9iT8IN7YWwiDLgjMrpPmvwU5IQT6C6nE5Rh-wSQ",
-                    "short_id": "da"
+                    "public_key": "xXaCtONWKzYdCWya3nzOe3_UYfHplbmdThukm0__smI",
+                    "short_id": "f49da53c"
                 }
             }
         },
         {
-            "tag": "🇭🇺HU | 🟢 | vless | 3YED | 118",
+            "tag": "🇭🇺HU | 🟢 | vless | 3YED | 124",
             "type": "vless",
             "server": "45.198.87.99",
             "server_port": 8443,
