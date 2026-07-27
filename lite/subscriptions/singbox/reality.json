@@ -115,6 +115,8 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vless | 3YED | 121",
                 "🇩🇪DE | 🟢 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 0",
+                "🇹🇷TR | 🟢 | vless | 3YED | 2",
+                "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🔴 | vless | 3YED | 14",
@@ -138,6 +140,8 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vless | 3YED | 121",
                 "🇩🇪DE | 🟢 | vless | 3YED | 10",
                 "❔XX | 🔴 | vless | 3YED | 0",
+                "🇹🇷TR | 🟢 | vless | 3YED | 2",
+                "❔XX | 🟢 | vless | 3YED | 3",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🔴 | vless | 3YED | 14",
@@ -432,6 +436,64 @@ https://github.com/3yed-61
                     "enabled": true,
                     "public_key": "drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇹🇷TR | 🟢 | vless | 3YED | 2",
+            "type": "vless",
+            "server": "tr.helpower.ir",
+            "server_port": 443,
+            "uuid": "7e3e5703-fdd7-44c2-985c-c2b11ac2fd6d",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "play.google.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "edge"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "OCR2Jsxytv_7DXaBAs3JgoL2-na-fBlEXEs4AvWM_Ao",
+                    "short_id": "719eea5118aa0d04"
+                }
+            }
+        },
+        {
+            "tag": "❔XX | 🟢 | vless | 3YED | 3",
+            "type": "vless",
+            "server": "tr.helpower.ir",
+            "server_port": 443,
+            "uuid": "fa5b9e41-4a67-43aa-b4d5-4de0c9f8118c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "play.google.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "edge"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "OCR2Jsxytv_7DXaBAs3JgoL2-na-fBlEXEs4AvWM_Ao",
+                    "short_id": "719eea5118aa0d04"
                 }
             }
         },

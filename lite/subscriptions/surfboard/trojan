@@ -15,12 +15,10 @@ DIRECT = direct
 🇭🇰HK | 🔴 | trojan | 3YED | 5 = trojan, wealthy-loon.rooster465.autos, 443, password = NQ26071394, udp-delay = true, skip-cert-verify = false, ws = false
 🇰🇷KR | 🔴 | trojan | 3YED | 6 = trojan, mutual-puma.rooster465.autos, 443, password = JT80563429, udp-delay = true, skip-cert-verify = true, ws = false
 🇺🇸US | 🟢 | trojan | 3YED | 2 = trojan, 162.159.38.119, 443, password = humanity, udp-delay = true, skip-cert-verify = true, sni = www.creationlong.org, ws = false
-❔XX | 🔴 | trojan | 3YED | 6 = trojan, 104.21.40.34, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.multiplydose.com, ws = false
-🇨🇭CH | 🟢 | trojan | 3YED | 7 = trojan, 37.156.45.60, 37161, password = 1------------------BanV2ray------------------1, udp-delay = true, skip-cert-verify = false, sni = world.yahoo.com:443, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇭🇰HK | 🔴 | trojan | 3YED | 5,🇰🇷KR | 🔴 | trojan | 3YED | 6,🇺🇸US | 🟢 | trojan | 3YED | 2,❔XX | 🔴 | trojan | 3YED | 6,🇨🇭CH | 🟢 | trojan | 3YED | 7
-URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇭🇰HK | 🔴 | trojan | 3YED | 5,🇰🇷KR | 🔴 | trojan | 3YED | 6,🇺🇸US | 🟢 | trojan | 3YED | 2,❔XX | 🔴 | trojan | 3YED | 6,🇨🇭CH | 🟢 | trojan | 3YED | 7
-FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇭🇰HK | 🔴 | trojan | 3YED | 5,🇰🇷KR | 🔴 | trojan | 3YED | 6,🇺🇸US | 🟢 | trojan | 3YED | 2,❔XX | 🔴 | trojan | 3YED | 6,🇨🇭CH | 🟢 | trojan | 3YED | 7
+MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇭🇰HK | 🔴 | trojan | 3YED | 5,🇰🇷KR | 🔴 | trojan | 3YED | 6,🇺🇸US | 🟢 | trojan | 3YED | 2
+URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇭🇰HK | 🔴 | trojan | 3YED | 5,🇰🇷KR | 🔴 | trojan | 3YED | 6,🇺🇸US | 🟢 | trojan | 3YED | 2
+FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇭🇰HK | 🔴 | trojan | 3YED | 5,🇰🇷KR | 🔴 | trojan | 3YED | 6,🇺🇸US | 🟢 | trojan | 3YED | 2
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
