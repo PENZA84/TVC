@@ -121,7 +121,8 @@ proxies:
   - {"name":"🇨🇭CH | 🟢 | trojan | 3YED | 1","type":"trojan","server":"8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir","port":30000,"udp":false,"password":"-----------BanV2ray------------","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"chi.yahoo.com"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 6","type":"trojan","server":"RTp&","port":"","udp":false,"password":"","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 7","type":"trojan","server":"64.94.95.115","port":57142,"udp":false,"password":"kkzh2prsyr2ik47as615","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"static.rutube.ru"}
-  - {"name":"🇺🇸US | 🟢 | trojan | 3YED | 2","type":"trojan","server":"162.159.38.119","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.creationlong.org"}
+  - {"name":"❔XX | 🟢 | trojan | 3YED | 9","type":"trojan","server":"167.150.100.133","port":450,"udp":false,"password":"0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"grape-power-sg.roxa.org"}
+  - {"name":"❔XX | 🟢 | trojan | 3YED | 2","type":"trojan","server":"162.159.38.119","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.creationlong.org"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 13","type":"trojan","server":"45.130.125.0","port":443,"udp":false,"password":"MiTiVPN","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"swsjh--MiTiVPN---MiTiVPN-ao.aPp-cLoud.IR"}
 proxy-groups:
   - name: MANUAL
@@ -132,7 +133,8 @@ proxy-groups:
       - '🇨🇭CH | 🟢 | trojan | 3YED | 1'
       - '❔XX | 🔴 | trojan | 3YED | 6'
       - '🇺🇸US | 🔴 | trojan | 3YED | 7'
-      - '🇺🇸US | 🟢 | trojan | 3YED | 2'
+      - '❔XX | 🟢 | trojan | 3YED | 9'
+      - '❔XX | 🟢 | trojan | 3YED | 2'
       - '❔XX | 🔴 | trojan | 3YED | 13'
   - name: URL-TEST
     type: url-test
@@ -143,7 +145,8 @@ proxy-groups:
       - '🇨🇭CH | 🟢 | trojan | 3YED | 1'
       - '❔XX | 🔴 | trojan | 3YED | 6'
       - '🇺🇸US | 🔴 | trojan | 3YED | 7'
-      - '🇺🇸US | 🟢 | trojan | 3YED | 2'
+      - '❔XX | 🟢 | trojan | 3YED | 9'
+      - '❔XX | 🟢 | trojan | 3YED | 2'
       - '❔XX | 🔴 | trojan | 3YED | 13'
   - name: FALLBACK
     type: fallback
@@ -153,7 +156,8 @@ proxy-groups:
       - '🇨🇭CH | 🟢 | trojan | 3YED | 1'
       - '❔XX | 🔴 | trojan | 3YED | 6'
       - '🇺🇸US | 🔴 | trojan | 3YED | 7'
-      - '🇺🇸US | 🟢 | trojan | 3YED | 2'
+      - '❔XX | 🟢 | trojan | 3YED | 9'
+      - '❔XX | 🟢 | trojan | 3YED | 2'
       - '❔XX | 🔴 | trojan | 3YED | 13'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve

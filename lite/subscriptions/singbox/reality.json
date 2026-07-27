@@ -111,10 +111,10 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "🇳🇱NL | 🔴 | vless | 3YED | 3",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇩🇪DE | 🔴 | vless | 3YED | 1",
-                "🇭🇺HU | 🟢 | vless | 3YED | 124",
+                "🇩🇪DE | 🔴 | vless | 3YED | 2",
+                "🇭🇺HU | 🟢 | vless | 3YED | 122",
                 "🇩🇪DE | 🟢 | vless | 3YED | 14",
-                "🇷🇺RU | 🔴 | vless | 3YED | 0",
+                "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🟢 | vless | 3YED | 4",
@@ -132,10 +132,10 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "🇳🇱NL | 🔴 | vless | 3YED | 3",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇩🇪DE | 🔴 | vless | 3YED | 1",
-                "🇭🇺HU | 🟢 | vless | 3YED | 124",
+                "🇩🇪DE | 🔴 | vless | 3YED | 2",
+                "🇭🇺HU | 🟢 | vless | 3YED | 122",
                 "🇩🇪DE | 🟢 | vless | 3YED | 14",
-                "🇷🇺RU | 🔴 | vless | 3YED | 0",
+                "❔XX | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🟢 | vless | 3YED | 4",
@@ -316,7 +316,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 1",
+            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 2",
             "type": "vless",
             "server": "gbb.rarmexa.ir",
             "server_port": 443,
@@ -345,7 +345,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇭🇺HU | 🟢 | vless | 3YED | 124",
+            "tag": "🇭🇺HU | 🟢 | vless | 3YED | 122",
             "type": "vless",
             "server": "45.198.87.99",
             "server_port": 8443,
@@ -403,7 +403,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇷🇺RU | 🔴 | vless | 3YED | 0",
+            "tag": "❔XX | 🔴 | vless | 3YED | 0",
             "type": "vless",
             "server": "qq.utiltools.ru",
             "server_port": 443,
