@@ -123,7 +123,7 @@ proxies:
   - {"name":"🇨🇳CN | 🟢 | vmess | 3YED | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇭🇰HK | 🔴 | trojan | 3YED | 5","type":"trojan","server":"wealthy-loon.rooster465.autos","port":443,"udp":false,"password":"NQ26071394","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome"}
   - {"name":"🇰🇷KR | 🔴 | trojan | 3YED | 6","type":"trojan","server":"mutual-puma.rooster465.autos","port":443,"udp":false,"password":"JT80563429","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome"}
-  - {"name":"🇺🇸US | 🟢 | trojan | 3YED | 2","type":"trojan","server":"162.159.38.119","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.creationlong.org"}
+  - {"name":"❔XX | 🟢 | trojan | 3YED | 2","type":"trojan","server":"162.159.38.119","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.creationlong.org"}
   - {"name":"❔XX | 🟢 | vmess | 3YED | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
 proxy-groups:
   - name: MANUAL
@@ -136,7 +136,7 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
       - '🇭🇰HK | 🔴 | trojan | 3YED | 5'
       - '🇰🇷KR | 🔴 | trojan | 3YED | 6'
-      - '🇺🇸US | 🟢 | trojan | 3YED | 2'
+      - '❔XX | 🟢 | trojan | 3YED | 2'
       - '❔XX | 🟢 | vmess | 3YED | 4'
   - name: URL-TEST
     type: url-test
@@ -149,7 +149,7 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
       - '🇭🇰HK | 🔴 | trojan | 3YED | 5'
       - '🇰🇷KR | 🔴 | trojan | 3YED | 6'
-      - '🇺🇸US | 🟢 | trojan | 3YED | 2'
+      - '❔XX | 🟢 | trojan | 3YED | 2'
       - '❔XX | 🟢 | vmess | 3YED | 4'
   - name: FALLBACK
     type: fallback
@@ -161,7 +161,7 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
       - '🇭🇰HK | 🔴 | trojan | 3YED | 5'
       - '🇰🇷KR | 🔴 | trojan | 3YED | 6'
-      - '🇺🇸US | 🟢 | trojan | 3YED | 2'
+      - '❔XX | 🟢 | trojan | 3YED | 2'
       - '❔XX | 🟢 | vmess | 3YED | 4'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
