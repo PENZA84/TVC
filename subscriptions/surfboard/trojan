@@ -12,26 +12,19 @@ enhanced-mode-by-rule = true
 [Proxy]
 DIRECT = direct
 🇨🇭CH | 🟢 | trojan | 3YED | 1 = trojan, 8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir, 30000, password = -----------%42%61%6e%56%32%72%61%79------------, udp-delay = true, skip-cert-verify = false, sni = chi.yahoo.com, ws = false
-❔XX | 🔴 | trojan | 3YED | 0 = trojan, 64.94.95.115, 57142, password = kkzh2prsyr2ik47as615, udp-delay = true, skip-cert-verify = true, sni = static.rutube.ru, ws = false
-❔XX | 🔴 | trojan | 3YED | 1 = trojan, more-trout.rooster465.autos, 443, password = KV63147582, udp-delay = true, skip-cert-verify = false, ws = false
-❔XX | 🔴 | trojan | 3YED | 2 = trojan, casual-stallion.rooster465.autos, 443, password = IQ68037294, udp-delay = true, skip-cert-verify = false, ws = false
-❔XX | 🔴 | trojan | 3YED | 3 = trojan, 208.103.161.170, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmloud.com, ws = false
-❔XX | 🔴 | trojan | 3YED | 4 = trojan, musical-shrew.rooster465.autos, 443, password = JT80563429, udp-delay = true, skip-cert-verify = false, ws = false
-❔XX | 🔴 | trojan | 3YED | 5 = trojan, wealthy-loon.rooster465.autos, 443, password = NQ26071394, udp-delay = true, skip-cert-verify = false, ws = false
-❔XX | 🟢 | trojan | 3YED | 4 = trojan, 167.150.100.133, 450, password = 0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m, udp-delay = true, skip-cert-verify = false, sni = grape-power-sg.roxa.org, ws = false
+❔XX | 🔴 | trojan | 3YED | 0 = trojan, 62.112.222.69, 443, password = OD90375861, udp-delay = true, skip-cert-verify = false, sni = ideal-robin.rooster465.autos, ws = false
+❔XX | 🔴 | trojan | 3YED | 1 = trojan, RTp&, , password = , udp-delay = true, skip-cert-verify = false, ws = false
+❔XX | 🔴 | trojan | 3YED | 5 = trojan, 64.94.95.115, 57142, password = kkzh2prsyr2ik47as615, udp-delay = true, skip-cert-verify = true, sni = static.rutube.ru, ws = false
+❔XX | 🔴 | trojan | 3YED | 6 = trojan, more-trout.rooster465.autos, 443, password = KV63147582, udp-delay = true, skip-cert-verify = false, ws = false
+❔XX | 🔴 | trojan | 3YED | 7 = trojan, casual-stallion.rooster465.autos, 443, password = IQ68037294, udp-delay = true, skip-cert-verify = false, ws = false
+❔XX | 🟢 | trojan | 3YED | 5 = trojan, 167.150.100.133, 450, password = 0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m, udp-delay = true, skip-cert-verify = false, sni = grape-power-sg.roxa.org, ws = false
 🚩CF | 🔴 | trojan | 3YED | 9 = trojan, 104.18.152.246, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmloud.com, ws = false
 🚩CF | 🟢 | trojan | 3YED | 2 = trojan, 162.159.38.119, 443, password = humanity, udp-delay = true, skip-cert-verify = true, sni = www.creationlong.org, ws = false
-❔XX | 🟢 | trojan | 3YED | 2 = trojan, 15.236.242.161, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🟢 | trojan | 3YED | 4 = trojan, 51.68.215.55, 443, password = ComYEI7fQv, udp-delay = true, skip-cert-verify = false, sni = uk-04.allhubb.info, ws = false
-❔XX | 🟢 | trojan | 3YED | 9 = trojan, 0101010101010101010101001010101010110010101010101010101010101.poki-pakipon.ir, 18936, password = Xpp4J8jfbWRwCFPbFQ0PaugqS8VZLKkm, udp-delay = true, skip-cert-verify = false, sni = rd.autos.yahoo.com:443, ws = false
-❔XX | 🟢 | trojan | 3YED | 10 = trojan, 13.114.31.41, 3306, password = f653ef08c54e21b3, udp-delay = true, skip-cert-verify = false, sni = TG.WangCai2, ws = false
-🚩CF | 🟢 | trojan | 3YED | 13 = trojan, 162.159.133.234, 443, password = 559c3b5f-3dd1-47e4-94ad-017cb392a7ba, udp-delay = true, skip-cert-verify = false, sni = de1.trojanvpn.de, ws = false
-❔XX | 🟢 | trojan | 3YED | 15 = trojan, 3.21.141.202, 22222, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-❔XX | 🔴 | trojan | 3YED | 16 = trojan, chat.openai.com, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmlunch.com, ws = false
+🚩CF | 🔴 | trojan | 3YED | 2 = trojan, 188.114.96.3, 443, password = Telegram_healer_config, udp-delay = true, skip-cert-verify = false, sni = 7kDYlxxSIkw5RjLKHpdRHtX8.6nVgyHkobjke10qsu1s09HhYd4Iz4pv.WOrKERS.deV, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 2,❔XX | 🔴 | trojan | 3YED | 3,❔XX | 🔴 | trojan | 3YED | 4,❔XX | 🔴 | trojan | 3YED | 5,❔XX | 🟢 | trojan | 3YED | 4,🚩CF | 🔴 | trojan | 3YED | 9,🚩CF | 🟢 | trojan | 3YED | 2,❔XX | 🟢 | trojan | 3YED | 2,❔XX | 🟢 | trojan | 3YED | 4,❔XX | 🟢 | trojan | 3YED | 9,❔XX | 🟢 | trojan | 3YED | 10,🚩CF | 🟢 | trojan | 3YED | 13,❔XX | 🟢 | trojan | 3YED | 15,❔XX | 🔴 | trojan | 3YED | 16
-URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 2,❔XX | 🔴 | trojan | 3YED | 3,❔XX | 🔴 | trojan | 3YED | 4,❔XX | 🔴 | trojan | 3YED | 5,❔XX | 🟢 | trojan | 3YED | 4,🚩CF | 🔴 | trojan | 3YED | 9,🚩CF | 🟢 | trojan | 3YED | 2,❔XX | 🟢 | trojan | 3YED | 2,❔XX | 🟢 | trojan | 3YED | 4,❔XX | 🟢 | trojan | 3YED | 9,❔XX | 🟢 | trojan | 3YED | 10,🚩CF | 🟢 | trojan | 3YED | 13,❔XX | 🟢 | trojan | 3YED | 15,❔XX | 🔴 | trojan | 3YED | 16
-FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 2,❔XX | 🔴 | trojan | 3YED | 3,❔XX | 🔴 | trojan | 3YED | 4,❔XX | 🔴 | trojan | 3YED | 5,❔XX | 🟢 | trojan | 3YED | 4,🚩CF | 🔴 | trojan | 3YED | 9,🚩CF | 🟢 | trojan | 3YED | 2,❔XX | 🟢 | trojan | 3YED | 2,❔XX | 🟢 | trojan | 3YED | 4,❔XX | 🟢 | trojan | 3YED | 9,❔XX | 🟢 | trojan | 3YED | 10,🚩CF | 🟢 | trojan | 3YED | 13,❔XX | 🟢 | trojan | 3YED | 15,❔XX | 🔴 | trojan | 3YED | 16
+MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 5,❔XX | 🔴 | trojan | 3YED | 6,❔XX | 🔴 | trojan | 3YED | 7,❔XX | 🟢 | trojan | 3YED | 5,🚩CF | 🔴 | trojan | 3YED | 9,🚩CF | 🟢 | trojan | 3YED | 2,🚩CF | 🔴 | trojan | 3YED | 2
+URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 5,❔XX | 🔴 | trojan | 3YED | 6,❔XX | 🔴 | trojan | 3YED | 7,❔XX | 🟢 | trojan | 3YED | 5,🚩CF | 🔴 | trojan | 3YED | 9,🚩CF | 🟢 | trojan | 3YED | 2,🚩CF | 🔴 | trojan | 3YED | 2
+FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 5,❔XX | 🔴 | trojan | 3YED | 6,❔XX | 🔴 | trojan | 3YED | 7,❔XX | 🟢 | trojan | 3YED | 5,🚩CF | 🔴 | trojan | 3YED | 9,🚩CF | 🟢 | trojan | 3YED | 2,🚩CF | 🔴 | trojan | 3YED | 2
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
