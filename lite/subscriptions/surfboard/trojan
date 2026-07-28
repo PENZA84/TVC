@@ -13,12 +13,12 @@ enhanced-mode-by-rule = true
 DIRECT = direct
 🇨🇭CH | 🟢 | trojan | 3YED | 1 = trojan, 8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir, 30000, password = -----------BanV2ray------------, udp-delay = true, skip-cert-verify = false, sni = chi.yahoo.com, ws = false
 ❔XX | 🔴 | trojan | 3YED | 8 = trojan, RTp&, , password = , udp-delay = true, skip-cert-verify = false, ws = false
-❔XX | 🟢 | trojan | 3YED | 2 = trojan, 162.159.38.119, 443, password = humanity, udp-delay = true, skip-cert-verify = true, sni = www.creationlong.org, ws = false
-❔XX | 🔴 | trojan | 3YED | 13 = trojan, 45.130.125.0, 443, password = MiTiVPN, udp-delay = true, skip-cert-verify = true, sni = swsjh--MiTiVPN---MiTiVPN-ao.aPp-cLoud.IR, ws = false
+🇺🇸US | 🟢 | trojan | 3YED | 2 = trojan, 162.159.38.119, 443, password = humanity, udp-delay = true, skip-cert-verify = true, sni = www.creationlong.org, ws = false
+🇸🇨SC | 🔴 | trojan | 3YED | 13 = trojan, 45.130.125.0, 443, password = MiTiVPN, udp-delay = true, skip-cert-verify = true, sni = swsjh--MiTiVPN---MiTiVPN-ao.aPp-cLoud.IR, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 8,❔XX | 🟢 | trojan | 3YED | 2,❔XX | 🔴 | trojan | 3YED | 13
-URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 8,❔XX | 🟢 | trojan | 3YED | 2,❔XX | 🔴 | trojan | 3YED | 13
-FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 8,❔XX | 🟢 | trojan | 3YED | 2,❔XX | 🔴 | trojan | 3YED | 13
+MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 8,🇺🇸US | 🟢 | trojan | 3YED | 2,🇸🇨SC | 🔴 | trojan | 3YED | 13
+URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 8,🇺🇸US | 🟢 | trojan | 3YED | 2,🇸🇨SC | 🔴 | trojan | 3YED | 13
+FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 8,🇺🇸US | 🟢 | trojan | 3YED | 2,🇸🇨SC | 🔴 | trojan | 3YED | 13
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
