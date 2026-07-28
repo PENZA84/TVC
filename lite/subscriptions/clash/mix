@@ -123,10 +123,9 @@ proxies:
   - {"name":"🇨🇳CN | 🟢 | vmess | 3YED | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇳🇱NL | 🔴 | trojan | 3YED | 5","type":"trojan","server":"89.39.70.49","port":443,"udp":false,"password":"IQ68037294","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"eager-louse.rooster465.autos"}
   - {"name":"🇵🇱PL | 🔴 | trojan | 3YED | 6","type":"trojan","server":"62.112.222.69","port":443,"udp":false,"password":"OD90375861","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"ideal-robin.rooster465.autos"}
-  - {"name":"🇺🇸US | 🟢 | trojan | 3YED | 2","type":"trojan","server":"162.159.38.119","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.creationlong.org"}
+  - {"name":"❔XX | 🟢 | trojan | 3YED | 2","type":"trojan","server":"162.159.38.119","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.creationlong.org"}
   - {"name":"❔XX | 🟢 | vmess | 3YED | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
-  - {"name":"🇺🇸US | 🟢 | vmess | 3YED | 16","type":"vmess","server":"172.64.167.25","port":"2086","cipher":"auto","uuid":"e9e3cc13-db48-4cc1-8c24-7626439a5339","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/github.com/Alvin9999","headers":{"host":"ip2.1457230.xyz"}}}
-  - {"name":"🇨🇦CA | 🟢 | vmess | 3YED | 17","type":"vmess","server":"23.227.38.5","port":"2086","cipher":"auto","uuid":"29eebb60-b27b-4a9d-bba5-947763d9205e","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/github.com/Alvin9999","headers":{"host":"ip006.freegradely.xyz"}}}
+  - {"name":"❔XX | 🟢 | vmess | 3YED | 14","type":"vmess","server":"kvgwv-1037-v2-1.hkg-d-cmi.jd.cjhh.lol","port":"888","cipher":"auto","uuid":"fbc2efb0-786a-4074-81ea-8ab12ca5422c","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/je5x3pBN1vez3NQudNkB","headers":{"host":"node.inforun.work"}}}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -138,10 +137,9 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
       - '🇳🇱NL | 🔴 | trojan | 3YED | 5'
       - '🇵🇱PL | 🔴 | trojan | 3YED | 6'
-      - '🇺🇸US | 🟢 | trojan | 3YED | 2'
+      - '❔XX | 🟢 | trojan | 3YED | 2'
       - '❔XX | 🟢 | vmess | 3YED | 4'
-      - '🇺🇸US | 🟢 | vmess | 3YED | 16'
-      - '🇨🇦CA | 🟢 | vmess | 3YED | 17'
+      - '❔XX | 🟢 | vmess | 3YED | 14'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -153,10 +151,9 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
       - '🇳🇱NL | 🔴 | trojan | 3YED | 5'
       - '🇵🇱PL | 🔴 | trojan | 3YED | 6'
-      - '🇺🇸US | 🟢 | trojan | 3YED | 2'
+      - '❔XX | 🟢 | trojan | 3YED | 2'
       - '❔XX | 🟢 | vmess | 3YED | 4'
-      - '🇺🇸US | 🟢 | vmess | 3YED | 16'
-      - '🇨🇦CA | 🟢 | vmess | 3YED | 17'
+      - '❔XX | 🟢 | vmess | 3YED | 14'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -167,10 +164,9 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
       - '🇳🇱NL | 🔴 | trojan | 3YED | 5'
       - '🇵🇱PL | 🔴 | trojan | 3YED | 6'
-      - '🇺🇸US | 🟢 | trojan | 3YED | 2'
+      - '❔XX | 🟢 | trojan | 3YED | 2'
       - '❔XX | 🟢 | vmess | 3YED | 4'
-      - '🇺🇸US | 🟢 | vmess | 3YED | 16'
-      - '🇨🇦CA | 🟢 | vmess | 3YED | 17'
+      - '❔XX | 🟢 | vmess | 3YED | 14'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve
