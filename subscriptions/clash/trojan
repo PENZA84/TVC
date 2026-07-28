@@ -127,7 +127,7 @@ proxies:
   - {"name":"❔XX | 🔴 | trojan | 3YED | 6","type":"trojan","server":"62.112.222.69","port":443,"udp":false,"password":"OD90375861","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"ideal-robin.rooster465.autos"}
   - {"name":"🚩CF | 🔴 | trojan | 3YED | 9","type":"trojan","server":"104.18.152.246","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
   - {"name":"🚩CF | 🟢 | trojan | 3YED | 2","type":"trojan","server":"162.159.38.119","port":443,"udp":false,"password":"humanity","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"www.creationlong.org"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 3","type":"trojan","server":"66.81.247.155","port":443,"udp":false,"password":"MiTiVPN","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"ib-bbg--MiTiVPN---MiTiVPN-u.aPp-cLoud.IR"}
+  - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 3","type":"trojan","server":"66.81.247.155","port":443,"udp":false,"password":"MiTiVPN","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"ib-bbg--MiTiVPN---MiTiVPN-u.aPp-cLoud.IR"}
   - {"name":"🚩CF | 🔴 | trojan | 3YED | 6","type":"trojan","server":"104.16.72.41","port":443,"udp":false,"password":"MITIVPN","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"ikk---7-MiTiVPN----o.aPp-cLoud.IR"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 7","type":"trojan","server":"46.202.30.27","port":443,"udp":false,"password":"MiTiVPN","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"g-o-MiTiVPN---MiTiVPNj.aPp-cLoud.IR"}
 proxy-groups:
@@ -145,7 +145,7 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 6'
       - '🚩CF | 🔴 | trojan | 3YED | 9'
       - '🚩CF | 🟢 | trojan | 3YED | 2'
-      - '❔XX | 🔴 | trojan | 3YED | 3'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 3'
       - '🚩CF | 🔴 | trojan | 3YED | 6'
       - '❔XX | 🔴 | trojan | 3YED | 7'
   - name: URL-TEST
@@ -163,7 +163,7 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 6'
       - '🚩CF | 🔴 | trojan | 3YED | 9'
       - '🚩CF | 🟢 | trojan | 3YED | 2'
-      - '❔XX | 🔴 | trojan | 3YED | 3'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 3'
       - '🚩CF | 🔴 | trojan | 3YED | 6'
       - '❔XX | 🔴 | trojan | 3YED | 7'
   - name: FALLBACK
@@ -180,7 +180,7 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 6'
       - '🚩CF | 🔴 | trojan | 3YED | 9'
       - '🚩CF | 🟢 | trojan | 3YED | 2'
-      - '❔XX | 🔴 | trojan | 3YED | 3'
+      - '🇺🇸US | 🔴 | trojan | 3YED | 3'
       - '🚩CF | 🔴 | trojan | 3YED | 6'
       - '❔XX | 🔴 | trojan | 3YED | 7'
 rules:
