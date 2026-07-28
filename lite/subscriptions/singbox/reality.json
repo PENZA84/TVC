@@ -112,9 +112,10 @@ https://github.com/3yed-61
                 "🇳🇱NL | 🔴 | vless | 3YED | 3",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇩🇪DE | 🔴 | vless | 3YED | 2",
+                "🇷🇺RU | 🔴 | vless | 3YED | 41",
                 "🇭🇺HU | 🟢 | vless | 3YED | 122",
                 "🇩🇪DE | 🟢 | vless | 3YED | 14",
-                "❔XX | 🔴 | vless | 3YED | 0",
+                "🇷🇺RU | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🟢 | vless | 3YED | 4",
@@ -133,9 +134,10 @@ https://github.com/3yed-61
                 "🇳🇱NL | 🔴 | vless | 3YED | 3",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
                 "🇩🇪DE | 🔴 | vless | 3YED | 2",
+                "🇷🇺RU | 🔴 | vless | 3YED | 41",
                 "🇭🇺HU | 🟢 | vless | 3YED | 122",
                 "🇩🇪DE | 🟢 | vless | 3YED | 14",
-                "❔XX | 🔴 | vless | 3YED | 0",
+                "🇷🇺RU | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
                 "❔XX | 🟢 | vless | 3YED | 4",
@@ -345,6 +347,35 @@ https://github.com/3yed-61
             }
         },
         {
+            "tag": "🇷🇺RU | 🔴 | vless | 3YED | 41",
+            "type": "vless",
+            "server": "185.185.142.98",
+            "server_port": 8443,
+            "uuid": "578c8541-16a0-40b7-bf72-9508d547f856",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "cdn.jsdelivr.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "NozDA4apA_XQ_wzcJCZx7VXAD285J_HSs4w_GvBfJHA",
+                    "short_id": "63903c2e"
+                }
+            }
+        },
+        {
             "tag": "🇭🇺HU | 🟢 | vless | 3YED | 122",
             "type": "vless",
             "server": "45.198.87.99",
@@ -403,7 +434,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🔴 | vless | 3YED | 0",
+            "tag": "🇷🇺RU | 🔴 | vless | 3YED | 0",
             "type": "vless",
             "server": "qq.utiltools.ru",
             "server_port": 443,
