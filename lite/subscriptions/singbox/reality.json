@@ -111,10 +111,9 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "🇳🇱NL | 🔴 | vless | 3YED | 3",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇩🇪DE | 🔴 | vless | 3YED | 2",
                 "🇷🇺RU | 🔴 | vless | 3YED | 41",
                 "🇭🇺HU | 🟢 | vless | 3YED | 122",
-                "🇩🇪DE | 🟢 | vless | 3YED | 14",
+                "🇩🇪DE | 🟢 | vless | 3YED | 15",
                 "🇷🇺RU | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -133,10 +132,9 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vless | 3YED | 1",
                 "🇳🇱NL | 🔴 | vless | 3YED | 3",
                 "🇷🇺RU | 🟢 | vless | 3YED | 7",
-                "🇩🇪DE | 🔴 | vless | 3YED | 2",
                 "🇷🇺RU | 🔴 | vless | 3YED | 41",
                 "🇭🇺HU | 🟢 | vless | 3YED | 122",
-                "🇩🇪DE | 🟢 | vless | 3YED | 14",
+                "🇩🇪DE | 🟢 | vless | 3YED | 15",
                 "🇷🇺RU | 🔴 | vless | 3YED | 0",
                 "❔XX | 🔴 | vless | 3YED | 44",
                 "❔XX | 🔴 | vless | 3YED | 45",
@@ -318,35 +316,6 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | 3YED | 2",
-            "type": "vless",
-            "server": "gbb.rarmexa.ir",
-            "server_port": 443,
-            "uuid": "3d5851ed-daaf-6b83-e634-0801bd06509e",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "play.google.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "xXaCtONWKzYdCWya3nzOe3_UYfHplbmdThukm0__smI",
-                    "short_id": "f49da53c"
-                }
-            }
-        },
-        {
             "tag": "🇷🇺RU | 🔴 | vless | 3YED | 41",
             "type": "vless",
             "server": "185.185.142.98",
@@ -405,7 +374,7 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 14",
+            "tag": "🇩🇪DE | 🟢 | vless | 3YED | 15",
             "type": "vless",
             "server": "82.39.171.131",
             "server_port": 443,
