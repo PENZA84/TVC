@@ -122,6 +122,7 @@ dns:
 proxies:
   - {"name":"🇨🇭CH | 🟢 | trojan | 3YED | 1","type":"trojan","server":"8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir","port":30000,"udp":false,"password":"-----------BanV2ray------------","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"chi.yahoo.com"}
   - {"name":"🇳🇱NL | 🔴 | trojan | 3YED | 7","type":"trojan","server":"193.169.239.162","port":443,"udp":false,"password":"IQ68037294","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"distinct-ibex.rooster465.autos"}
+  - {"name":"❔XX | 🟢 | trojan | 3YED | 18","type":"trojan","server":"3.17.253.94","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -130,6 +131,7 @@ proxy-groups:
       - FALLBACK
       - '🇨🇭CH | 🟢 | trojan | 3YED | 1'
       - '🇳🇱NL | 🔴 | trojan | 3YED | 7'
+      - '❔XX | 🟢 | trojan | 3YED | 18'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -138,6 +140,7 @@ proxy-groups:
     proxies:
       - '🇨🇭CH | 🟢 | trojan | 3YED | 1'
       - '🇳🇱NL | 🔴 | trojan | 3YED | 7'
+      - '❔XX | 🟢 | trojan | 3YED | 18'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -145,6 +148,7 @@ proxy-groups:
     proxies:
       - '🇨🇭CH | 🟢 | trojan | 3YED | 1'
       - '🇳🇱NL | 🔴 | trojan | 3YED | 7'
+      - '❔XX | 🟢 | trojan | 3YED | 18'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
   ads: {type: http, format: text, behavior: domain, path: ./ruleset/ads.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ads.txt, interval: 86400}
