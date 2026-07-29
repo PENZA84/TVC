@@ -12,16 +12,14 @@ enhanced-mode-by-rule = true
 [Proxy]
 DIRECT = direct
 🇨🇭CH | 🟢 | trojan | 3YED | 1 = trojan, 8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir, 30000, password = -----------BanV2ray------------, udp-delay = true, skip-cert-verify = false, sni = chi.yahoo.com, ws = false
-🇳🇱NL | 🔴 | trojan | 3YED | 7 = trojan, 193.169.239.162, 443, password = IQ68037294, udp-delay = true, skip-cert-verify = false, sni = distinct-ibex.rooster465.autos, ws = false
-❔XX | 🟢 | trojan | 3YED | 18 = trojan, 3.17.253.94, 22222, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🔴 | trojan | 3YED | 5 = trojan, 13.39.89.72, 443, password = IQ68037294, udp-delay = true, skip-cert-verify = false, sni = definite-giraffe.rooster465.autos, ws = false
 ❔XX | 🟢 | vmess | 3YED | 4 = vmess, ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub, 80, username = 46cfcfe1-e450-459d-a3ab-9406011ab3eb, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"tms.dingtalk.com", skip-cert-verify = true, tfo = false
-❔XX | 🟢 | vmess | 3YED | 8 = vmess, www.speedtest.net, 80, username = 83361983-a49b-490b-9910-e0de7e8d3a07, ws = true, tls = , vmess-aead = true, ws-path = /RACEVPN, ws-headers = Host:"8.V.WwW.SPeedTEst.NET.Ftp.dEbiAn.ORG.isvpHP.Ir.", skip-cert-verify = true, tfo = false
-❔XX | 🟢 | vmess | 3YED | 9 = vmess, www.speedtest.net, 80, username = cc142606-f36d-4004-bd2d-c5c2aa7efd4d, ws = true, tls = , vmess-aead = true, ws-path = /RACEVPN, ws-headers = Host:"V.v.V.v.C.v.C.v.X.o.ZuLa.Ir.FaSt.CoM.iSvPhP.Ir.", skip-cert-verify = true, tfo = false
-❔XX | 🟢 | ss | 3YED | 5 = ss, 82.38.31.180, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
+❔XX | 🟢 | vmess | 3YED | 7 = vmess, 172.67.156.22, 443, username = f584de15-2034-4170-a723-f48c2bae5e0f, ws = true, tls = 1, vmess-aead = true, ws-path = /linkws/afrhms16v.bestxray.buzz, ws-headers = Host:"nezuko.raidenshogun.cloudns.org", skip-cert-verify = true, tfo = false
+❔XX | 🟢 | ss | 3YED | 12 = ss, 82.38.31.180, 8080, encrypt-method = chacha20-ietf-poly1305, password = k1dBOmOB4oqi7Ump37a1bQ
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇳🇱NL | 🔴 | trojan | 3YED | 7,❔XX | 🟢 | trojan | 3YED | 18,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 8,❔XX | 🟢 | vmess | 3YED | 9,❔XX | 🟢 | ss | 3YED | 5
-URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇳🇱NL | 🔴 | trojan | 3YED | 7,❔XX | 🟢 | trojan | 3YED | 18,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 8,❔XX | 🟢 | vmess | 3YED | 9,❔XX | 🟢 | ss | 3YED | 5
-FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇳🇱NL | 🔴 | trojan | 3YED | 7,❔XX | 🟢 | trojan | 3YED | 18,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 8,❔XX | 🟢 | vmess | 3YED | 9,❔XX | 🟢 | ss | 3YED | 5
+MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇫🇷FR | 🔴 | trojan | 3YED | 5,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 7,❔XX | 🟢 | ss | 3YED | 12
+URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇫🇷FR | 🔴 | trojan | 3YED | 5,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 7,❔XX | 🟢 | ss | 3YED | 12
+FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,🇫🇷FR | 🔴 | trojan | 3YED | 5,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 7,❔XX | 🟢 | ss | 3YED | 12
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
