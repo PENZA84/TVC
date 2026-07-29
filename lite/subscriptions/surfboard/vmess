@@ -12,11 +12,12 @@ enhanced-mode-by-rule = true
 [Proxy]
 DIRECT = direct
 ❔XX | 🟢 | vmess | 3YED | 4 = vmess, ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub, 80, username = 46cfcfe1-e450-459d-a3ab-9406011ab3eb, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"tms.dingtalk.com", skip-cert-verify = true, tfo = false
-❔XX | 🟢 | vmess | 3YED | 4 = vmess, 104.21.82.17, 443, username = bc864078-dcf3-4bf4-8dbf-ca9f200b56be, ws = true, tls = 1, vmess-aead = true, ws-path = /linkws, ws-headers = Host:"gwdef.sbs", skip-cert-verify = true, tfo = false
+❔XX | 🟢 | vmess | 3YED | 4 = vmess, www.speedtest.net, 80, username = 7c5df627-a185-468b-a90a-1b162e673a68, ws = true, tls = , vmess-aead = true, ws-path = /RACEVPN?Telegram :@ISVvpn - Telegram : @ISVvpn - Telegram : @ISVvpn - Telegram : @ISVvpn - Telegram : @ISVvpn - Telegram : @ISVvpn - Telegram : @ISVvpn - Telegram : @ISVvpn - Telegram : @ISVvpn - Telegram : @ISVvpn, ws-headers = Host:"3.w.X.X.X.x.X.X.X.v.V.V.X.x.x.W.w.w.W.w.goOgLe.com.sPEEDtEst.Net.zulA.ISvpy.iR.", skip-cert-verify = true, tfo = false
+❔XX | 🟢 | vmess | 3YED | 5 = vmess, cfcdn1.sanfencdn9.com, 2052, username = ab1ee1ac-884c-44dc-ab65-d533d32e2b1a, ws = true, tls = , vmess-aead = true, ws-path = /video/GQ2qE5Us9g, ws-headers = Host:"tw1bQiWSE4x.fzbqfrse.xyz", skip-cert-verify = true, tfo = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 4
-URL-TEST = url-test,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 4
-FALLBACK = fallback,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 4
+MANUAL = select,URL-TEST,FALLBACK,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 5
+URL-TEST = url-test,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 5
+FALLBACK = fallback,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 5
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
