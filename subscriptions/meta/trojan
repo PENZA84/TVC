@@ -125,11 +125,7 @@ proxies:
   - {"name":"❔XX | 🔴 | trojan | 3YED | 2","type":"trojan","server":"13.39.89.72","port":443,"udp":false,"password":"IQ68037294","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"definite-giraffe.rooster465.autos"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 4","type":"trojan","server":"193.169.239.162","port":443,"udp":false,"password":"IQ68037294","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"distinct-ibex.rooster465.autos"}
   - {"name":"❔XX | 🔴 | trojan | 3YED | 5","type":"trojan","server":"15.188.75.92","port":443,"udp":false,"password":"UZ15382649","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"moral-dolphin.rooster465.autos"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 6","type":"trojan","server":"89.39.70.49","port":443,"udp":false,"password":"IQ68037294","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"eager-louse.rooster465.autos"}
   - {"name":"🚩CF | 🔴 | trojan | 3YED | 9","type":"trojan","server":"104.18.152.246","port":443,"udp":false,"password":"humanity","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"www.calmloud.com"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 3","type":"trojan","server":"66.81.247.155","port":443,"udp":false,"password":"MiTiVPN","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"ib-bbg--MiTiVPN---MiTiVPN-u.aPp-cLoud.IR"}
-  - {"name":"🚩CF | 🔴 | trojan | 3YED | 6","type":"trojan","server":"104.16.72.41","port":443,"udp":false,"password":"MITIVPN","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"ikk---7-MiTiVPN----o.aPp-cLoud.IR"}
-  - {"name":"❔XX | 🔴 | trojan | 3YED | 7","type":"trojan","server":"46.202.30.27","port":443,"udp":false,"password":"MiTiVPN","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"g-o-MiTiVPN---MiTiVPNj.aPp-cLoud.IR"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -141,11 +137,7 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 2'
       - '❔XX | 🔴 | trojan | 3YED | 4'
       - '❔XX | 🔴 | trojan | 3YED | 5'
-      - '❔XX | 🔴 | trojan | 3YED | 6'
       - '🚩CF | 🔴 | trojan | 3YED | 9'
-      - '❔XX | 🔴 | trojan | 3YED | 3'
-      - '🚩CF | 🔴 | trojan | 3YED | 6'
-      - '❔XX | 🔴 | trojan | 3YED | 7'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -157,11 +149,7 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 2'
       - '❔XX | 🔴 | trojan | 3YED | 4'
       - '❔XX | 🔴 | trojan | 3YED | 5'
-      - '❔XX | 🔴 | trojan | 3YED | 6'
       - '🚩CF | 🔴 | trojan | 3YED | 9'
-      - '❔XX | 🔴 | trojan | 3YED | 3'
-      - '🚩CF | 🔴 | trojan | 3YED | 6'
-      - '❔XX | 🔴 | trojan | 3YED | 7'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -172,11 +160,7 @@ proxy-groups:
       - '❔XX | 🔴 | trojan | 3YED | 2'
       - '❔XX | 🔴 | trojan | 3YED | 4'
       - '❔XX | 🔴 | trojan | 3YED | 5'
-      - '❔XX | 🔴 | trojan | 3YED | 6'
       - '🚩CF | 🔴 | trojan | 3YED | 9'
-      - '❔XX | 🔴 | trojan | 3YED | 3'
-      - '🚩CF | 🔴 | trojan | 3YED | 6'
-      - '❔XX | 🔴 | trojan | 3YED | 7'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
   ads: {type: http, format: text, behavior: domain, path: ./ruleset/ads.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ads.txt, interval: 86400}
