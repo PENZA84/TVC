@@ -111,8 +111,8 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
-                "❔XX | 🟢 | vmess | 3YED | 4",
-                "❔XX | 🟢 | vmess | 3YED | 5"
+                "❔XX | 🟢 | vmess | 3YED | 3",
+                "❔XX | 🟢 | vmess | 3YED | 4"
             ]
         },
         {
@@ -124,8 +124,8 @@ https://github.com/3yed-61
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 4",
                 "❔XX | 🟢 | vmess | 3YED | 5",
-                "❔XX | 🟢 | vmess | 3YED | 4",
-                "❔XX | 🟢 | vmess | 3YED | 5"
+                "❔XX | 🟢 | vmess | 3YED | 3",
+                "❔XX | 🟢 | vmess | 3YED | 4"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -257,11 +257,11 @@ https://github.com/3yed-61
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 4",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 3",
             "type": "vmess",
-            "server": "www.speedtest.net",
+            "server": "slime-rhinestone-spy.glitch.me",
             "server_port": 80,
-            "uuid": "7c5df627-a185-468b-a90a-1b162e673a68",
+            "uuid": "1d5fb496-19fb-48fb-9880-a147326dee62",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -274,18 +274,18 @@ https://github.com/3yed-61
             },
             "transport": {
                 "type": "ws",
-                "path": "\/RACEVPN?Telegram :@ISVvpn - Telegram : @ISVvpn - Telegram : @ISVvpn - Telegram : @ISVvpn - Telegram : @ISVvpn - Telegram : @ISVvpn - Telegram : @ISVvpn - Telegram : @ISVvpn - Telegram : @ISVvpn - Telegram : @ISVvpn",
+                "path": "\/1d5fb496-19fb-48fb-9880-a147326dee62-vmess",
                 "headers": {
                     "Host": ""
                 }
             }
         },
         {
-            "tag": "❔XX | 🟢 | vmess | 3YED | 5",
+            "tag": "❔XX | 🟢 | vmess | 3YED | 4",
             "type": "vmess",
-            "server": "cfcdn1.sanfencdn9.com",
+            "server": "cfcdn2.sanfencdn9.com",
             "server_port": 2052,
-            "uuid": "ab1ee1ac-884c-44dc-ab65-d533d32e2b1a",
+            "uuid": "cd0eb936-9e1e-4730-989e-be43e7fcaf3e",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -298,7 +298,7 @@ https://github.com/3yed-61
             },
             "transport": {
                 "type": "ws",
-                "path": "\/video\/GQ2qE5Us9g",
+                "path": "\/video\/VuDFdktz",
                 "headers": {
                     "Host": ""
                 }
