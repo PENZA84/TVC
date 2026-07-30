@@ -12,12 +12,14 @@ enhanced-mode-by-rule = true
 [Proxy]
 DIRECT = direct
 🇨🇭CH | 🟢 | trojan | 3YED | 1 = trojan, 8y7r-2-4-3-1-4-5-2-2-3.poki-pakipon.ir, 30000, password = -----------BanV2ray------------, udp-delay = true, skip-cert-verify = false, sni = chi.yahoo.com, ws = false
+❔XX | 🔴 | trojan | 3YED | 18 = trojan, wangcai.yunzhongzhuan.com, 443, password = 521314, udp-delay = true, skip-cert-verify = false, sni = tjplay.lxdxo.kdns.fr, ws = false
 ❔XX | 🟢 | vmess | 3YED | 4 = vmess, ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub, 80, username = 46cfcfe1-e450-459d-a3ab-9406011ab3eb, ws = true, tls = , vmess-aead = true, ws-path = /, ws-headers = Host:"tms.dingtalk.com", skip-cert-verify = true, tfo = false
-❔XX | 🟢 | vmess | 3YED | 7 = vmess, status.qiscus.com, 443, username = 283e8955-4a4a-41ca-ac61-3eabf3077a95, ws = true, tls = 1, vmess-aead = true, ws-path = /v2ray, ws-headers = Host:"sg2.jupiterv2ray.xyz", skip-cert-verify = true, tfo = false
+❔XX | 🟢 | vmess | 3YED | 7 = vmess, cn04.downloadmovie.cn, 65025, username = 0253b574-8020-3186-a647-0267295ac9bb, ws = true, tls = , vmess-aead = true, ws-path = /rocket, ws-headers = Host:"%7B%22Host%22:%22cn04.downloadmovie.cn%22%7D", skip-cert-verify = true, tfo = false
+❔XX | 🟢 | vmess | 3YED | 8 = vmess, 172.67.193.108, 443, username = bc864078-dcf3-4bf4-8dbf-ca9f200b56be, ws = true, tls = 1, vmess-aead = true, ws-path = /linkws, ws-headers = Host:"gwdef.sbs", skip-cert-verify = true, tfo = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 7
-URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 7
-FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 7
+MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 18,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 7,❔XX | 🟢 | vmess | 3YED | 8
+URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 18,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 7,❔XX | 🟢 | vmess | 3YED | 8
+FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 18,❔XX | 🟢 | vmess | 3YED | 4,❔XX | 🟢 | vmess | 3YED | 7,❔XX | 🟢 | vmess | 3YED | 8
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
