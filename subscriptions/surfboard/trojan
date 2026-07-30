@@ -17,13 +17,15 @@ DIRECT = direct
 ❔XX | 🔴 | trojan | 3YED | 3 = trojan, 163.245.196.68, 49361, password = 0ebb269c9f2d4e8e46b0cd4105a55134, udp-delay = true, skip-cert-verify = false, sni = 163.245.196.68.sslip.io, ws = false
 🚩CF | 🔴 | trojan | 3YED | 0 = trojan, 104.16.174.121, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
 🚩CF | 🔴 | trojan | 3YED | 10 = trojan, 104.18.152.246, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmloud.com, ws = false
-❔XX | 🟢 | trojan | 3YED | 12 = trojan, www.ignitelimit.com, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
-🚩CF | 🔴 | trojan | 3YED | 15 = trojan, 172.67.149.60, 443, password = c206d543-023d-46cc-9d5a-1f0f2fc16323, udp-delay = true, skip-cert-verify = false, sni = space.byu.id.yxls.eu.cc, ws = false
-🚩CF | 🟢 | trojan | 3YED | 16 = trojan, 172.67.149.60, 443, password = c206d543-023d-46cc-9d5a-1f0f2fc16323, udp-delay = true, skip-cert-verify = false, sni = space.byu.id.yxls.eu.cc, ws = false
+❔XX | 🔴 | trojan | 3YED | 1 = trojan, millionaire.levikogjgfdd.ir, 443, password = 521314, udp-delay = true, skip-cert-verify = false, sni = tjplay.lxdxo.kdns.fr, ws = false
+❔XX | 🔴 | trojan | 3YED | 4 = trojan, 179.237.75.190, 13790, password = QNzF7mH7BG, udp-delay = true, skip-cert-verify = true, sni = rd.autos.yahoo.com:40069, ws = false
+❔XX | 🔴 | trojan | 3YED | 6 = trojan, 6r6e6e6ryrfyfyydur6r6f6r6r6r6d6d6e6s6d6s6d7d7d7e6s.poki-pakipon.ir, 13790, password = QNzF7mH7BG, udp-delay = true, skip-cert-verify = true, sni = rd.autos.yahoo.com:40069, ws = false
+❔XX | 🟢 | trojan | 3YED | 10 = trojan, www.ignitelimit.com, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
+❔XX | 🔴 | trojan | 3YED | 16 = trojan, www.ignitelimit.com, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.ignitelimit.com, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 3,🚩CF | 🔴 | trojan | 3YED | 0,🚩CF | 🔴 | trojan | 3YED | 10,❔XX | 🟢 | trojan | 3YED | 12,🚩CF | 🔴 | trojan | 3YED | 15,🚩CF | 🟢 | trojan | 3YED | 16
-URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 3,🚩CF | 🔴 | trojan | 3YED | 0,🚩CF | 🔴 | trojan | 3YED | 10,❔XX | 🟢 | trojan | 3YED | 12,🚩CF | 🔴 | trojan | 3YED | 15,🚩CF | 🟢 | trojan | 3YED | 16
-FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 3,🚩CF | 🔴 | trojan | 3YED | 0,🚩CF | 🔴 | trojan | 3YED | 10,❔XX | 🟢 | trojan | 3YED | 12,🚩CF | 🔴 | trojan | 3YED | 15,🚩CF | 🟢 | trojan | 3YED | 16
+MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 3,🚩CF | 🔴 | trojan | 3YED | 0,🚩CF | 🔴 | trojan | 3YED | 10,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 4,❔XX | 🔴 | trojan | 3YED | 6,❔XX | 🟢 | trojan | 3YED | 10,❔XX | 🔴 | trojan | 3YED | 16
+URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 3,🚩CF | 🔴 | trojan | 3YED | 0,🚩CF | 🔴 | trojan | 3YED | 10,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 4,❔XX | 🔴 | trojan | 3YED | 6,❔XX | 🟢 | trojan | 3YED | 10,❔XX | 🔴 | trojan | 3YED | 16
+FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 3,🚩CF | 🔴 | trojan | 3YED | 0,🚩CF | 🔴 | trojan | 3YED | 10,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 4,❔XX | 🔴 | trojan | 3YED | 6,❔XX | 🟢 | trojan | 3YED | 10,❔XX | 🔴 | trojan | 3YED | 16
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
