@@ -123,8 +123,8 @@ proxies:
   - {"name":"🇨🇳CN | 🟢 | vmess | 3YED | 17","type":"vmess","server":"183.236.51.23","port":"53002","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇺🇸US | 🔴 | trojan | 3YED | 5","type":"trojan","server":"153.75.250.171","port":49271,"udp":false,"password":"9ad83f65a560960e6509b677eb6162c1","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"153.75.250.171.sslip.io"}
   - {"name":"❔XX | 🟢 | vmess | 3YED | 4","type":"vmess","server":"ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub","port":"80","cipher":"auto","uuid":"46cfcfe1-e450-459d-a3ab-9406011ab3eb","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"tms.dingtalk.com"}}}
-  - {"name":"❔XX | 🟢 | vmess | 3YED | 6","type":"vmess","server":"198.2.234.98","port":"39771","cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"❔XX | 🟢 | vmess | 3YED | 7","type":"vmess","server":"slime-rhinestone-spy.glitch.me","port":"80","cipher":"auto","uuid":"1d5fb496-19fb-48fb-9880-a147326dee62","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/1d5fb496-19fb-48fb-9880-a147326dee62-vmess","headers":{"host":"best-charm-pediatrician.glitch.me"}}}
+  - {"name":"❔XX | 🟢 | vmess | 3YED | 8","type":"vmess","server":"188.245.73.139","port":"41858","cipher":"auto","uuid":"acbc72c9-5b2b-4be2-8ffd-262cda898a3a","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"❔XX | 🟢 | vmess | 3YED | 9","type":"vmess","server":"172.67.220.83","port":"443","cipher":"auto","uuid":"39cec18f-a439-427c-9a4e-aeb6fcdf6f53","alterId":"0","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/linkws","headers":{"host":"linja05.hwcar.sbs"}}}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -136,8 +136,8 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
       - '🇺🇸US | 🔴 | trojan | 3YED | 5'
       - '❔XX | 🟢 | vmess | 3YED | 4'
-      - '❔XX | 🟢 | vmess | 3YED | 6'
-      - '❔XX | 🟢 | vmess | 3YED | 7'
+      - '❔XX | 🟢 | vmess | 3YED | 8'
+      - '❔XX | 🟢 | vmess | 3YED | 9'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -149,8 +149,8 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
       - '🇺🇸US | 🔴 | trojan | 3YED | 5'
       - '❔XX | 🟢 | vmess | 3YED | 4'
-      - '❔XX | 🟢 | vmess | 3YED | 6'
-      - '❔XX | 🟢 | vmess | 3YED | 7'
+      - '❔XX | 🟢 | vmess | 3YED | 8'
+      - '❔XX | 🟢 | vmess | 3YED | 9'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -161,8 +161,8 @@ proxy-groups:
       - '🇨🇳CN | 🟢 | vmess | 3YED | 17'
       - '🇺🇸US | 🔴 | trojan | 3YED | 5'
       - '❔XX | 🟢 | vmess | 3YED | 4'
-      - '❔XX | 🟢 | vmess | 3YED | 6'
-      - '❔XX | 🟢 | vmess | 3YED | 7'
+      - '❔XX | 🟢 | vmess | 3YED | 8'
+      - '❔XX | 🟢 | vmess | 3YED | 9'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve
