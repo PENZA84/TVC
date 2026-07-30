@@ -15,11 +15,13 @@ DIRECT = direct
 ❔XX | 🔴 | trojan | 3YED | 1 = trojan, 163.245.196.68, 49361, password = 0ebb269c9f2d4e8e46b0cd4105a55134, udp-delay = true, skip-cert-verify = false, sni = 163.245.196.68.sslip.io, ws = false
 ❔XX | 🔴 | trojan | 3YED | 5 = trojan, 153.75.250.171, 49271, password = 9ad83f65a560960e6509b677eb6162c1, udp-delay = true, skip-cert-verify = false, sni = 153.75.250.171.sslip.io, ws = false
 🚩CF | 🔴 | trojan | 3YED | 9 = trojan, 104.18.152.246, 443, password = humanity, udp-delay = true, skip-cert-verify = false, sni = www.calmloud.com, ws = false
-🚩CF | 🔴 | trojan | 3YED | 7 = trojan, 104.17.147.11, 443, password = 0ab6c98dae3b48e8b9c4a776b6c9c19a, udp-delay = true, skip-cert-verify = false, sni = jobscareerfortoday.com, ws = false
+❔XX | 🔴 | trojan | 3YED | 0 = trojan, mmlplp.jorzel.ir, 19302, password = SYYNqV1JcxbIOdcV2i7fqw, udp-delay = true, skip-cert-verify = false, sni = www.yahoo.com, ws = false
+❔XX | 🔴 | trojan | 3YED | 11 = trojan, supersouth.xn--mesv7f5toqlp.club, 12004, password = dd04c158-1bac-47cd-99c1-5c4f64796dd5, udp-delay = true, skip-cert-verify = true, sni = supersouth.xn--mesv7f5toqlp.club, ws = false
+❔XX | 🔴 | trojan | 3YED | 14 = trojan, 91.193.58.201, 443, password = MiTiVPN, udp-delay = true, skip-cert-verify = false, sni = fl.App-Cloud.ir, ws = false
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 5,🚩CF | 🔴 | trojan | 3YED | 9,🚩CF | 🔴 | trojan | 3YED | 7
-URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 5,🚩CF | 🔴 | trojan | 3YED | 9,🚩CF | 🔴 | trojan | 3YED | 7
-FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 5,🚩CF | 🔴 | trojan | 3YED | 9,🚩CF | 🔴 | trojan | 3YED | 7
+MANUAL = select,URL-TEST,FALLBACK,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 5,🚩CF | 🔴 | trojan | 3YED | 9,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 11,❔XX | 🔴 | trojan | 3YED | 14
+URL-TEST = url-test,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 5,🚩CF | 🔴 | trojan | 3YED | 9,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 11,❔XX | 🔴 | trojan | 3YED | 14
+FALLBACK = fallback,🇨🇭CH | 🟢 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 1,❔XX | 🔴 | trojan | 3YED | 5,🚩CF | 🔴 | trojan | 3YED | 9,❔XX | 🔴 | trojan | 3YED | 0,❔XX | 🔴 | trojan | 3YED | 11,❔XX | 🔴 | trojan | 3YED | 14
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
